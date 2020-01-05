@@ -3,15 +3,15 @@
 
 ## !!!!DISCLAIMER!!!!
 
-THIS MODLIST IS EXPLICITLY NOT RECOMENDED FOR STARTERS SINCE YOU WILL MISSOUT ON A LOT OF EXPERIENCE GATHERED FROM ACTUALLY
-SETTING UP A MODORGANIZER INSTALLATION AND LEARNIG TO PROPERLY INSTALL AND MANAGE YOUR MODS YOUSELF!!!
+**THIS MODLIST IS EXPLICITLY NOT RECOMENDED FOR STARTERS SINCE YOU WILL MISSOUT ON A LOT OF EXPERIENCE GATHERED FROM ACTUALLY
+SETTING UP A MODORGANIZER INSTALLATION AND LEARNIG TO PROPERLY INSTALL AND MANAGE YOUR MODS YOUSELF!!!**
 
-----------------------------------------------------------------------------------------------------------------------------------------
+---
 
 1. General-Description !IMPORTANT!
 2. Installation 
 
-----------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ### 1.GENERAL-DESCRIPTION
 
@@ -29,6 +29,7 @@ is a better to have an AS Mods that places you in a "quiet" game cell to let all
 initial loading and giving you the time to set up the installed mods MCM Menus to your liking. 
 And I chose "ASLAL" over other "AS" simce it still allows you/players playing your modlist(based on this resource)
 a chance to experience the Vanilla start to the game.
+**Therefore feel free to use this as a basis for your modlists(but if you do so please mention it somewhere visible).**
 
 
 If you haven't modded before or without any method behind it or you can't make anything of the acronyms used in the section above would
@@ -52,7 +53,7 @@ https://www.youtube.com/watch?v=wA5IlESvtCM&list=PLlN8weLk86XiGXJI4DaRa1QIq1zhDp
 Now you should have the basic setup to start modding, and when doing so always check the description of the mod you are trying to install
 to check for incompatibilities and/or changes to the standard installation procedure, !AND ALWAYS CHECK FOR THE COMPATIBILTY WITH YOUR GAME AND SKSE64 VERSIONS!
 
-----------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ### 2.INSTALLATION
 
@@ -68,4 +69,4 @@ to check for incompatibilities and/or changes to the standard installation proce
 9. To Launch the game select SKSE in MO2 and hit launch, there you can also create MO2 shortcuts to automatically launch linked binaries trough MO2.
 10. Your MO2 Setup is now ready to start modding/ playing the most barebone PC friendly Skyrim experience.
 
-----------------------------------------------------------------------------------------------------------------------------------------
+---
