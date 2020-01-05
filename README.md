@@ -13,7 +13,7 @@ SETTING UP A MODORGANIZER INSTALLATION AND LEARNIG TO PROPERLY INSTALL AND MANAG
 
 ---
 
-### 1.GENERAL-DESCRIPTION
+### 1. GENERAL-DESCRIPTION
 
 This modlist aims to be a resource for modders with at least enough of an experience in skyrim modding in general, to be able to 
 trouble shoot your own modlists mith the documentation provided for the mods in their descriptions, preexisting guides on the
@@ -55,7 +55,7 @@ to check for incompatibilities and/or changes to the standard installation proce
 
 ---
 
-### 2.INSTALLATION
+### 2. INSTALLATION
 
 0. Put the Content of "Game Folder Files" into your Game Folder.
 1. Locate the BethINI.exe in "...\(name of the MO 2 folder)\tools\BethINI (ONLY LAUNCH WITH MO CLOSED)" and run it with the game and MO2 closed.
