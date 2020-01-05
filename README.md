@@ -58,7 +58,7 @@ to check for incompatibilities and/or changes to the standard installation proce
 ### 2.INSTALLATION
 
 0. Put the Content of "Game Folder Files" into your Game Folder.
-1. Locate the BethINI.exe in "...\(ame of the MO 2 folder)\tools\BethINI (ONLY LAUNCH WITH MO CLOSED)" and run it with the game and MO2 closed.
+1. Locate the BethINI.exe in "...\(name of the MO 2 folder)\tools\BethINI (ONLY LAUNCH WITH MO CLOSED)" and run it with the game and MO2 closed.
 2. In there go to the Setup tab and point BethINI to your ModOrganizer.EXE.
 3. Select the SME(FT) Profile
 4. Now you Select a Preset fitting your Hardware/Plans of adding an ENB
