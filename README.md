@@ -51,6 +51,9 @@ https://www.youtube.com/watch?v=3gLJOzsQE84&list=PLlN8weLk86XgJIZXTEPEcU1b6dzA_e
 How to Install + Use xEdit(SSEEdit):
 https://www.youtube.com/watch?v=wA5IlESvtCM&list=PLlN8weLk86XiGXJI4DaRa1QIq1zhDpD8V&index=1
 
+If you prefer reading here is a thread about most the stuff beginners in modding Skyrim should know:
+https://www.reddit.com/r/skyrimmods/wiki/begin2
+
 Now you should have the basic setup to start modding, and when doing so always check the description of the mod you are trying to install
 to check for incompatibilities and/or changes to the standard installation procedure. 
 
