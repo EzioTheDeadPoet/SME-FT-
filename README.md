@@ -51,7 +51,9 @@ How to Install + Use xEdit(SSEEdit):
 https://www.youtube.com/watch?v=wA5IlESvtCM&list=PLlN8weLk86XiGXJI4DaRa1QIq1zhDpD8V&index=1
 
 Now you should have the basic setup to start modding, and when doing so always check the description of the mod you are trying to install
-to check for incompatibilities and/or changes to the standard installation procedure, !AND ALWAYS CHECK FOR THE COMPATIBILTY WITH YOUR GAME AND SKSE64 VERSIONS!
+to check for incompatibilities and/or changes to the standard installation procedure. 
+
+!AND ALWAYS CHECK FOR THE COMPATIBILTY WITH YOUR GAME AND SKSE64 VERSIONS! (When modding on your own.)
 
 ---
 
