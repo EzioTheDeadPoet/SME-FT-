@@ -57,7 +57,8 @@ https://www.reddit.com/r/skyrimmods/wiki/begin2
 Now you should have the basic setup to start modding, and when doing so always check the description of the mod you are trying to install
 to check for incompatibilities and/or changes to the standard installation procedure. 
 
-**!AND ALWAYS CHECK FOR THE COMPATIBILTY WITH YOUR GAME AND SKSE64 VERSIONS! (When modding on your own.)**
+**!AND ALWAYS CHECK FOR THE COMPATIBILTY WITH YOUR GAME AND SKSE64 VERSIONS! 
+(When modding on your own.)**
 
 ---
 
