@@ -9,6 +9,7 @@ SETTING UP A MODORGANIZER INSTALLATION AND LEARNIG TO PROPERLY INSTALL AND MANAG
 ---
 
 [1. General-Description !IMPORTANT!](https://github.com/EzioTheDeadPoet/SME-FT-#1-general-description)
+
 [2. Installation ](https://github.com/EzioTheDeadPoet/SME-FT-#2-installation)
 
 ---
