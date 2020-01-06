@@ -35,7 +35,7 @@ a chance to experience the Vanilla start to the game.
 
 If you haven't modded before or without any method behind it or you can't make anything of the acronyms used in the section above would
 I highly advise you to use one of the other great and feature rich Modlists availabe for Wabbajack if you want more than a basic vanilla 
-experience ofn the game, but if you want something personalized for you you should follow this well produced Tutorial Playlists
+experience ofn the game, but if you want something personalized for you you should follow this well produced **Tutorial Playlists**
 (by Michael (Running the GamerPoets YT Channel:https://www.youtube.com/user/gamerpoets/about)) 
 and learn how to do it yourself to better understand
 why and how you are using certain (with this List preconfigured) Tools:
@@ -51,14 +51,15 @@ https://www.youtube.com/watch?v=3gLJOzsQE84&list=PLlN8weLk86XgJIZXTEPEcU1b6dzA_e
 How to Install + Use xEdit(SSEEdit):
 https://www.youtube.com/watch?v=wA5IlESvtCM&list=PLlN8weLk86XiGXJI4DaRa1QIq1zhDpD8V&index=1
 
-If you prefer reading here is a thread about most the stuff beginners in modding Skyrim should know:
+If you **prefer reading** here is a thread about most the stuff beginners in modding Skyrim should know:
 https://www.reddit.com/r/skyrimmods/wiki/begin2
 
 Now you should have the basic setup to start modding, and when doing so always check the description of the mod you are trying to install
 to check for incompatibilities and/or changes to the standard installation procedure. 
 
-**!AND ALWAYS CHECK FOR THE COMPATIBILTY WITH YOUR GAME AND SKSE64 VERSIONS! 
-(When modding on your own.)**
+**!AND ALWAYS CHECK FOR THE COMPATIBILTY WITH YOUR GAME AND SKSE64 VERSIONS!**
+
+**(When modding on your own.)**
 
 ---
 
