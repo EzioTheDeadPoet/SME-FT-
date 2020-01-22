@@ -78,3 +78,8 @@ to check for incompatibilities and/or changes to the standard installation proce
 10. Your MO2 Setup is now ready to start modding/ playing the most barebone PC friendly Skyrim experience.
 
 ---
+
+### 3. Included Patches
+
+If a mod I used has patches for other mods they are included but need to be enabled by you they are marked with a sperator 
+and each one of them has the mods the patch is for included in its name and/or a note inside of MO.
