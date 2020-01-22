@@ -13,6 +13,7 @@ SETTING UP A MODORGANIZER INSTALLATION AND LEARNIG TO PROPERLY INSTALL AND MANAG
 [2. Installation ](https://github.com/EzioTheDeadPoet/SME-FT-#2-installation)
 
 [3. Included Patches](https://github.com/EzioTheDeadPoet/SME-FT-/blob/master/README.md#3-included-patches)
+
 ---
 
 ### 1. GENERAL-DESCRIPTION
