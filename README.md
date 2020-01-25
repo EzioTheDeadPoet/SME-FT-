@@ -74,7 +74,8 @@ to check for incompatibilities and/or changes to the standard installation proce
 4. Now you Select a Preset fitting your Hardware/Plans of adding an ENB
 5. Save and Exit
 6. Either run the FNIS tool or disable "Fores New Idles in Skyrim SE - FNIS SE", "FNIS Spells SE", "FNIS Creature Pack SE" and "FNIS Output"
-7. If you plan on using DynDOLOD you need to download and install a Billboard mod fitting for your modlists set of weather mods yourself.
+~~7. If you plan on using DynDOLOD you need to download and install a Billboard mod fitting for your modlists set of weather mods yourself.~~
+7. Due to it being hosted on the LE Nexus and it is way harder to track updates as an SE user I dropped DynDOLOD from the list.
 8. All the other tools are added for your convinience but don't require an additional setup, if you don't plan on using them.
 9. To Launch the game select SKSE in MO2 and hit launch, there you can also create MO2 shortcuts to automatically launch linked binaries trough MO2.
 10. Your MO2 Setup is now ready to start modding/ playing the most barebone PC friendly Skyrim experience.
