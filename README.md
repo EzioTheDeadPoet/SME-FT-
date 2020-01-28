@@ -18,6 +18,8 @@ SETTING UP A MODORGANIZER INSTALLATION AND LEARNIG TO PROPERLY INSTALL AND MANAG
 
 ### 1. GENERAL-DESCRIPTION
 
+#### What is this list trying to offer ?
+
 This modlist aims to be a resource for modders with at least enough of an experience in skyrim modding in general, to be able to 
 trouble shoot your own modlists mith the documentation provided for the mods in their descriptions, preexisting guides on the
 matter of modding and the tools provided by the modding community and their documentation.
@@ -34,34 +36,56 @@ And I chose "ASLAL" over other "AS" simce it still allows you/players playing yo
 a chance to experience the Vanilla start to the game.
 **Therefore feel free to use this as a basis for your modlists(but if you do so please mention it somewhere visible).**
 
+#### How is it Organized ? 
 
-If you haven't modded before or without any method behind it or you can't make anything of the acronyms used in the section above would
-I highly advise you to use one of the other great and feature rich Modlists availabe for Wabbajack if you want more than a basic vanilla 
-experience ofn the game, but if you want something personalized for you you should follow this well produced **Tutorial Playlists**
-(by Michael (Running the GamerPoets YT Channel:https://www.youtube.com/user/gamerpoets/about)) 
-and learn how to do it yourself to better understand
-why and how you are using certain (with this List preconfigured) Tools:
-
-How to set properly install Skyrim for modding:
-
-Follow this or another guide(on how to move/create steam libraries) to move your Skyrim Installation Folder:
-https://www.youtube.com/watch?v=4FEc2DUIWQU
-
-How to mod Skyrim(a general Playlist with a lot of important steps):
-https://www.youtube.com/watch?v=3gLJOzsQE84&list=PLlN8weLk86XgJIZXTEPEcU1b6dzA_eJSB
-
-How to Install + Use xEdit(SSEEdit):
-https://www.youtube.com/watch?v=wA5IlESvtCM&list=PLlN8weLk86XiGXJI4DaRa1QIq1zhDpD8V&index=1
-
-If you **prefer reading** here is a thread about most the stuff beginners in modding Skyrim should know:
-https://www.reddit.com/r/skyrimmods/wiki/begin2
-
-Now you should have the basic setup to start modding, and when doing so always check the description of the mod you are trying to install
-to check for incompatibilities and/or changes to the standard installation procedure. 
-
-**!AND ALWAYS CHECK FOR THE COMPATIBILTY WITH YOUR GAME AND SKSE64 VERSIONS!**
-
-**(When modding on your own.)**
+   1. Tools (Accessable over the run menu and the shortcuts)
+      - [LOOT](https://github.com/loot/loot)
+      - [zEdit](https://github.com/z-edit/zedit)
+      - [SSEEdit](http://nexusmods.com/skyrimspecialedition/mods/164)
+      - [BodySlide and Outfit Studio](http://nexusmods.com/skyrimspecialedition/mods/201)
+      - [NifSkope](https://github.com/niftools/nifskope)
+      - [Merge Plugins](http://nexusmods.com/skyrim/mods/69905)
+      - [Mator Smash](http://nexusmods.com/skyrim/mods/90987)
+      - [BethINI](http://nexusmods.com/skyrimspecialedition/mods/4875)
+      
+   2. Game Fixes and Patches
+      - [Unofficial Skyrim Special Edition Patch](http://nexusmods.com/skyrimspecialedition/mods/266)
+      - [Assorted mesh fixes](http://nexusmods.com/skyrimspecialedition/mods/32117)
+      - [Dragon Stalking Fix](http://nexusmods.com/skyrimspecialedition/mods/14060)
+      - [Engine Fixes](http://nexusmods.com/skyrimspecialedition/mods/17230)
+      - [SSE Parallax Shader Fix](http://nexusmods.com/skyrimspecialedition/mods/31963)
+      - [SkyUI](http://nexusmods.com/skyrimspecialedition/mods/12604)
+      - [SkyUI SE - Flashing Savegames Fix](http://nexusmods.com/skyrimspecialedition/mods/20406)
+      - [More Informative Console](http://nexusmods.com/skyrimspecialedition/mods/19250)
+      - [HavokFix64](http://nexusmods.com/skyrimspecialedition/mods/18160)
+      - [Copy and Paste in Console](http://nexusmods.com/skyrimspecialedition/mods/30928)
+      - [Enchantment Reload Fix SE](http://nexusmods.com/skyrimspecialedition/mods/21055)
+      - [Animation Limit Crash Fix SSE](https://www.nexusmods.com/skyrimspecialedition/mods/31146)
+      - [Better Dialogue Controls](http://nexusmods.com/skyrimspecialedition/mods/1429)
+      - [Better MessageBox Controls](http://www.nexusmods.com/skyrimspecialedition/users/3238634)
+      - [Flora Respawn Fix SSE](http://nexusmods.com/skyrimspecialedition/mods/13186)
+      - [Protect Your People SE](http://nexusmods.com/skyrimspecialedition/mods/10297)
+      - [Modern Brawl Bug Fix](http://nexusmods.com/skyrimspecialedition/mods/1473)
+      - [First Person Sneak Strafe-Walk Stutter Fix](http://nexusmods.com/skyrimspecialedition/mods/31165)
+      - [No Spinning Death Animation](http://nexusmods.com/skyrimspecialedition/mods/1432)
+      - [Critters Aint Snitches](http://nexusmods.com/skyrimspecialedition/mods/15134)
+      - [Fixed body collision](http://nexusmods.com/skyrimspecialedition/mods/10849)
+      
+      //Done
+      
+   3. Mod Resources (All I could think off)
+      - [FileAccess Interface for Skyrim SE Scripts](http://nexusmods.com/skyrimspecialedition/mods/13956)
+      - [ConsoleUtilSSE](http://nexusmods.com/skyrimspecialedition/mods/24858)
+      - [powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854)
+      - [Fuz Ro D-oh - Silent Voice](https://www.nexusmods.com/skyrimspecialedition/mods/15109)
+      - []()
+      
+   4. Optional but highly recommended mods(that address issues with the main game that aren't bugs)
+      - [No BS AI Projectile Dodge](http://nexusmods.com/skyrimspecialedition/mods/1763)
+      - [Velexia's Animals are not Monsters SE](http://nexusmods.com/skyrimspecialedition/mods/32133)
+      - [GIST Soul Trap](http://nexusmods.com/skyrimspecialedition/mods/15755)
+      - [Wider MCM Menu for SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/22825)
+      - [StayAtSystemPageSE](http://nexusmods.com/skyrimspecialedition/mods/19832)
 
 ---
 
