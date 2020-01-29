@@ -82,7 +82,7 @@ a chance to experience the Vanilla start to the game.
       - [PapyrusUtil SE](http://nexusmods.com/skyrimspecialedition/mods/13048)
       - [JContainers SE](http://nexusmods.com/skyrimspecialedition/mods/16495)
       
-   4. Optional but highly recommended mods(that address issues with the main game that aren't really bugs but bugging enough to patch)
+   4. Optional but highly recommended mods(that address issues with the main game that aren't really bugs)
       - [RaceMenu](http://nexusmods.com/skyrimspecialedition/mods/19080)
       - [Alternate Start - Live Another Life](http://nexusmods.com/skyrimspecialedition/mods/272)
       - [No BS AI Projectile Dodge](http://nexusmods.com/skyrimspecialedition/mods/1763)
