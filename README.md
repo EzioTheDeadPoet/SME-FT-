@@ -39,6 +39,8 @@ a chance to experience the Vanilla start to the game.
 
 #### How is it Organized ? 
 
+This list consists of 4 categories:
+
    1. Tools (Accessable over the run menu and the shortcuts)
       - [LOOT](https://github.com/loot/loot)
       - [zEdit](https://github.com/z-edit/zedit)
