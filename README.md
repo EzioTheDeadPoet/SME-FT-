@@ -32,7 +32,7 @@ exchanged for "ECE" (which I didn't use since how I understand the general conse
 and the other one would be "ASLAL" which is included since it is again general consens, that it
 is a better to have an AS Mods that places you in a "quiet" game cell to let all the installed mods finish their 
 initial loading and giving you the time to set up the installed mods MCM Menus to your liking. 
-And I chose "ASLAL" over other "AS" simce it still allows you/players playing your modlist(based on this resource)
+And I chose "ASLAL" over another "AS" since it still allows you/players playing your modlist
 a chance to experience the Vanilla start to the game.
 **Therefore feel free to use this as a basis for your modlists(but if you do so please mention it somewhere visible).**
 
@@ -64,15 +64,12 @@ a chance to experience the Vanilla start to the game.
       - [Better Dialogue Controls](http://nexusmods.com/skyrimspecialedition/mods/1429)
       - [Better MessageBox Controls](http://www.nexusmods.com/skyrimspecialedition/users/3238634)
       - [Flora Respawn Fix SSE](http://nexusmods.com/skyrimspecialedition/mods/13186)
-      - [Protect Your People SE](http://nexusmods.com/skyrimspecialedition/mods/10297)
       - [Modern Brawl Bug Fix](http://nexusmods.com/skyrimspecialedition/mods/1473)
       - [First Person Sneak Strafe-Walk Stutter Fix](http://nexusmods.com/skyrimspecialedition/mods/31165)
       - [No Spinning Death Animation](http://nexusmods.com/skyrimspecialedition/mods/1432)
       - [Critters Aint Snitches](http://nexusmods.com/skyrimspecialedition/mods/15134)
       - [Fixed body collision](http://nexusmods.com/skyrimspecialedition/mods/10849)
-      
-      //Done
-      
+           
    3. Mod Resources (All I could think off)
       - [Skyrim Skrip Extender SKSE64](https://skse.silverlock.org/beta/skse64_2_00_17.7z)
       - [FileAccess Interface for Skyrim SE Scripts](http://nexusmods.com/skyrimspecialedition/mods/13956)
@@ -85,11 +82,14 @@ a chance to experience the Vanilla start to the game.
       - [JContainers SE](http://nexusmods.com/skyrimspecialedition/mods/16495)
       
    4. Optional but highly recommended mods(that address issues with the main game that aren't bugs)
+      - [RaceMenu](http://nexusmods.com/skyrimspecialedition/mods/19080)
+      - [Alternate Start - Live Another Life](http://nexusmods.com/skyrimspecialedition/mods/272)
       - [No BS AI Projectile Dodge](http://nexusmods.com/skyrimspecialedition/mods/1763)
       - [Velexia's Animals are not Monsters SE](http://nexusmods.com/skyrimspecialedition/mods/32133)
       - [GIST Soul Trap](http://nexusmods.com/skyrimspecialedition/mods/15755)
       - [Wider MCM Menu for SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/22825)
       - [StayAtSystemPageSE](http://nexusmods.com/skyrimspecialedition/mods/19832)
+      - [Protect Your People SE](http://nexusmods.com/skyrimspecialedition/mods/10297)
 
 ---
 
