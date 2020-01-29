@@ -48,6 +48,7 @@ a chance to experience the Vanilla start to the game.
       - [Merge Plugins](http://nexusmods.com/skyrim/mods/69905)
       - [Mator Smash](http://nexusmods.com/skyrim/mods/90987)
       - [BethINI](http://nexusmods.com/skyrimspecialedition/mods/4875)
+      - [WyreBash](https://www.nexusmods.com/skyrimspecialedition/mods/6837)
       
    2. Game Fixes and Patches
       - [Unofficial Skyrim Special Edition Patch](http://nexusmods.com/skyrimspecialedition/mods/266)
