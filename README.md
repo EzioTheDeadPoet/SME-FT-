@@ -74,11 +74,15 @@ a chance to experience the Vanilla start to the game.
       //Done
       
    3. Mod Resources (All I could think off)
+      - [Skyrim Skrip Extender SKSE64](https://skse.silverlock.org/beta/skse64_2_00_17.7z)
       - [FileAccess Interface for Skyrim SE Scripts](http://nexusmods.com/skyrimspecialedition/mods/13956)
       - [ConsoleUtilSSE](http://nexusmods.com/skyrimspecialedition/mods/24858)
       - [powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854)
       - [Fuz Ro D-oh - Silent Voice](https://www.nexusmods.com/skyrimspecialedition/mods/15109)
-      - []()
+      - [UIExtensions](http://nexusmods.com/skyrimspecialedition/mods/17561)
+      - [Fores New Idles in Skyrim SE - FNIS SE](https://www.nexusmods.com/skyrimspecialedition/mods/3038)
+      - [PapyrusUtil SE](http://nexusmods.com/skyrimspecialedition/mods/13048)
+      - [JContainers SE](http://nexusmods.com/skyrimspecialedition/mods/16495)
       
    4. Optional but highly recommended mods(that address issues with the main game that aren't bugs)
       - [No BS AI Projectile Dodge](http://nexusmods.com/skyrimspecialedition/mods/1763)
