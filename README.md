@@ -84,6 +84,8 @@ This list consists of 4 categories:
       - [Fores New Idles in Skyrim SE - FNIS SE](https://www.nexusmods.com/skyrimspecialedition/mods/3038)
       - [PapyrusUtil SE](http://nexusmods.com/skyrimspecialedition/mods/13048)
       - [JContainers SE](http://nexusmods.com/skyrimspecialedition/mods/16495)
+      - [Project New Reign - Nemesis Main](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main)
+      - [Project New Reign - Nemesis PCEA](https://www.nexusmods.com/skyrimspecialedition/mods/31667?tab=description)
       
    4. Optional but highly recommended mods(that address issues with the main game that aren't really bugs)
       - [RaceMenu](http://nexusmods.com/skyrimspecialedition/mods/19080)
@@ -102,11 +104,11 @@ This list consists of 4 categories:
 0. Put the Content of "Game Folder Files" into your Game Folder.
 1. Locate the BethINI.exe in "...\(name of the MO 2 folder)\tools\BethINI (ONLY LAUNCH WITH MO CLOSED)" and run it with the game and MO2 closed.
 2. In there go to the Setup tab and point BethINI to your ModOrganizer.EXE.
-3. Select the SME(FT) Profile
+3. Select the SME(FT) Profile you intend to use
 4. Now you Select a Preset fitting your Hardware/Plans of adding an ENB
 5. Save and Exit
-6. Open ModOrganizer  
-7. Either run the FNIS tool or disable "Fores New Idles in Skyrim SE - FNIS SE", "FNIS Spells SE", "FNIS Creature Pack SE" and "FNIS Output"  
+6. Open ModOrganizer and select a profile you want to use as your basis
+7. Either run the FNIS tool or Nemesis as if you had just installed them (if you selected one of those profiles)
 8. All the other tools are added for your convinience but don't require an additional setup, if you don't plan on using them.
 9. To Launch the game select SKSE in MO2 and hit launch, there you can also create MO2 shortcuts to automatically launch linked binaries trough MO2.
 10. Your MO2 Setup is now ready to start modding/ playing the most barebone PC friendly Skyrim experience.
