@@ -47,7 +47,6 @@ This list consists of 4 categories:
       - [SSEEdit](http://nexusmods.com/skyrimspecialedition/mods/164)
       - [BodySlide and Outfit Studio](http://nexusmods.com/skyrimspecialedition/mods/201)
       - [NifSkope](https://github.com/niftools/nifskope)
-      - [Merge Plugins](http://nexusmods.com/skyrim/mods/69905)
       - [Mator Smash](http://nexusmods.com/skyrim/mods/90987)
       - [BethINI](http://nexusmods.com/skyrimspecialedition/mods/4875)
       - [WyreBash](https://www.nexusmods.com/skyrimspecialedition/mods/6837)
