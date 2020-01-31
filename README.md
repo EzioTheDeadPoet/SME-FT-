@@ -111,11 +111,11 @@ This list consists of 4 categories:
 8. All the other tools are added for your convinience but don't require an additional setup, if you don't plan on using them.
 9. To Launch the game select SKSE in MO2 and hit launch, there you can also create MO2 shortcuts to automatically launch linked binaries trough MO2.
 10. Your MO2 Setup is now ready to start modding/ playing the most barebone PC friendly Skyrim experience.
-11. When adding Mods look out for incompatibilities and the [Patches](https://github.com/EzioTheDeadPoet/SME-FT-/blob/master/README.md#3-included-patches) section below.
+11. When adding Mods look out for possible incompatibilities and the [Patches](https://github.com/EzioTheDeadPoet/SME-FT-/blob/master/README.md#3-included-patches) section below.
 
 ---
 
 ### 3. Included Patches
 
-If a mod I used has patches for other mods they are included but need to be enabled by you they are ~~marked with a sperator~~ 
-the only mods enabled in the `SME(FT) - Optional Downloads` Profile and each one of them has the mods the patch is for included in its name and/or a note inside of MO.
+If a mod I used has patches for other mods they are included but need to be enabled by you they are marked ~~with a sperator~~ 
+by being the only mods enabled in the `SME(FT) - Optional Downloads` Profile and each one of them has the mods the patch is for included in its name and/or a note inside of MO.
