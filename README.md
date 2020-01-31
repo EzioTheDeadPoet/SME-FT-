@@ -117,5 +117,5 @@ This list consists of 4 categories:
 
 ### 3. Included Patches
 
-If a mod I used has patches for other mods they are included but need to be enabled by you they are marked with a sperator 
-and each one of them has the mods the patch is for included in its name and/or a note inside of MO.
+If a mod I used has patches for other mods they are included but need to be enabled by you they are ~~marked with a sperator~~ 
+the only mods enabled in the `SME(FT) - Optional Downloads` Profile and each one of them has the mods the patch is for included in its name and/or a note inside of MO.
