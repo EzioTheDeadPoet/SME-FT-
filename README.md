@@ -85,6 +85,7 @@ This list consists of 4 categories:
       - [JContainers SE](http://nexusmods.com/skyrimspecialedition/mods/16495)
       - [Project New Reign - Nemesis Main](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main)
       - [Project New Reign - Nemesis PCEA](https://www.nexusmods.com/skyrimspecialedition/mods/31667?tab=description)
+      - [SimpleAddItems 2.0 - a zEdit module for leveled lists and containers](https://www.nexusmods.com/skyrimspecialedition/mods/32319?tab=description)
       
    4. Optional but highly recommended mods(that address issues with the main game that aren't really bugs)
       - [RaceMenu](http://nexusmods.com/skyrimspecialedition/mods/19080)
@@ -117,5 +118,6 @@ This list consists of 4 categories:
 
 ### 3. Included Patches
 
-If a mod I used has patches for other mods they are included but need to be enabled by you they are marked ~~with a sperator~~ 
-by being the only mods enabled in the `SME(FT) - Optional Downloads` Profile and each one of them has the mods the patch is for included in its name and/or a note inside of MO.
+If a mod I used has patches for other mods they are included but need to be enabled by you they are marked 
+by being the only mods enabled in the `SME(FT) - Optional Downloads` Profile and are art of the patch mod category of MO. 
+Each one of them has the mods the patch is for included in its name and/or a note inside of MO.
