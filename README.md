@@ -75,6 +75,8 @@ This list consists of 4 categories:
       - [Actor Movement Limit Fix](https://www.nexusmods.com/skyrimspecialedition/mods/32349?tab=files)
            
    3. Mod Resources (All I could think off)
+      - [DLL Plugin Loader](https://www.nexusmods.com/skyrimspecialedition/mods/10546)
+      - [.NET Script Framework](https://www.nexusmods.com/skyrimspecialedition/mods/21294)
       - [Skyrim Skrip Extender SKSE64](https://skse.silverlock.org/beta/skse64_2_00_17.7z)
       - [FileAccess Interface for Skyrim SE Scripts](http://nexusmods.com/skyrimspecialedition/mods/13956)
       - [ConsoleUtilSSE](http://nexusmods.com/skyrimspecialedition/mods/24858)
