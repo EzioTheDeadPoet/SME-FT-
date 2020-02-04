@@ -72,6 +72,7 @@ This list consists of 4 categories:
       - [No Spinning Death Animation](http://nexusmods.com/skyrimspecialedition/mods/1432)
       - [Critters Aint Snitches](http://nexusmods.com/skyrimspecialedition/mods/15134)
       - [Fixed body collision](http://nexusmods.com/skyrimspecialedition/mods/10849)
+      - [Actor Movement Limit Fix](https://www.nexusmods.com/skyrimspecialedition/mods/32349?tab=files)
            
    3. Mod Resources (All I could think off)
       - [Skyrim Skrip Extender SKSE64](https://skse.silverlock.org/beta/skse64_2_00_17.7z)
