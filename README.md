@@ -19,7 +19,7 @@
 
 #### What is this list trying to offer ?
 
-This modlist aims to be a resource for modders with at least enough of an experience in skyrim modding in general, to be able to 
+This modlist aims to be a resource for modders with at least enough of an experience in skyrim modding in general, to be able to
 trouble shoot their own modlists mith the documentation provided for the mods in their descriptions, preexisting guides on the
 matter of modding and the tools provided by the modding community and their documentations.
 Or people who just want a vanilla experience with all the unofficial patches and fixes.
@@ -27,15 +27,15 @@ One resource I highly recommend is [this Guide](https://www.reddit.com/r/skyrimm
 
 This modlist is intended to bring the most common tools and fixes for skyrim and integrate them in an Organized maner so modlist creators
 and modders have an easier way of getting a stable initial semivanilla setup with only a little effort.
-Some of the mods might want to be exchanged by personal preference, which would be for example "Racemenu" which could be 
-exchanged for "ECE" (which I didn't use since how I understand the general consens it is the less popular/used character 
-editor also a lot of mods depend on Racemenu rather than ECE) and the other one would be "ASLAL" which is included since it is again general consens, 
-that it is a better to have an AS Mods that places you in a "quiet" game cell to let all the installed mods finish their 
-initial loading and giving you the time to set up the installed mods MCM Menus to your liking. 
+Some of the mods might want to be exchanged by personal preference, which would be for example "Racemenu" which could be
+exchanged for "ECE" (which I didn't use since how I understand the general consens it is the less popular/used character
+editor also a lot of mods depend on Racemenu rather than ECE) and the other one would be "ASLAL" which is included since it is again general consens,
+that it is a better to have an AS Mods that places you in a "quiet" game cell to let all the installed mods finish their
+initial loading and giving you the time to set up the installed mods MCM Menus to your liking.
 And I chose "ASLAL" over another "AS" since it still allows you/players playing your modlist a chance to experience the Vanilla start to the game.
 **Therefore feel free to use this as a basis for your modlists(but if you do so please mention it somewhere visible).**
 
-#### How is it Organized ? 
+#### How is it Organized ?
 
 This list consists of 4 categories:
 
@@ -48,7 +48,7 @@ This list consists of 4 categories:
       - [Mator Smash](http://nexusmods.com/skyrim/mods/90987)
       - [BethINI](http://nexusmods.com/skyrimspecialedition/mods/4875)
       - [WyreBash](https://www.nexusmods.com/skyrimspecialedition/mods/6837)
-      
+
    2. Game Fixes and Patches
       - [Unofficial Skyrim Special Edition Patch](http://nexusmods.com/skyrimspecialedition/mods/266)
       - [Assorted mesh fixes](http://nexusmods.com/skyrimspecialedition/mods/32117)
@@ -71,8 +71,8 @@ This list consists of 4 categories:
       - [Critters Aint Snitches](http://nexusmods.com/skyrimspecialedition/mods/15134)
       - [Fixed body collision](http://nexusmods.com/skyrimspecialedition/mods/10849)
       - [Actor Movement Limit Fix](https://www.nexusmods.com/skyrimspecialedition/mods/32349?tab=files)
-           
-   3. Mod Resources 
+
+   3. Mod Resources
       - [DLL Plugin Loader](https://www.nexusmods.com/skyrimspecialedition/mods/10546)
       - [.NET Script Framework](https://www.nexusmods.com/skyrimspecialedition/mods/21294)
       - [Skyrim Skrip Extender SKSE64](https://skse.silverlock.org/beta/skse64_2_00_17.7z)
@@ -87,7 +87,7 @@ This list consists of 4 categories:
       - [Project New Reign - Nemesis Main](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main)
       - [Project New Reign - Nemesis PCEA](https://www.nexusmods.com/skyrimspecialedition/mods/31667?tab=description)
       - [SimpleAddItems 2.0 - a zEdit module for leveled lists and containers](https://www.nexusmods.com/skyrimspecialedition/mods/32319?tab=description)
-      
+
    4. Optional but highly recommended mods(that address issues with the main game that aren't really bugs)
       - [RaceMenu](http://nexusmods.com/skyrimspecialedition/mods/19080)
       - [Alternate Start - Live Another Life](http://nexusmods.com/skyrimspecialedition/mods/272)
@@ -102,23 +102,23 @@ This list consists of 4 categories:
 
 ### 2. INSTALLATION
 
-0. Put the Content of "Game Folder Files" into your Game Folder.
-1. Locate the BethINI.exe in "...\(name of the MO 2 folder)\tools\BethINI (ONLY LAUNCH WITH MO CLOSED)" and run it with the game and MO2 closed.
-2. In there go to the Setup tab and point BethINI to your ModOrganizer.EXE.
-3. Select the SME(FT) Profile you intend to use
-4. Now you Select a Preset fitting your Hardware/Plans of adding an ENB
-5. Save and Exit
-6. Open ModOrganizer and select a profile you want to use as your basis
-7. Either run the FNIS tool or Nemesis as if you had just installed them (if you selected one of those profiles)
-8. All the other tools are added for your convinience but don't require an additional setup, if you don't plan on using them.
-9. To Launch the game select SKSE in MO2 and hit launch, there you can also create MO2 shortcuts to automatically launch linked binaries trough MO2.
-10. Your MO2 Setup is now ready to start modding/ playing the most barebone PC friendly Skyrim experience.
-11. When adding Mods look out for possible incompatibilities and the [Patches](https://github.com/EzioTheDeadPoet/SME-FT-/blob/master/README.md#3-included-patches) section below.
+1. Put the Content of "Game Folder Files" into your Game Folder.
+2. Locate the BethINI.exe in "...\(name of the MO 2 folder)\tools\BethINI (ONLY LAUNCH WITH MO CLOSED)" and run it with the game and MO2 closed.
+3. In there go to the Setup tab and point BethINI to your ModOrganizer.EXE.
+4. Select the SME(FT) Profile you intend to use
+5. Now you Select a Preset fitting your Hardware/Plans of adding an ENB
+6. Save and Exit
+7. Open ModOrganizer and select a profile you want to use as your basis
+8. Either run the FNIS tool or Nemesis as if you had just installed them (if you selected one of those profiles)
+9. All the other tools are added for your convinience but don't require an additional setup, if you don't plan on using them.
+10. To Launch the game select SKSE in MO2 and hit launch, there you can also create MO2 shortcuts to automatically launch linked binaries trough MO2.
+11. Your MO2 Setup is now ready to start modding/ playing the most barebone PC friendly Skyrim experience.
+12. When adding Mods look out for possible incompatibilities and the [Patches](https://github.com/EzioTheDeadPoet/SME-FT-/blob/master/README.md#3-included-patches) section below.
 
 ---
 
 ### 3. Included Patches
 
-If a mod I used has patches for other mods they are included but need to be enabled by you they are marked 
-by being the only mods enabled in the `SME(FT) - Optional Downloads` Profile and are art of the patch mod category of MO. 
+If a mod I used has patches for other mods they are included but need to be enabled by you they are marked
+by being the only mods enabled in the `SME(FT) - Optional Downloads` Profile and are art of the patch mod category of MO.
 Each one of them has the mods the patch is for included in its name and/or a note inside of MO.
