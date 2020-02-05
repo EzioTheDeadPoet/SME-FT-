@@ -25,7 +25,7 @@ matter of modding and the tools provided by the modding community and their docu
 Or people who just want a vanilla experience with all the unofficial patches and fixes.
 One resource I highly recommend is [this Guide](https://www.reddit.com/r/skyrimmods/wiki/begin2) on how to get started.
 
-This resoucre is intended to bring the most common tools and fixes for skyrim and integrate them in an Organized maner so modlist creators
+This modlist is intended to bring the most common tools and fixes for skyrim and integrate them in an Organized maner so modlist creators
 and modders have an easier way of getting a stable initial semivanilla setup with only a little effort.
 Some of the mods might want to be exchanged by personal preference, which would be "Racemenu" which could be 
 exchanged for "ECE" (which I didn't use since how I understand the general consens it is the less popular/used character editor)
