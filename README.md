@@ -19,7 +19,7 @@
 #### What is this list trying to offer ?
 
 This modlist aims to be a resource for modders with at least enough of an experience in skyrim modding in general, to be able to
-trouble shoot their own modlists mith the documentation provided for the mods in their descriptions, preexisting guides on the
+trouble shoot their own modlists with the documentation provided for the mods in their descriptions, preexisting guides on the
 matter of modding and the tools provided by the modding community and their documentations.
 Or people who just want a vanilla experience with all the unofficial patches and fixes.
 One resource I highly recommend is [this Guide](https://www.reddit.com/r/skyrimmods/wiki/begin2) on how to get started.
