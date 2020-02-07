@@ -101,18 +101,20 @@ This list consists of 4 categories:
 
 ### 2. INSTALLATION
 
-1. Put the Content of "Game Folder Files" into your Game Folder.
-2. Locate the BethINI.exe in "...\(name of the MO 2 folder)\tools\BethINI (ONLY LAUNCH WITH MO CLOSED)" and run it with the game and MO2 closed.
-3. In there go to the Setup tab and point BethINI to your ModOrganizer.EXE.
-4. Select the SME(FT) Profile you intend to use
-5. Now you Select a Preset fitting your Hardware/Plans of adding an ENB
-6. Save and Exit
-7. Open ModOrganizer and select a profile you want to use as your basis
-8. Either run the FNIS tool or Nemesis as if you had just installed them (if you selected one of those profiles)
-9. All the other tools are added for your convinience but don't require an additional setup, if you don't plan on using them.
-10. To Launch the game select SKSE in MO2 and hit launch, there you can also create MO2 shortcuts to automatically launch linked binaries trough MO2.
-11. Your MO2 Setup is now ready to start modding/ playing the most barebone PC friendly Skyrim experience.
-12. When adding Mods look out for possible incompatibilities and the [Patches](https://github.com/EzioTheDeadPoet/SME-FT-/blob/master/README.md#3-included-patches) section below.
+1. Install the List using the apropriate Wabbajack version.
+2. Open the Install Folder there navigate to Gamefolder Files.
+3. In there rename the `binkw64.dll` to `binkw64_.dll`.
+4. Now put the Content of "Game Folder Files" into your Game Folder.
+5. Locate the BethINI.exe in "...\(name of the MO 2 folder)\tools\BethINI (ONLY LAUNCH WITH MO CLOSED)" and run it with the game and MO2 closed.
+6. In there go to the Setup tab and point BethINI to your ModOrganizer.EXE.
+7. Select the SME(FT) Profile you intend to use
+8. Now you Select a Preset fitting your Hardware/Plans of adding an ENB
+9. Save and Exit
+10. Open ModOrganizer and select a profile you want to use as your basis
+11. Either run the FNIS tool or Nemesis as if you had just installed them (if you selected one of those profiles)
+12. To Launch the game select SKSE in MO2 and hit launch, there you can also create MO2 shortcuts to automatically launch linked binaries trough MO2.
+13. Your MO2 Setup is now ready to start modding/ playing the most barebone PC friendly Skyrim experience.
+14. When adding Mods look out for possible incompatibilities and the [Patches](https://github.com/EzioTheDeadPoet/SME-FT-/blob/master/README.md#3-included-patches) section below.
 
 ---
 
