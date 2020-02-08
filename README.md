@@ -121,5 +121,5 @@ This list consists of 4 categories:
 ### 3. Included Patches
 
 If a mod I used has patches for other mods they are included but need to be enabled by you they are marked
-by being the only mods enabled in the `SME(FT) - Optional Downloads` Profile and are art of the patch mod category of MO.
+by being the only mods enabled in the `SME(FT) - Optional Downloads` Profile and are part of the patch mod category of MO.
 Each one of them has the mods the patch is for included in its name and/or a note inside of MO.
