@@ -1,6 +1,6 @@
-# SME(FT) - Skyrim Modding Essentials (Fixes & Tools)
+# **SME(FT) - Skyrim Modding Essentials (Fixes & Tools)**
 
-## !!!!DISCLAIMER!!!!
+## **!!!!DISCLAIMER!!!!**
 
 **THIS MODLIST IS ONLY A BASIS TO START YOUR OWN MODDING JOURNEY AND INCLUDES ALL THE FIXES AND TOOLS KNOWN TO ME WITH A FEW ADDED RECOMMENDATIONS!!!**
 
@@ -14,9 +14,9 @@
 
 ---
 
-### 1. GENERAL-DESCRIPTION
+### **1. GENERAL-DESCRIPTION**
 
-#### What is this list trying to offer ?
+#### **What is this list trying to offer ?**
 
 This modlist aims to be a resource for modders with at least enough of an experience in skyrim modding in general, to be able to
 trouble shoot their own modlists with the documentation provided for the mods in their descriptions, preexisting guides on the
@@ -34,7 +34,7 @@ initial loading and giving you the time to set up the installed mods MCM Menus t
 And I chose "ASLAL" over another "AS" since it still allows you/players playing your modlist a chance to experience the Vanilla start to the game.
 **Therefore feel free to use this as a basis for your modlists(but if you do so please mention it somewhere visible).**
 
-#### How is it Organized ?
+#### **How is it Organized ?**
 
 This list consists of 4 categories:
 
@@ -105,7 +105,7 @@ This list consists of 4 categories:
 2. Open the Install Folder there navigate to Gamefolder Files.
 3. In there rename the `binkw64.dll` to `binkw64_.dll`.
 4. Now put the Content of "Game Folder Files" into your Game Folder.
-5. Locate the BethINI.exe in "...\(name of the MO 2 folder)\tools\BethINI (ONLY LAUNCH WITH MO CLOSED)" and run it with the game and MO2 closed.
+5. Locate the BethINI.exe in "...\\(name of the MO 2 folder)\tools\BethINI (ONLY LAUNCH WITH MO CLOSED)" and run it with the game and MO2 closed.
 6. In there go to the Setup tab and point BethINI to your ModOrganizer.EXE.
 7. Select the SME(FT) Profile you intend to use
 8. Now you Select a Preset fitting your Hardware/Plans of adding an ENB
