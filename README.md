@@ -111,11 +111,13 @@ This list consists of 4 categories:
 8. Now you Select a Preset fitting your Hardware/Plans of adding an ENB
 9. Save and Exit
 10. Open ModOrganizer and select a profile you want to use as your basis
-11. Either run the FNIS tool or Nemesis as if you had just installed them (if you selected one of those profiles)
-12. To Launch the game select SKSE in MO2 and hit launch, there you can also create MO2 shortcuts to automatically launch linked binaries trough MO2.
-13. Your MO2 Setup is now ready to start modding/ playing the most barebone PC friendly Skyrim experience.
-14. When adding Mods look out for possible incompatibilities and the [Patches](https://github.com/EzioTheDeadPoet/SME-FT-/blob/master/README.md#3-included-patches) section below.
-15. Don't try to play the `SME(FT) - Installation` Profile since it is a dummy profile, to keep disabled mods in the right oder in all the profiles.
+11. Click here ![(restore backup)](https://github.com/EzioTheDeadPoet/SME-FT-/raw/master/backup.png) And restore the lastest backup made by me for every Profile u may be using.
+12. This is to have the list sorted in the way it was intended by me while writing my guide.
+13. Either run the FNIS tool or Nemesis as if you had just installed them (if you selected one of those profiles)
+14. To Launch the game select SKSE in MO2 and hit launch, there you can also create MO2 shortcuts to automatically launch linked binaries trough MO2.
+15. Your MO2 Setup is now ready to start modding/ playing the most barebone PC friendly Skyrim experience.
+16. When adding Mods look out for possible incompatibilities and the [Patches](https://github.com/EzioTheDeadPoet/SME-FT-/blob/master/README.md#3-included-patches) section below.
+17. Don't try to play the `SME(FT) - Installation` Profile since it is a dummy profile, to keep disabled mods in the right oder in all the profiles.
 
 ---
 
