@@ -8,7 +8,7 @@
 
 [1. General-Description !IMPORTANT!](https://github.com/EzioTheDeadPoet/SME-FT-#1-general-description)
 
-[2. Installation ](https://github.com/EzioTheDeadPoet/SME-FT-#2-installation)
+[2. Installation](https://github.com/EzioTheDeadPoet/SME-FT-#2-installation)
 
 [3. Included Patches](https://github.com/EzioTheDeadPoet/SME-FT-/blob/master/README.md#3-included-patches)
 
