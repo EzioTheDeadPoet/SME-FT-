@@ -70,6 +70,7 @@ This list consists of 4 categories:
       - [Critters Aint Snitches](http://nexusmods.com/skyrimspecialedition/mods/15134)
       - [Fixed body collision](http://nexusmods.com/skyrimspecialedition/mods/10849)
       - [Actor Movement Limit Fix](https://www.nexusmods.com/skyrimspecialedition/mods/32349?tab=files)
+      - [Fix Note icon for SkyUI (SKSE64 plugin)](https://www.nexusmods.com/skyrimspecialedition/mods/32561)
 
    3. Mod Resources
       - [DLL Plugin Loader](https://www.nexusmods.com/skyrimspecialedition/mods/10546)
