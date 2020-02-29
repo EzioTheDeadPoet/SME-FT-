@@ -87,6 +87,8 @@ This list consists of 4 categories:
       - [Project New Reign - Nemesis Main](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main)
       - [Project New Reign - Nemesis PCEA](https://www.nexusmods.com/skyrimspecialedition/mods/31667?tab=description)
       - [SimpleAddItems 2.0 - a zEdit module for leveled lists and containers](https://www.nexusmods.com/skyrimspecialedition/mods/32319?tab=description)
+      - [Address Library for SKSE Plugins](https://www.nexusmods.com/skyrimspecialedition/mods/32444)
+      - [Scaleform Translation Plus Plus](https://www.nexusmods.com/skyrimspecialedition/mods/22603)
 
    4. Optional but highly recommended mods(that address issues with the main game that aren't really bugs)
       - [RaceMenu](http://nexusmods.com/skyrimspecialedition/mods/19080)
@@ -97,6 +99,8 @@ This list consists of 4 categories:
       - [Wider MCM Menu for SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/22825)
       - [StayAtSystemPageSE](http://nexusmods.com/skyrimspecialedition/mods/19832)
       - [Protect Your People SE](http://nexusmods.com/skyrimspecialedition/mods/10297)
+      - [Whose Quest Is It Anyway](https://www.nexusmods.com/skyrimspecialedition/mods/23581)
+      - [Notification Log SSE](https://www.nexusmods.com/skyrimspecialedition/mods/27707)
 
 ---
 
