@@ -131,3 +131,5 @@ This list consists of 4 categories:
 If a mod I used has patches for other mods they are included but need to be enabled by you they are marked
 by being placed under the `INCLUDED PATCHES` separator and are part of the patch mod category of MO.
 Each one of them has the mods the patch is for included in its name and/or a note inside of MO.
+If a mod has a patch instead of merging it manually I would advice to check the modpage if there isn't a merged patch
+already.
