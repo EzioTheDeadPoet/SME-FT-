@@ -72,6 +72,7 @@ This list consists of 4 categories:
       - [Actor Movement Limit Fix](https://www.nexusmods.com/skyrimspecialedition/mods/32349?tab=files)
       - [Fix Note icon for SkyUI (SKSE64 plugin)](https://www.nexusmods.com/skyrimspecialedition/mods/32561)
       - [Bug Fixes SSE](https://www.nexusmods.com/skyrimspecialedition/mods/33261)
+      - [SSE Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/10547)
 
    3. Mod Resources
       - [DLL Plugin Loader](https://www.nexusmods.com/skyrimspecialedition/mods/10546)
