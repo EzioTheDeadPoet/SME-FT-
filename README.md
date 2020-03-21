@@ -73,6 +73,13 @@ This list consists of 4 categories:
       - [Fix Note icon for SkyUI (SKSE64 plugin)](https://www.nexusmods.com/skyrimspecialedition/mods/32561)
       - [Bug Fixes SSE](https://www.nexusmods.com/skyrimspecialedition/mods/33261)
       - [SSE Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/10547)
+      - [Dwemer Gates Don't Reset](https://www.nexusmods.com/skyrimspecialedition/mods/26331)
+      - [Fast Travel Speed Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1503)
+      - [Believable Crime Report Radius](https://www.nexusmods.com/skyrimspecialedition/mods/2802)
+      - [Multiple Floors Sandboxing](https://www.nexusmods.com/skyrimspecialedition/mods/4524)
+      - [Move it Dammit - for Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/752)
+      - [No More Standing Too Close SSE](https://www.nexusmods.com/skyrimspecialedition/mods/4784)
+      - [Raven Rock - Fix Exit on Horseback](https://www.nexusmods.com/skyrimspecialedition/mods/14075)
 
    3. Mod Resources
       - [DLL Plugin Loader](https://www.nexusmods.com/skyrimspecialedition/mods/10546)
