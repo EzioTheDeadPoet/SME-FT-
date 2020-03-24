@@ -113,7 +113,7 @@ This list consists of 4 categories:
       - [Protect Your People SE](http://nexusmods.com/skyrimspecialedition/mods/10297)
       - [Whose Quest Is It Anyway](https://www.nexusmods.com/skyrimspecialedition/mods/23581)
       - [Notification Log SSE](https://www.nexusmods.com/skyrimspecialedition/mods/27707)
-      - [ReCleaned Menu](https://www.nexusmods.com/skyrimspecialedition/mods/26680) (Creation Club users see [Note 1.](https://github.com/EzioTheDeadPoet/SME-FT-#4-notes))
+      - [ReCleaned Menu](https://www.nexusmods.com/skyrimspecialedition/mods/26680) (Creation Club users see Note 1. in the [Notes](https://github.com/EzioTheDeadPoet/SME-FT-#4-notes) section of this readme)
 
 ---
 
