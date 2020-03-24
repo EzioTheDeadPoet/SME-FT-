@@ -10,7 +10,9 @@
 
 [2. Installation](https://github.com/EzioTheDeadPoet/SME-FT-#2-installation)
 
-[3. Included Patches](https://github.com/EzioTheDeadPoet/SME-FT-/blob/master/README.md#3-included-patches)
+[3. Included Patches](https://github.com/EzioTheDeadPoet/SME-FT-#3-included-patches)
+
+[4. Notes](https://github.com/EzioTheDeadPoet/SME-FT-#4-notes)
 
 ---
 
@@ -80,6 +82,7 @@ This list consists of 4 categories:
       - [Move it Dammit - for Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/752)
       - [No More Standing Too Close SSE](https://www.nexusmods.com/skyrimspecialedition/mods/4784)
       - [Raven Rock - Fix Exit on Horseback](https://www.nexusmods.com/skyrimspecialedition/mods/14075)
+      - [Better Jumping SE](https://www.nexusmods.com/skyrimspecialedition/mods/18967)
 
    3. Mod Resources
       - [DLL Plugin Loader](https://www.nexusmods.com/skyrimspecialedition/mods/10546)
@@ -110,6 +113,7 @@ This list consists of 4 categories:
       - [Protect Your People SE](http://nexusmods.com/skyrimspecialedition/mods/10297)
       - [Whose Quest Is It Anyway](https://www.nexusmods.com/skyrimspecialedition/mods/23581)
       - [Notification Log SSE](https://www.nexusmods.com/skyrimspecialedition/mods/27707)
+      - [ReCleaned Menu](https://www.nexusmods.com/skyrimspecialedition/mods/26680) (Creation Club users see [Note 1.](https://github.com/EzioTheDeadPoet/SME-FT-#4-notes))
 
 ---
 
@@ -142,3 +146,10 @@ by being placed under the `INCLUDED PATCHES` separator and are part of the patch
 Each one of them has the mods the patch is for included in its name and/or a note inside of MO.
 If a mod has a patch instead of merging it manually I would advise to check the modpage if there isn't a merged patch
 already.
+
+---
+
+### 4. Notes
+
+1. If you want to use Creation Club mods you have to diasable `ReCleaned Menu - If you want to use Creation Club mods disable this!!` in your MO for the option to even be available in the main menu, but since there are more people that don't install mods from there anyway I included this to make their menus cleaner.
+2. placeholder for potential other notes regarding specific mods.
