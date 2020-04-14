@@ -117,6 +117,7 @@ This list consists of 4 categories:
       - [Whose Quest Is It Anyway](https://www.nexusmods.com/skyrimspecialedition/mods/23581)
       - [Notification Log SSE](https://www.nexusmods.com/skyrimspecialedition/mods/27707)
       - [ReCleaned Menu](https://www.nexusmods.com/skyrimspecialedition/mods/26680) (Creation Club users see Note 1. in the [Notes](https://github.com/EzioTheDeadPoet/SME-FT-#4-notes) section of this readme)
+      - [Finding Susanna Alive - A Blood on the Ice Trigger Revision](https://www.nexusmods.com/skyrimspecialedition/mods/32512) ([Blood on the Ice Redux SE](https://www.nexusmods.com/skyrimspecialedition/mods/6126) users see Note 2. in the [Notes](https://github.com/EzioTheDeadPoet/SME-FT-#4-notes) section of this readme)
 
 ---
 
@@ -155,4 +156,4 @@ already.
 ### 4. Notes
 
 1. If you want to use Creation Club mods you have to diasable `ReCleaned Menu - If you want to use Creation Club mods disable this!!` in your MO for the option to even be available in the main menu, but since there are more people that don't install mods from there anyway I included this to make their menus cleaner.
-2. placeholder for potential other notes regarding specific mods.
+2. If you want to use `Blood on the Ice Redux` you have to right-click `Finding Susanna Alive` and click on reinstall to let it install with the included patch.
