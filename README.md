@@ -156,4 +156,4 @@ already.
 ### 4. Notes
 
 1. If you want to use Creation Club mods you have to diasable `ReCleaned Menu - If you want to use Creation Club mods disable this!!` in your MO for the option to even be available in the main menu, but since there are more people that don't install mods from there anyway I included this to make their menus cleaner.
-2. If you want to use `Blood on the Ice Redux` you have to right-click `Finding Susanna Alive` and click on reinstall to let it install with the included patch.
+2. If you want to use [Blood on the Ice Redux SE](https://www.nexusmods.com/skyrimspecialedition/mods/6126) you have to right-click `Finding Susanna Alive` and click on reinstall to let it install with the included patch.
