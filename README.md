@@ -129,7 +129,7 @@ This list consists of 4 categories:
 4. Now put the Content of "Game Folder Files" into your Game Folder.
 5. Locate the BethINI.exe in "...\\(name of the MO 2 folder)\tools\BethINI (ONLY LAUNCH WITH MO CLOSED)" and run it with the game and MO2 closed.
 6. In there go to the Setup tab and point BethINI to your ModOrganizer.EXE.
-7. Select the SME(FT) Profile you intend to use
+7. Select the SME(FT) Profile you intend to use in the INI Path section.
 8. Now you Select a Preset fitting your Hardware/Plans of adding an ENB
 9. Save and Exit
 10. Open ModOrganizer and select a profile you want to use as your basis
