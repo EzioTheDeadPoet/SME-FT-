@@ -132,7 +132,7 @@ This list consists of 4 categories:
 7. Select the SME(FT) Profile you intend to use in the INI Path section.
 8. Now you Select a Preset fitting your Hardware/Plans of adding an ENB
 9. Save and Exit
-10. Open ModOrganizer and select a profile you want to use as your basis
+10. Open ModOrganizer and select the profile you want to use as your basis
 11. Click here ![(restore backup)](https://github.com/EzioTheDeadPoet/SME-FT-/raw/master/backup.png) And restore the lastest backup made by me for every Profile you may be using.
 12. This is to have the list sorted in the way it was intended by me while writing my guide.
 13. Either run the FNIS tool or Nemesis as if you had just installed them (if you selected one of those profiles)
