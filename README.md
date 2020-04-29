@@ -4,7 +4,7 @@
 
 **THIS MODLIST IS ONLY A BASIS TO START YOUR OWN MODDING JOURNEY AND INCLUDES ALL THE FIXES AND TOOLS KNOWN TO ME WITH A FEW ADDED RECOMMENDATIONS!!!**
 
-But feel free to use it for a Vannilla Playtrough.
+But feel free to use it for a Vanilla Playtrough, if you feel like doing that.
  
 ---
 
