@@ -4,6 +4,8 @@
 
 **THIS MODLIST IS ONLY A BASIS TO START YOUR OWN MODDING JOURNEY AND INCLUDES ALL THE FIXES AND TOOLS KNOWN TO ME WITH A FEW ADDED RECOMMENDATIONS!!!**
 
+But feel free to use it for a Vannilla Playtrough.
+ 
 ---
 
 [1. General-Description !IMPORTANT!](https://github.com/EzioTheDeadPoet/SME-FT-#1-general-description)
