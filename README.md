@@ -38,7 +38,7 @@ initial loading and giving you the time to set up the installed mods MCM Menus t
 And I chose "ASLAL" over another "AS" since it still allows you/players playing your modlist a chance to experience the Vanilla start to the game.
 **Therefore feel free to use this as a basis for your modlists(but if you do so please mention it somewhere visible).**
 
-#### **How is it Organized ?**
+#### **What is included in this List ?**
 
 This list consists of 4 categories:
 
