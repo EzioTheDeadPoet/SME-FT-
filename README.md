@@ -126,8 +126,8 @@ This list consists of 4 categories:
 ### 2. INSTALLATION
 
 1. Install the List using the apropriate Wabbajack version.
-2. Open the Install Folder there navigate to Gamefolder Files.
-3. In there rename the `binkw64.dll` to `binkw64_.dll`.
+2. Go to your Skyrim Special Edition root directory. This is the same folder where SkyrimSE.exe is, usually "C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\". In there rename the `binkw64.dll` to `binkw64_.dll`.
+3. Open the Install Folder (MO2 folder), there navigate to Gamefolder Files.
 4. Now put the Content of "Game Folder Files" into your Game Folder.
 5. Locate the BethINI.exe in "...\\(name of the MO 2 folder)\tools\BethINI (ONLY LAUNCH WITH MO CLOSED)" and run it with the game and MO2 closed.
 6. In there go to the Setup tab and point BethINI to your ModOrganizer.EXE.
