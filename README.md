@@ -52,7 +52,7 @@ This list consists of 4 categories:
       - [BethINI](http://nexusmods.com/skyrimspecialedition/mods/4875)
       - [WyreBash](https://www.nexusmods.com/skyrimspecialedition/mods/6837)
       - [deorder's MO2 Plugins](https://github.com/deorder/mo2-plugins)
-         - **Merge Plugins Hide**: Hide / unhide plugins that were merged using `Merge Plugins` or `zMerge` 
+         - **Merge Plugins Hide**: Hide / unhide plugins that were merged using `Merge Plugins` or `zMerge`
          - **Sync Mod Order**: Sync mod order from current profile to another while keeping the (enabled/disabled) state intact
 
    2. Game Fixes and Patches
