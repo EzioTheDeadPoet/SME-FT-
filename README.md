@@ -5,7 +5,7 @@
 **THIS MODLIST IS ONLY A BASIS TO START YOUR OWN MODDING JOURNEY AND INCLUDES ALL THE FIXES AND TOOLS KNOWN TO ME WITH A FEW ADDED RECOMMENDATIONS!!!**
 
 But feel free to use it for a Vanilla Playtrough, if you feel like doing that.
- 
+
 ---
 
 [1. General-Description !IMPORTANT!](https://github.com/EzioTheDeadPoet/SME-FT-#1-general-description)
@@ -125,17 +125,18 @@ This list consists of 4 categories:
 
 ### 2. INSTALLATION
 
+0. First for Skyrim itself follow this [Guide](https://www.reddit.com/r/skyrimmods/wiki/begin2) Starting with the Foreword and ending with the end of the Install Location section.(If you want to be prepared to add mods yourself I highly recommend reading the whole thing.)
 1. Install the List using the apropriate Wabbajack version.
-2. Go to your Skyrim Special Edition root directory. This is the same folder where SkyrimSE.exe is, usually "C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\". In there rename the `binkw64.dll` to `binkw64_.dll`.
+2. Go to your Skyrim Special Edition root directory. This is the same folder where SkyrimSE.exe is, depending on where you installed it following step **0.** (~~usually "C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\"~~ If you didn't folow the Guide.) In there rename the `binkw64.dll` to `binkw64_.dll`.
 3. Open the Install Folder (MO2 folder), there navigate to Gamefolder Files.
 4. Now put the Content of "Game Folder Files" into your Game Folder.
-5. Locate the BethINI.exe in "...\\(name of the MO 2 folder)\tools\BethINI (ONLY LAUNCH WITH MO CLOSED)" and run it with the game and MO2 closed.
+5. Locate the BethINI.exe in "...\\(name of the MO 2 folder)\tools\BethINI (ONLY LAUNCH WITH MO AND THE GAME CLOSED)" and run it with the game and MO2 closed.
 6. In there go to the Setup tab and point BethINI to your ModOrganizer.EXE.
 7. Select the SME(FT) Profile you intend to use in the INI Path section.
 8. Now you Select a Preset fitting your Hardware/Plans of adding an ENB
 9. Save and Exit
 10. Open ModOrganizer and select the profile you want to use as your basis
-11. Click here ![(restore backup)](https://github.com/EzioTheDeadPoet/SME-FT-/raw/master/backup.png) And restore the lastest backup made by me for every Profile you may be using.
+11. Click here ![(restore backup)](https://github.com/EzioTheDeadPoet/SME-FT-/raw/master/backup.png) And restore the lastest backup made by me for every Profile you may be using. (For both the Plugins and the Mods Tab.) **(This is currently NOT needed anymore since Wabbajack does the order now automatically, but I will still support this option just in case something regarding this option might break in the future.)**
 12. This is to have the list sorted in the way it was intended by me while writing my guide.
 13. Either run the FNIS tool or Nemesis as if you had just installed them (if you selected one of those profiles)
 14. To Launch the game select SKSE in MO2 and hit launch, there you can also create MO2 shortcuts to automatically launch linked binaries trough MO2.
