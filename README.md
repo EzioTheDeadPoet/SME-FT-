@@ -40,7 +40,12 @@ And I chose "ASLAL" over another "AS" since it still allows you/players playing 
 
 #### **What is included in this List ?**
 
-This list consists of 4 categories:
+- This list has 3 Useable Profiles:
+   1. For people wanting to use FNIS
+   2. For people wanting to use Nemesis
+   3. For people who don't want to use either of them.
+
+- This list contains these of 4 categories:
 
    1. Tools (Accessable over the run menu and the shortcuts)
       - [LOOT](https://github.com/loot/loot)
