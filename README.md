@@ -132,7 +132,7 @@ And I chose "ASLAL" over another "AS" since it still allows you/players playing 
 ### 2. INSTALLATION
 
 0. First for Skyrim itself follow this [Guide](https://www.reddit.com/r/skyrimmods/wiki/begin2) Starting with the Foreword and ending with the end of the Install Location section.(If you want to be prepared to add mods yourself I highly recommend reading the whole thing.)
-1. Install the List using the latest [Wabbajack](https://www.wabbajack.org) version.
+1. Install the list with the install from file using the latest [Wabbajack](https://www.wabbajack.org) version.
 2. Go to your Skyrim Special Edition root directory. This is the same folder where SkyrimSE.exe is, depending on where you installed it following step **0.** (~~usually \"C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\\"~~ 
 If you didn't follow the Guide which I highly advise against.) In there rename the `binkw64.dll` to `binkw64_.dll`.
 3. Open the Install Folder (MO2 folder), there navigate to Gamefolder Files.
