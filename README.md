@@ -30,11 +30,9 @@ One resource I highly recommend is [this Guide](https://www.reddit.com/r/skyrimm
 
 This modlist is intended to bring the most common tools and fixes for skyrim and integrate them in an Organized maner so modlist creators
 and modders have an easier way of getting a stable initial semivanilla setup with only a little effort.
-Some of the mods might want to be exchanged by personal preference, which would be for example "Racemenu" which could be
-exchanged for "ECE" (which I didn't use since how I understand the general consens is it is the less popular/used character
-editor also a lot of mods depend on Racemenu rather than ECE) and the other one would be "ASLAL" which is included since it is again general consens,
-that it is a better to have an AS Mods that places you in a "quiet" game cell to let all the installed mods finish their
-initial loading and giving you the time to set up the installed mods MCM Menus to your liking.
+Some of the mods might want to be exchanged by personal preference, "ASLAL" which is included since it is again general consens,
+that it is a better to have an alternate start mod that places the player in a "quiet" game cell to let all the installed mods finish their
+initial loading and giving the player the time to set up the installed mods MCM Menus to their liking, could be replaced with another alternate start mod.
 And I chose "ASLAL" over another "AS" since it still allows you/players playing your modlist a chance to experience the Vanilla start to the game.
 **Therefore feel free to use this as a basis for your modlists(but if you do so please mention it somewhere visible).**
 
