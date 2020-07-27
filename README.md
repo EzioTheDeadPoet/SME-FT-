@@ -104,6 +104,7 @@ And I chose "ASLAL" over another "AS" since it still allows you/players playing 
       - [Fuz Ro D-oh - Silent Voice](https://www.nexusmods.com/skyrimspecialedition/mods/15109)
       - [UIExtensions](http://nexusmods.com/skyrimspecialedition/mods/17561)
       - [Fores New Idles in Skyrim SE - FNIS SE](https://www.nexusmods.com/skyrimspecialedition/mods/3038)
+      - [Nemesis](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main)
       - [PapyrusUtil SE](http://nexusmods.com/skyrimspecialedition/mods/13048)
       - [JContainers SE](http://nexusmods.com/skyrimspecialedition/mods/16495)
       - [Project New Reign - Nemesis Main](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main)
