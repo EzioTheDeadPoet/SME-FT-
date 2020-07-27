@@ -145,7 +145,7 @@ If you didn't follow the Guide which I highly advise against.) In there rename t
 12. Either run the FNIS tool or Nemesis as if you had just installed them (if you selected one of those profiles)
 13. To Launch the game select SKSE in MO2 and hit launch, there you can also create MO2 shortcuts to automatically launch linked binaries trough MO2.
 14. Your MO2 Setup is now ready to start modding/ playing the most barebone PC friendly Skyrim experience.
-15. When adding Mods look out for possible incompatibilities and the [Patches](https://github.com/EzioTheDeadPoet/SME-FT-/blob/master/README.md#3-included-patches) section below.
+15. When adding Mods look out for possible incompatibilities and the [Patches](https://github.com/EzioTheDeadPoet/SME-FT-/blob/master/README.md#3-included-patches) and the [Notes](https://github.com/EzioTheDeadPoet/SME-FT-/blob/master/README.md#4-notes) sections below.
 
 **Don't try to play the `SME(FT) - Installation` Profile since it is a dummy profile, to keep disabled mods in the right oder in all the profiles.**
 
