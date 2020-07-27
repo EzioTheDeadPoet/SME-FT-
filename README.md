@@ -69,7 +69,7 @@ And I chose "ASLAL" over another "AS" since it still allows you/players playing 
       - [SkyUI](http://nexusmods.com/skyrimspecialedition/mods/12604)
       - [SkyUI SE - Flashing Savegames Fix](http://nexusmods.com/skyrimspecialedition/mods/20406)
       - [More Informative Console](http://nexusmods.com/skyrimspecialedition/mods/19250)
-      - [HavokFix64](http://nexusmods.com/skyrimspecialedition/mods/18160)
+      - [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705)
       - [Copy and Paste in Console](http://nexusmods.com/skyrimspecialedition/mods/30928)
       - [Enchantment Reload Fix SE](http://nexusmods.com/skyrimspecialedition/mods/21055)
       - [Animation Limit Crash Fix SSE](https://www.nexusmods.com/skyrimspecialedition/mods/31146)
