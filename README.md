@@ -1,4 +1,4 @@
-# **SME(FT) - Skyrim Modding Essentials (Fixes & Tools)**
+# **Skyrim Modding Essentials (Fixes & Tools)**
 
 ## **!!!!DISCLAIMER!!!!**
 
