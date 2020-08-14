@@ -1,3 +1,5 @@
+![(thumbnail)](/SME-FT-Thumbnail.png)
+
 # **Skyrim Modding Essentials (Fixes & Tools) - SME(FT)**
 
 ## **!!!!DISCLAIMER!!!!**
