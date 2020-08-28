@@ -95,9 +95,9 @@ And I chose "ASLAL" over another "AS" since it still allows you/players playing 
       - [Better Jumping SE](https://www.nexusmods.com/skyrimspecialedition/mods/18967)
 
    3. Mod Resources
+      - [Skyrim Skrip Extender SKSE64](https://skse.silverlock.org)
       - [DLL Plugin Loader](https://www.nexusmods.com/skyrimspecialedition/mods/10546)
       - [.NET Script Framework](https://www.nexusmods.com/skyrimspecialedition/mods/21294)
-      - [Skyrim Skrip Extender SKSE64](https://skse.silverlock.org/beta/skse64_2_00_17.7z)
       - [FileAccess Interface for Skyrim SE Scripts](http://nexusmods.com/skyrimspecialedition/mods/13956)
       - [ConsoleUtilSSE](http://nexusmods.com/skyrimspecialedition/mods/24858)
       - [powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854)
