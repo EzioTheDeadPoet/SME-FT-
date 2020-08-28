@@ -75,7 +75,7 @@ And I chose "ASLAL" over another "AS" since it still allows you/players playing 
       - [Animation Limit Crash Fix SSE](https://www.nexusmods.com/skyrimspecialedition/mods/31146)
       - [Better Dialogue Controls](http://nexusmods.com/skyrimspecialedition/mods/1429)
       - [Better MessageBox Controls](http://www.nexusmods.com/skyrimspecialedition/users/3238634)
-      - [Flora Respawn Fix SSE](http://nexusmods.com/skyrimspecialedition/mods/13186)
+      - [Flora Respawn Fix SSE](http://nexusmods.com/skyrimspecialedition/mods/13186) (read Note 3. in [Notes](https://github.com/EzioTheDeadPoet/SME-FT-#4-notes))
       - [Modern Brawl Bug Fix](http://nexusmods.com/skyrimspecialedition/mods/1473)
       - [First Person Sneak Strafe-Walk Stutter Fix](http://nexusmods.com/skyrimspecialedition/mods/31165)
       - [No Spinning Death Animation](http://nexusmods.com/skyrimspecialedition/mods/1432)
@@ -166,3 +166,4 @@ already.
 
 1. If you want to use Creation Club mods you have to diasable `ReCleaned Menu - If you want to use Creation Club mods disable this!!` in your MO for the option to even be available in the main menu, but since there are more people that don't install mods from there anyway I included this to make their menus cleaner.
 2. If you want to use [Blood on the Ice Redux SE](https://www.nexusmods.com/skyrimspecialedition/mods/6126) you have to right-click `Finding Susanna Alive` and click on reinstall to let it install with the included patch.
+3. If you addded new landscapes or altered existing ones you will have to follow these [instructions in the pinned post](https://www.nexusmods.com/skyrimspecialedition/mods/13186?tab=posts), excluding steps 2.-6. since I have already installed the script needed for this, to have the fix working with every plant.
