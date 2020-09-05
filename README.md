@@ -61,7 +61,6 @@ And I chose "ASLAL" over another "AS" since it still allows you/players playing 
       - [zEdit](https://github.com/z-edit/zedit)
 
    2. Game Fixes and Patches
-      - [Unofficial Skyrim Special Edition Patch](http://nexusmods.com/skyrimspecialedition/mods/266)
       - [Actor Movement Limit Fix](https://www.nexusmods.com/skyrimspecialedition/mods/32349?tab=files)
       - [Animation Limit Crash Fix SSE](https://www.nexusmods.com/skyrimspecialedition/mods/31146)
       - [Assorted mesh fixes](http://nexusmods.com/skyrimspecialedition/mods/32117)
@@ -93,6 +92,7 @@ And I chose "ASLAL" over another "AS" since it still allows you/players playing 
       - [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705)
       - [SSE Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/10547)
       - [SSE Parallax Shader Fix](http://nexusmods.com/skyrimspecialedition/mods/31963)
+      - [Unofficial Skyrim Special Edition Patch](http://nexusmods.com/skyrimspecialedition/mods/266)
       
    3. Mod Resources
       - [.NET Script Framework](https://www.nexusmods.com/skyrimspecialedition/mods/21294)
