@@ -78,6 +78,7 @@ And I chose "ASLAL" over another "AS" since it still allows you/players playing 
       - [Fix Note icon for SkyUI (SKSE64 plugin)](https://www.nexusmods.com/skyrimspecialedition/mods/32561)
       - [Fixed body collision](http://nexusmods.com/skyrimspecialedition/mods/10849)
       - [Flora Respawn Fix SSE](http://nexusmods.com/skyrimspecialedition/mods/13186) (read Note 3. in [Notes](https://github.com/EzioTheDeadPoet/SME-FT-#4-notes))
+      - [Keyboard Shortcuts Fix](https://www.nexusmods.com/skyrimspecialedition/mods/3620?tab=description)
       - [Modern Brawl Bug Fix](http://nexusmods.com/skyrimspecialedition/mods/1473)
       - [More Informative Console](http://nexusmods.com/skyrimspecialedition/mods/19250)
       - [Move it Dammit - for Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/752)
