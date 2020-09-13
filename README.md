@@ -67,6 +67,7 @@ And I chose "ASLAL" over another "AS" since it still allows you/players playing 
       - [Better MessageBox Controls](http://www.nexusmods.com/skyrimspecialedition/users/3238634)
       - [Better Jumping SE](https://www.nexusmods.com/skyrimspecialedition/mods/18967)
       - [Bug Fixes SSE](https://www.nexusmods.com/skyrimspecialedition/mods/33261)
+      - [Console Commands Extender](https://www.nexusmods.com/skyrimspecialedition/mods/28210)
       - [Copy and Paste in Console](http://nexusmods.com/skyrimspecialedition/mods/30928)
       - [Critters Aint Snitches](http://nexusmods.com/skyrimspecialedition/mods/15134)
       - [Dragon Stalking Fix](http://nexusmods.com/skyrimspecialedition/mods/14060)
