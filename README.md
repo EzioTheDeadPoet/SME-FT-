@@ -56,7 +56,7 @@ And I chose "ASLAL" over another "AS" since it still allows you/players playing 
       - [NifSkope](https://github.com/niftools/nifskope)
       - [SSEEdit](http://nexusmods.com/skyrimspecialedition/mods/164)
       - [SSELODGen](https://www.nexusmods.com/skyrimspecialedition/mods/6642)
-      - [WyreBash](https://www.nexusmods.com/skyrimspecialedition/mods/6837)
+      - [Wrye Bash](https://www.nexusmods.com/skyrimspecialedition/mods/6837)
       - [zEdit](https://github.com/z-edit/zedit)
 
    2. Game Fixes and Patches
