@@ -8,13 +8,13 @@ But feel free to use it for a Vanilla Playtrough, if you feel like doing that.
 
 ---
 
-[1. General-Description !IMPORTANT!](https://github.com/EzioTheDeadPoet/SME-FT-#1-general-description)
+[1. General-Description !IMPORTANT!](#1-general-description)
 
 [2. Installation](https://github.com/EzioTheDeadPoet/SME-FT-#2-installation)
 
-[3. Included Patches](https://github.com/EzioTheDeadPoet/SME-FT-#3-included-patches)
+[3. Included Patches](#3-included-patches)
 
-[4. Notes](https://github.com/EzioTheDeadPoet/SME-FT-#4-notes)
+[4. Notes](#4-notes)
 
 ---
 
@@ -146,7 +146,7 @@ If you didn't follow the Guide which I highly advise against.) In there rename t
 11. Either run the FNIS tool or Nemesis as if you had just installed them (if you selected one of those profiles)
 12. To Launch the game select SKSE in MO2 and hit launch, there you can also create MO2 shortcuts to automatically launch linked binaries trough MO2.
 13. Your MO2 Setup is now ready to start modding/ playing the most barebone PC friendly Skyrim experience.
-14. When adding Mods look out for possible incompatibilities and the [Patches](https://github.com/EzioTheDeadPoet/SME-FT-/blob/master/README.md#3-included-patches) and the [Notes](https://github.com/EzioTheDeadPoet/SME-FT-/blob/master/README.md#4-notes) sections below.
+14. When adding Mods look out for possible incompatibilities and the [Patches](#3-included-patches) and the [Notes](#4-notes) sections below.
 
 **Don't try to play the `SME(FT) - Installation` Profile since it is a dummy profile, to keep disabled mods in the right oder in all the profiles.**
 
