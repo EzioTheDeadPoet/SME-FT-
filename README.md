@@ -10,7 +10,7 @@ But feel free to use it for a Vanilla Playtrough, if you feel like doing that.
 
 [1. General-Description !IMPORTANT!](#1-general-description)
 
-[2. Installation](https://github.com/EzioTheDeadPoet/SME-FT-#2-installation)
+[2. Installation](#2-installation)
 
 [3. Included Patches](#3-included-patches)
 
