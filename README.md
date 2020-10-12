@@ -4,7 +4,7 @@
 
 **THIS MODLIST IS ONLY A BASIS TO START YOUR OWN MODDING JOURNEY AND INCLUDES ALL THE FIXES AND TOOLS KNOWN TO ME WITH A FEW ADDED RECOMMENDATIONS!!!**
 
-But feel free to use it for a Vanilla Playtrough, if you feel like doing that.
+But feel free to use it for a Vanilla Playthrough, if you feel like doing that.
 
 ---
 
@@ -28,9 +28,9 @@ matter of modding and the tools provided by the modding community and their docu
 Or people who just want a vanilla experience with all the unofficial patches and fixes.
 One resource I highly recommend is [this Guide](https://www.reddit.com/r/skyrimmods/wiki/begin2) on how to get started.
 
-This modlist is intended to bring the most common tools and fixes for skyrim and integrate them in an Organized maner so modlist creators
+This modlist is intended to bring the most common tools and fixes for skyrim and integrate them in an Organized manner so modlist creators
 and modders have an easier way of getting a stable initial semivanilla setup with only a little effort.
-Some of the mods might want to be exchanged by personal preference, "ASLAL" which is included since it is again general consens,
+Some of the mods might want to be exchanged by personal preference, "ASLAL" which is included since it is again generally acknowledged,
 that it is a better to have an alternate start mod that places the player in a "quiet" game cell to let all the installed mods finish their
 initial loading and giving the player the time to set up the installed mods MCM Menus to their liking, could be replaced with another alternate start mod.
 And I chose "ASLAL" over another "AS" since it still allows you/players playing your modlist a chance to experience the Vanilla start to the game.
@@ -45,7 +45,7 @@ And I chose "ASLAL" over another "AS" since it still allows you/players playing 
 
 - This list contains these of 4 categories:
 
-   1. Tools (Accessable over the run menu and the shortcuts)
+   1. Tools (Accessible over the run menu and the shortcuts)
       - [BethINI](http://nexusmods.com/skyrimspecialedition/mods/4875)
       - [BodySlide and Outfit Studio](http://nexusmods.com/skyrimspecialedition/mods/201)
       - [deorder's MO2 Plugins](https://github.com/deorder/mo2-plugins)
@@ -110,7 +110,7 @@ And I chose "ASLAL" over another "AS" since it still allows you/players playing 
       - [Project New Reign - Nemesis PCEA](https://www.nexusmods.com/skyrimspecialedition/mods/31667?tab=description)
       - [Scaleform Translation Plus Plus](https://www.nexusmods.com/skyrimspecialedition/mods/22603)
       - [SimpleAddItems 2.0 - a zEdit module for leveled lists and containers](https://www.nexusmods.com/skyrimspecialedition/mods/32319?tab=description)
-      - [Skyrim Skrip Extender SKSE64](https://skse.silverlock.org)
+      - [Skyrim Script Extender SKSE64](https://skse.silverlock.org)
       - [UIExtensions](http://nexusmods.com/skyrimspecialedition/mods/17561)
 
    4. Optional but highly recommended mods(that address issues with the main game that aren't really bugs)
@@ -135,8 +135,8 @@ And I chose "ASLAL" over another "AS" since it still allows you/players playing 
 1. Install the list with the install from file using the latest [Wabbajack](https://www.wabbajack.org) version.
 2. Go to your Skyrim Special Edition root directory. This is the same folder where SkyrimSE.exe is, depending on where you installed it following step **0.** (~~usually \"C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\\"~~
 If you didn't follow the Guide which I highly advise against.) In there rename the `binkw64.dll` to `binkw64_.dll`.
-3. Open the Install Folder (MO2 folder), there navigate to Gamefolder Files.
-4. Now put the Content of "Game Folder Files" into your Game Folder.
+3. Open the Install Folder (MO2 folder), there navigate to Game Folder Files.
+4. Now put the Content of "Game Folder Files" into your Games installation folder.
 5. Locate the BethINI.exe in "...\\(name of the MO 2 folder)\tools\BethINI (ONLY LAUNCH WITH MO AND THE GAME CLOSED)" and run it with the game and MO2 closed.
 6. In there go to the Setup tab and point BethINI to your ModOrganizer.EXE.
 7. Select the SME(FT) Profile you intend to use in the INI Path section.
@@ -164,6 +164,6 @@ already.
 
 ### 4. Notes
 
-1. If you want to use Creation Club mods you have to diasable `ReCleaned Menu - If you want to use Creation Club mods disable this!!` in your MO for the option to even be available in the main menu, but since there are more people that don't install mods from there anyway I included this to make their menus cleaner.
+1. If you want to use Creation Club mods you have to disable `ReCleaned Menu - If you want to use Creation Club mods disable this!!` in your MO for the option to even be available in the main menu, but since there are more people that don't install mods from there anyway I included this to make their menus cleaner.
 2. If you want to use [Blood on the Ice Redux SE](https://www.nexusmods.com/skyrimspecialedition/mods/6126) you have to right-click `Finding Susanna Alive` and click on reinstall to let it install with the included patch.
 3. If you addded new landscapes or altered existing ones you will have to follow these [instructions in the pinned post](https://www.nexusmods.com/skyrimspecialedition/mods/13186?tab=posts), excluding steps 2.-6. since I have already installed the script needed for this, to have the fix working with every plant.
