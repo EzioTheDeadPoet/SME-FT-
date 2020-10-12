@@ -87,6 +87,7 @@ And I chose "ASLAL" over another "AS" since it still allows you/players playing 
       - [Multiple Floors Sandboxing](https://www.nexusmods.com/skyrimspecialedition/mods/4524)
       - [No More Standing Too Close SSE](https://www.nexusmods.com/skyrimspecialedition/mods/4784)
       - [No Spinning Death Animation](http://nexusmods.com/skyrimspecialedition/mods/1432)
+      - [NPC AI Process Position Fix - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/40261)
       - [Raven Rock - Fix Exit on Horseback](https://www.nexusmods.com/skyrimspecialedition/mods/14075)
       - [SkyUI](http://nexusmods.com/skyrimspecialedition/mods/12604)
       - [SkyUI SE - Flashing Savegames Fix](http://nexusmods.com/skyrimspecialedition/mods/20406)
