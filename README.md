@@ -1,6 +1,8 @@
 # ![(thumbnail)](/SME-FT-Thumbnail.png)
 
-## **!!!!DISCLAIMER!!!!**
+![status](https://img.shields.io/endpoint?url=https://build.wabbajack.org/lists/status/smeft/badge.json)
+
+![total_installas](https://img.shields.io/endpoint?url=https://build.wabbajack.org/metrics/badge/smeft/total_installs_badge.json)
 
 **THIS MODLIST IS ONLY A BASIS TO START YOUR OWN MODDING JOURNEY AND INCLUDES ALL THE FIXES AND TOOLS KNOWN TO ME WITH A FEW ADDED RECOMMENDATIONS!!!**
 
