@@ -81,7 +81,7 @@ And I chose "ASLAL" over another "AS" since it still allows you/players playing 
       - [First Person Sneak Strafe-Walk Stutter Fix](http://nexusmods.com/skyrimspecialedition/mods/31165)
       - [Fix Note icon for SkyUI (SKSE64 plugin)](https://www.nexusmods.com/skyrimspecialedition/mods/32561)
       - [Fixed body collision](http://nexusmods.com/skyrimspecialedition/mods/10849)
-      - [Flora Respawn Fix SSE](http://nexusmods.com/skyrimspecialedition/mods/13186) (read Note 3. in [Notes](https://github.com/EzioTheDeadPoet/SME-FT-#4-notes))
+      - [FloraFixer - Mutagen Patcher and Data](https://www.nexusmods.com/skyrimspecialedition/mods/42057) (read Note 3. in [Notes](https://github.com/EzioTheDeadPoet/SME-FT-#4-notes))
       - [Keyboard Shortcuts Fix](https://www.nexusmods.com/skyrimspecialedition/mods/3620?tab=description)
       - [Modern Brawl Bug Fix](http://nexusmods.com/skyrimspecialedition/mods/1473)
       - [More Informative Console](http://nexusmods.com/skyrimspecialedition/mods/19250)
@@ -170,4 +170,4 @@ already.
 
 1. If you want to use Creation Club mods you have to disable `ReCleaned Menu - If you want to use Creation Club mods disable this!!` in your MO for the option to even be available in the main menu, but since there are more people that don't install mods from there anyway I included this to make their menus cleaner.
 2. If you want to use [Blood on the Ice Redux SE](https://www.nexusmods.com/skyrimspecialedition/mods/6126) you have to right-click `Finding Susanna Alive` and click on reinstall to let it install with the included patch.
-3. If you addded new landscapes or altered existing ones you will have to follow these [instructions in the pinned post](https://www.nexusmods.com/skyrimspecialedition/mods/13186?tab=posts), excluding steps 2.-6. since I have already installed the script needed for this, to have the fix working with every plant.
+3. If you addded new landscapes or altered existing ones you open and run the included Synthesis with the flora patcher enabled.(It is the default setting)
