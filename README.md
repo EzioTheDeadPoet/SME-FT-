@@ -20,9 +20,9 @@ But feel free to use it for a Vanilla Playthrough, if you feel like doing that.
 
 ---
 
-### **1. GENERAL-DESCRIPTION**
+## **1. GENERAL-DESCRIPTION**
 
-#### **What is this list trying to offer ?**
+### **What is this list trying to offer ?**
 
 This modlist aims to be a resource for modders with at least enough of an experience in skyrim modding in general, to be able to
 trouble shoot their own modlists with the documentation provided for the mods in their descriptions, preexisting guides on the
@@ -38,7 +38,7 @@ initial loading and giving the player the time to set up the installed mods MCM 
 And I chose "ASLAL" over another "AS" since it still allows you/players playing your modlist a chance to experience the Vanilla start to the game.
 **Therefore feel free to use this as a basis for your modlists(but if you do so please mention it somewhere visible).**
 
-#### **What is included in this List ?**
+### **What is included in this List ?**
 
 - This list has 3 playable profiles:
    1. For people wanting to use FNIS
@@ -133,7 +133,7 @@ And I chose "ASLAL" over another "AS" since it still allows you/players playing 
 
 ---
 
-### 2. INSTALLATION
+## 2. INSTALLATION
 
 0. First for Skyrim itself follow this [Guide](https://www.reddit.com/r/skyrimmods/wiki/begin2) Starting with the Foreword and ending with the end of the Install Location section.(If you want to be prepared to add mods yourself I highly recommend reading the whole thing.)
 1. Install the list with the install from file using the latest [Wabbajack](https://www.wabbajack.org) version.
@@ -156,7 +156,7 @@ If you didn't follow the Guide which I highly advise against.) In there rename t
 
 ---
 
-### 3. Included Patches
+## 3. Included Patches
 
 If a mod I used has patches for other mods they are included but need to be enabled by you they are marked
 by being placed under the `INCLUDED PATCHES` separator and are part of the patch mod category of MO.
@@ -166,7 +166,7 @@ already.
 
 ---
 
-### 4. Notes
+## 4. Notes
 
 1. If you want to use Creation Club mods you have to disable `ReCleaned Menu - If you want to use Creation Club mods disable this!!` in your MO for the option to even be available in the main menu, but since there are more people that don't install mods from there anyway I included this to make their menus cleaner.
 2. If you want to use [Blood on the Ice Redux SE](https://www.nexusmods.com/skyrimspecialedition/mods/6126) you have to right-click `Finding Susanna Alive` and click on reinstall to let it install with the included patch.
