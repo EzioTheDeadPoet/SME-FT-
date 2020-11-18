@@ -146,7 +146,7 @@ table.socials tr td, table.socials tr, table.socials{
 	margin-bottom: 12px;
 	line-height: 1em;
 	padding: 6px 6px 6px 7px;
-	
+
 	background: #D58546;
 	background: -moz-linear-gradient(top, #D58546 0%, #af540f 100%);
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#8DAEB5), color-stop(100%,#8DAEB5));
@@ -160,6 +160,10 @@ table.socials tr td, table.socials tr, table.socials{
 	
 	-webkit-box-shadow: inset 0px 1px 1px 0 rgba(233,2,38, 1);
 	box-shadow: inset 0px 1px 1px 0 rgba(233,2,38, 1);
+}
+
+li.buttons a {
+	color:#ffffff;
 }
 
 td li.buttons:hover {
