@@ -140,14 +140,26 @@ table.socials tr td, table.socials tr, table.socials{
 }
 
  td li.buttons {
+	list-style-type: none;
+  	width:132px;
+	height:15px;
+	margin-bottom: 12px;
+	line-height: 1em;
+	padding: 6px 6px 6px 7px;
+	
 	background: #D58546;
 	background: -moz-linear-gradient(top, #D58546 0%, #af540f 100%);
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#8DAEB5), color-stop(100%,#8DAEB5));
     background: -webkit-linear-gradient(top, #D58546 0%,#af540f 100%);
     background: -o-linear-gradient(top, #D58546 0%,#af540f 100%);
     background: -ms-linear-gradient(top, #D58546 0%,#af540f 100%);
-    background: linear-gradient(to top, #D58546 0%,#af540f 100%);
-    border:1px solid #0D0D0D;
+	background: linear-gradient(to top, #D58546 0%,#af540f 100%);
+	
+	border-radius:4px;
+	border:1px solid #0D0D0D;
+	
+	-webkit-box-shadow: inset 0px 1px 1px 0 rgba(233,2,38, 1);
+	box-shadow: inset 0px 1px 1px 0 rgba(233,2,38, 1);
 }
 
 td li.buttons:hover {
