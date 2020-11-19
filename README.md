@@ -1,6 +1,6 @@
 # ![(thumbnail)](/SME-FT-Thumbnail.png)
 
-<!--![status](https://img.shields.io/endpoint?url=https://build.wabbajack.org/lists/status/smeft/badge.json)-->
+![status](https://img.shields.io/endpoint?url=https://build.wabbajack.org/lists/status/smeft/badge.json)
 
 ![total_installations](https://img.shields.io/endpoint?url=https://build.wabbajack.org/metrics/badge/smeft/total_installs_badge.json)
 
