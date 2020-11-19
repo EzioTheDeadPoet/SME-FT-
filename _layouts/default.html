@@ -12,20 +12,19 @@
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
   </head>
-  <link rel="icon" href="https://raw.githubusercontent.com/EzioTheDeadPoet/Tales-from-the-Northern-Lands/master/assets/images/favicon64px.png"  type="image/x-icon">
+  <link rel="icon" href="https://raw.githubusercontent.com/EzioTheDeadPoet/SME-FT-/master/assets/images/favicon64px.png"  type="image/x-icon">
   <body>
     <div class="wrapper">
       <header>
         <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
-        <ul>
-          <li><a class="buttons mainpage" href="https://eziothedeadpoet.github.io/SME-FT-/">Main Page</a></li>
-          <li><a class="buttons changelog" href="https://eziothedeadpoet.github.io/SME-FT-/CHANGELOG.html">Changelog</a></li>
-          <li><a class="buttons github" href="{{ site.github.repository_url }}">View On GitHub</a></li>
-          <li><a class="buttons wabbajack" href="{{ site.wabbajack.wabbajack_url }}">Wabbajack Tool</a></li>
-          <li><a class="buttons aboutMe" href="https://eziothedeadpoet.github.io/AboutMe/">About Me</a></li>
-          <!--<li><a class="buttons license" href="{{ site.reshade.license }}">ReShadeLicense</a></li>-->
-        </ul>
+        <table class="socials">
+          <tr><td><ul><li><a class="buttons mainpage" href="https://eziothedeadpoet.github.io/SME-FT-/">Main Page</a></li></ul></td></tr>
+          <tr><td><ul><li><a class="buttons changelog" href="https://eziothedeadpoet.github.io/SME-FT-/CHANGELOG.html">Changelog</a></li></ul></td></tr>
+          <tr><td><ul><li><a class="buttons github" href="{{ site.github.repository_url }}">View On GitHub</a></li></ul></td></tr>
+          <tr><td><ul><li><a class="buttons wabbajack" href="{{ site.wabbajack.wabbajack_url }}">Wabbajack Tool</a></li></ul></td></tr>
+          <tr><td><ul><li><a class="buttons aboutMe" href="https://eziothedeadpoet.github.io/AboutMe/">About Me</a></li></ul></td></tr>
+        </table> 
         <!--
         {% if site.github.is_project_page %}
           <p class="header">This Modlist is maintained by <a class="header name" href="https://eziothedeadpoet.github.io/AboutMe/">Luca|EzioTheDeadPoet</a></p>
