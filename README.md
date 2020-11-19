@@ -10,6 +10,7 @@
 <!-- markdownlint-disable MD033 -->
 <ul>
    <li><a href="#1-general-description">1. General-Description !IMPORTANT!</a></li>
+   <li><a href="#2-installation">2. Installation</a></li>
    <li><a href="#3-included-patches">3. Included Patches</a></li>
    <li><a href="#4-notes">4. Notes</a></li>
    <li><a href="#5-credits-and-thanks">5. Credits and Thanks</a></li>

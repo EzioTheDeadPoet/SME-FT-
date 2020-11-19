@@ -188,3 +188,10 @@ td li.buttons:hover {
     background: -ms-linear-gradient(top, #e5ac80 0%,#950119 100%);
     background: linear-gradient(to top, #e5ac80 0%,#b3672d 100%);
 }
+
+details > summary {
+	border-radius:4px;
+	background-color: #4a615d;
+	border: none;
+	cursor: pointer;
+}
