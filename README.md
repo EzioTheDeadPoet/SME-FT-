@@ -14,9 +14,9 @@ But feel free to use it for a Vanilla Playthrough, if you feel like doing that.
    <li><a href="#1-general-description">1. General-Description !IMPORTANT!</a></li>
    <li><a href="#3-included-patches">3. Included Patches</a></li>
    <li><a href="#4-notes">4. Notes</a></li>
-   <li><a href="#5-credits-and-thanks"></a>Credits and Thanks</li>
-   <li><a href="#6-contact"></a>Contact</li>
-   <li><a href="#7-changelog"></a>Changelog</li>
+   <li><a href="#5-credits-and-thanks">5. Credits and Thanks</a></li>
+   <li><a href="#6-contact">6. Contact</a></li>
+   <li><a href="#7-changelog">7. Changelog</a></li>
 </ul>
 <!-- markdownlint-enable MD033 -->
 
