@@ -23,19 +23,15 @@
 
 ### **What is this list trying to offer ?**
 
-This modlist aims to be a resource for modders with at least enough of an experience in skyrim modding in general, to be able to
-trouble shoot their own modlists with the documentation provided for the mods in their descriptions, preexisting guides on the
-matter of modding and the tools provided by the modding community and their documentations.
+This modlist aims to be a utility for modders, to speed up their initial MO2 setup.
 Or people who just want a vanilla experience with all the unofficial patches and fixes.
-One resource I highly recommend is [this Guide](https://www.reddit.com/r/skyrimmods/wiki/begin2) on how to get started.
+One resource I highly recommend if you want to learn more about modding Skyrim is [this Guide](https://www.reddit.com/r/skyrimmods/wiki/begin2) on how to get started.
 
-This modlist is intended to bring the most common tools and fixes for skyrim and integrate them in an Organized manner so modlist creators
-and modders have an easier way of getting a stable initial semivanilla setup with only a little effort.
-Some of the mods might want to be exchanged by personal preference, "ASLAL" which is included since it is again generally acknowledged,
-that it is a better to have an alternate start mod that places the player in a "quiet" game cell to let all the installed mods finish their
-initial loading and giving the player the time to set up the installed mods MCM Menus to their liking, could be replaced with another alternate start mod.
-And I chose "ASLAL" over another "AS" since it still allows you/players playing your modlist a chance to experience the Vanilla start to the game.
-**Therefore feel free to use this as a basis for your modlists (but if you do so please mention it somewhere visible so others can find it as well).**
+This modlist comes with the most common tools and fixes for Skyrim Special Edition so modlist creators and modders have an easier way of getting a stable initial vanilla setup with only a little effort.
+
+Some of the mods might want to be exchanged based on personal preference and can be found in the `Optional but highly recommended mods` section.
+
+**Now have fun using this as a basis for your modlists, or your test bench for your mods or patchers.**
 
 ### **What is included in this List ?**
 
@@ -176,9 +172,9 @@ already.
 ## 5. Credits and Thanks
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
-- ForgottenGlory for making SME(FT) possible due to his early support.
+- ForgottenGlory for making SME(FT) possible due to his early support. 🧡
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
-- And ALL the mod authors that made the mods featured in this list. <3
+- And ALL the mod authors that made the mods featured in this list.
 
 ## 6. Contact
 
