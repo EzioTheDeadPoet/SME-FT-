@@ -36,7 +36,7 @@ Some of the mods might want to be exchanged by personal preference, "ASLAL" whic
 that it is a better to have an alternate start mod that places the player in a "quiet" game cell to let all the installed mods finish their
 initial loading and giving the player the time to set up the installed mods MCM Menus to their liking, could be replaced with another alternate start mod.
 And I chose "ASLAL" over another "AS" since it still allows you/players playing your modlist a chance to experience the Vanilla start to the game.
-**Therefore feel free to use this as a basis for your modlists(but if you do so please mention it somewhere visible).**
+**Therefore feel free to use this as a basis for your modlists (but if you do so please mention it somewhere visible so others can find it as well).**
 
 ### **What is included in this List ?**
 
