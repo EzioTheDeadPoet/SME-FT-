@@ -8,17 +8,18 @@
 
 But feel free to use it for a Vanilla Playthrough, if you feel like doing that.
 
----
-
-[1. General-Description !IMPORTANT!](#1-general-description)
-
-[2. Installation](#2-installation)
-
-[3. Included Patches](#3-included-patches)
-
-[4. Notes](#4-notes)
-
----
+## Index
+<!-- markdownlint-disable MD033 -->
+<ul>
+   <li><a href="#1-general-description">1. General-Description !IMPORTANT!</a></li>
+   <li><a href="#3-included-patches">3. Included Patches</a></li>
+   <li><a href="#4-notes">4. Notes</a></li>
+   <li><a href="#4-notes">4. Notes</a></li>
+   <li><a href="#5-credits-and-thanks"></a></li>
+   <li><a href="#6-contact"></a></li>
+   <li><a href="#7-changelog"></a></li>
+</ul>
+<!-- markdownlint-enable MD033 -->
 
 ## **1. GENERAL-DESCRIPTION**
 
@@ -136,13 +137,13 @@ And I chose "ASLAL" over another "AS" since it still allows you/players playing 
 ## 2. INSTALLATION
 
 0. First for Skyrim itself follow this [Guide](https://www.reddit.com/r/skyrimmods/wiki/begin2) Starting with the Foreword and ending with the end of the Install Location section.(If you want to be prepared to add mods yourself I highly recommend reading the whole thing.)
-1. Install the list with the install from file using the latest [Wabbajack](https://www.wabbajack.org) version.
-2. Go to your Skyrim Special Edition root directory. This is the same folder where SkyrimSE.exe is, depending on where you installed it following step **0.** (~~usually \"C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\\"~~
+1. Install this list by browsing the latest [Wabbajack](https://www.wabbajack.org) version with `Show Utility Lists` enabled and the game set to `Skyrim Special Edition`.
+2. Go to your Skyrim Special Edition root directory. This is the same folder where SkyrimSE.exe is, depending on where you installed it following step **0.**
 If you didn't follow the Guide which I highly advise against.) In there rename the `binkw64.dll` to `binkw64_.dll`.
 3. Open the Install Folder (MO2 folder), there navigate to Game Folder Files.
-4. Now put the Content of "Game Folder Files" into your Games installation folder.
-5. Locate the BethINI.exe in "...\\(name of the MO 2 folder)\tools\BethINI (ONLY LAUNCH WITH MO AND THE GAME CLOSED)" and run it with the game and MO2 closed.
-6. In there go to the Setup tab and point BethINI to your ModOrganizer.EXE.
+4. Now put the Content of `Game Folder Files` into your Games installation folder.
+5. Locate the `BethINI.exe` in `...\\(name of the MO 2 folder(the installation path you choose for the modlist))\tools\BethINI (ONLY LAUNCH WITH MO AND THE GAME CLOSED)` and run it with the game and MO2 closed.
+6. In there (BethINI) go to the `Setup` tab and point BethINI to your `ModOrganizer.EXE`.
 7. Select the SME(FT) Profile you intend to use in the INI Path section.
 8. Now you Select a Preset fitting your Hardware/Plans of adding an ENB
 9. Save and Exit
@@ -152,7 +153,7 @@ If you didn't follow the Guide which I highly advise against.) In there rename t
 13. Your MO2 Setup is now ready to start modding/ playing the most barebone PC friendly Skyrim experience.
 14. When adding Mods look out for possible incompatibilities and the [Patches](#3-included-patches) and the [Notes](#4-notes) sections below.
 
-**Don't try to play the `SME(FT) - Installation` Profile since it is a dummy profile, to keep disabled mods in the right oder in all the profiles.**
+**Don't try to play the `SME(FT) - Installation` Profile since it is a dummy profile, for me to compile the list.**
 
 ---
 
@@ -171,5 +172,24 @@ already.
 1. If you want to use Creation Club mods you have to disable `ReCleaned Menu - If you want to use Creation Club mods disable this!!` in your MO for the option to even be available in the main menu, but since there are more people that don't install mods from there anyway I included this to make their menus cleaner.
 2. If you want to use [Blood on the Ice Redux SE](https://www.nexusmods.com/skyrimspecialedition/mods/6126) you have to right-click `Finding Susanna Alive` and click on reinstall to let it install with the included patch.
 3. If you addded new landscapes or altered existing ones you open and run the included Synthesis with the flora patcher enabled.(It is the default setting)
+
+---
+
+## 5. Credits and Thanks
+
+- _YOU_ for actually reading the readme. Thanks a ton!!
+- ForgottenGlory for making SME(FT) possible due to his early support.
+- Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
+- And ALL the mod authors that made the mods featured in this list. <3
+
+## 6. Contact
+
+While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the [Issues](https://github.com/EzioTheDeadPoet/SME-FT-/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
+
+**DON'T CONTACT MOD-AUTHORS WITH ISSUES OR I WILL HAVE TO TAKE ACTIONS THAT WILL RESULT WITH YOU BEING BANNED FROM WABBAJACK.**
+
+## 7. Changelog
+
+See [Changelog](CHANGELOG.md).
 
 ---
