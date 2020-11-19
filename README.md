@@ -4,9 +4,7 @@
 
 ![total_installations](https://img.shields.io/endpoint?url=https://build.wabbajack.org/metrics/badge/smeft/total_installs_badge.json)
 
-**THIS MODLIST IS ONLY A BASIS TO START YOUR OWN MODDING JOURNEY AND INCLUDES ALL THE FIXES AND TOOLS KNOWN TO ME WITH A FEW ADDED RECOMMENDATIONS!!!**
-
-But feel free to use it for a Vanilla Playthrough, if you feel like doing that.
+**THIS MODLIST IS MEANT AS A BASIS TO START YOUR OWN MODDING JOURNEY AND INCLUDES ALL THE FIXES AND TOOLS KNOWN TO ME WITH A FEW ADDED RECOMMENDATIONS!!!**
 
 ## Index
 <!-- markdownlint-disable MD033 -->
