@@ -1,4 +1,6 @@
-# ![(thumbnail)](/SME-FT-Thumbnail.png)
+# SME(FT) - Skyrim Modding Essentials (Fixes & Tools)
+
+![(thumbnail)](/SME-FT-Thumbnail.png)
 
 ![status](https://img.shields.io/endpoint?url=https://build.wabbajack.org/lists/status/smeft/badge.json)
 
