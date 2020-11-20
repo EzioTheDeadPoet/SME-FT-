@@ -37,8 +37,13 @@ a.aboutMe {
 
 body {
 	color: #FBF8F1;
-    background-color: #262D37;
+	background-color: #262D37;
+	padding: 0 2% 0 0
   
+}
+
+.wrapper {
+	width: fit-content;
 }
 
 header {
@@ -93,6 +98,10 @@ pre {
  
 a small {
 	font-size: 8px;
+}
+
+header {
+	width: 15%;
 }
 
 header li {
@@ -150,33 +159,7 @@ pre.highlight {
        background: #526B67;
 }
 
-table.socials {
-	border: 0px;
-}
-
-table.socials tbody tr td, table.socials tbody tr, table.socials tbody, table.socials {
-	background: #262D37;
-	border-collapse: collapse;
-	border-spacing: 0px;
-}
-
-table.socials tbody tr td {
-	padding: 4px;
-}
-
-table.socials ul {
-	margin: 0 0 4px;
-	margin-block-start: auto;
-    margin-block-end: auto;
-}
-
-table.socials li {
-	width: 125px;
-    height: 15px;
-    margin-bottom: 4px;
-}
-
- td li.buttons {
+td li.buttons {
 	list-style-type: none;
   	width:132px;
 	height:15px;
@@ -199,7 +182,7 @@ table.socials li {
 	box-shadow: inset 0px 1px 1px 0 rgba(233,2,38, 1);
 }
 
-li.buttons a {
+li a.buttons {
 	color:#ffffff;
 }
 
@@ -211,6 +194,10 @@ td li.buttons:hover {
     background: -o-linear-gradient(top, #e5ac80 0%,#950119 100%);
     background: -ms-linear-gradient(top, #e5ac80 0%,#950119 100%);
     background: linear-gradient(to top, #e5ac80 0%,#b3672d 100%);
+}
+
+section {
+	width: 75%;
 }
 
 section a.buttons {
@@ -265,10 +252,84 @@ img {
     width: auto\9; /* ie8 */
 }
 
-@media print, screen and (max-width: 1000px) {
+@media print, screen and (max-width: 980px) {
+
+	div.wrapper {
+	  width:initial;
+	  margin:0;
+	}
+ 
+	header, section, footer {
+	  float:none;
+	  position:static;
+	  width:auto;
+	}
+   
+	header {
+	  padding-right: initial;
+	}
+  
+	section {
+	  
+	  margin:0 0 20px;
+	}
+  
+	header a small {
+	  display:inline;
+	}
+  
+	header ul {
+	  position: initial;
+	}
+
+	header ul li.download {
+		display:none;
+	}
+
+	header ul li.github {
+		display:none;
+	}
+	
+	header ul li.contribute {
+		display:none;
+	}
+
+	header ul li.changelog {
+		display:none;
+	}
+}
+
+//to overwrite the original settings as well
+@media print, screen and (max-width: 960px) {
+
+	div.wrapper {
+		width:initial;
+		margin:0;
+	}
+ 
+	header, section, footer {
+	  	float:none;
+	  	position:static;
+	  	width:auto;
+	}
+   
+	header {
+	  	padding-right: initial;
+	}
+  
+	section {
+		padding:0px 4% 0px 4%;
+	  	margin:0 0 20px;
+	}
+  
+	header a small {
+	  	display:inline;
+	}
+  
 	header ul {
 	  	position: initial;
 	}
+
 }
 
 h1 {
