@@ -1,7 +1,7 @@
 theme: jekyll-theme-dinky
 title: SME(FT) - Skyrim Modding Essentials (Fixes & Tools)
 description: A resource for a 10 minute ready to mod Skyrim setup.
-show_downloads: false
+show_downloads: true
 wabbajack:
   wabbajack_url: https://www.wabbajack.org/#/
 github:
