@@ -28,6 +28,7 @@ In short this list intendeds to offer what I was searching for when moving from 
 It got refined and has grown ever since and became a resource...
 - for LE players to make an easy move to SE with a ready to mod setup.
 - for SE players wanting a fast ready to mod setup.
+- for SE mod and Patch authors as a test bench.
 
 This modlist is a utility for modders, to speed up their initial MO2 setup.
 For people who just want a vanilla experience with all the unofficial patches and fixes.
