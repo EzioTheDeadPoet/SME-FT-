@@ -13,9 +13,10 @@
    <li><a href="#2-installation">2. Installation</a></li>
    <li><a href="#3-included-patches">3. Included Patches</a></li>
    <li><a href="#4-notes">4. Notes</a></li>
-   <li><a href="#5-credits-and-thanks">5. Credits and Thanks</a></li>
-   <li><a href="#6-contact">6. Contact</a></li>
-   <li><a href="#7-changelog">7. Changelog</a></li>
+   <li><a href="#5-reasoning-and-future-plans">5.Reasoning and Future Plans</a></li>
+   <li><a href="#5-credits-and-thanks">6. Credits and Thanks</a></li>
+   <li><a href="#6-contact">7. Contact</a></li>
+   <li><a href="#7-changelog">8. Changelog</a></li>
 </ul>
 <!-- markdownlint-enable MD033 -->
 
@@ -23,11 +24,17 @@
 
 ### **What is this list trying to offer ?**
 
-This modlist aims to be a utility for modders, to speed up their initial MO2 setup.
-Or people who just want a vanilla experience with all the unofficial patches and fixes.
-One resource I highly recommend if you want to learn more about modding Skyrim is [this Guide](https://www.reddit.com/r/skyrimmods/wiki/begin2) on how to get started.
+In short this list intendeds to offer what I was searching for when moving from Skyrim Legendary Edition to Skyrim Special Edition at the end of 2019.
+It got refined and has grown ever since and became a resource...
+- for LE players to make an easy move to SE with a ready to mod setup.
+- for SE players wanting a fast ready to mod setup.
 
-This modlist comes with the most common tools and fixes for Skyrim Special Edition so modlist creators and modders have an easier way of getting a stable initial vanilla setup with only a little effort.
+This modlist is a utility for modders, to speed up their initial MO2 setup.
+For people who just want a vanilla experience with all the unofficial patches and fixes.
+
+If you want to learn more about modding Skyrim I recommend [this Guide](https://www.reddit.com/r/skyrimmods/wiki/begin2) on how to get started.
+
+This modlist comes with the most (I don't want to make the absolute claim it has all, even tho I am pretty sure) common tools and fixes for Skyrim Special Edition so modlist creators and modders have an easier way of getting a stable initial vanilla setup with only a little effort.
 
 Some of the mods might want to be exchanged based on personal preference and can be found in the `Optional but highly recommended mods` section.
 
@@ -169,20 +176,33 @@ already.
 
 ---
 
-## 5. Credits and Thanks
+## 5. Reasoning and Future Plans
+
+There where some people asking why I haven't included mods like [unofficial performance optimized textures AKA (UPOT)](https://www.nexusmods.com/skyrimspecialedition/mods/21166), [Cleaned Skyrim SE Textures](https://www.nexusmods.com/skyrimspecialedition/mods/38775) or [Unofficial High Definition Audio Project](https://www.nexusmods.com/skyrimspecialedition/mods/18115) the short reasoning is size,
+since I want this to be a fast to install collection of fixes and tools and all of the optional mods I have included are still smaller than those audio and texture optimizations.
+So including a texture and the audio optimizations would triple the installation size. That said feel free to add them on top if you plan a vanilla playthrough or think you want them.
+
+Now what are the future plans, 
+- I want to update this regulary, while also updating [Tales from the Northern Lands](https://eziothedeadpoet.github.io/Tales-from-the-Northern-Lands/)
+- A strong amount further in the future would be [SME(FT) - LL Edition](https://github.com/EzioTheDeadPoet/SME-FT-/issues/11) which I can see as well as very useful as a lot of LE players (active on LL) are slowly moving over to SE as well and could really benefit from this. Sadly I currently have not enough time to get to do it, as seen in the linked [Issue](https://github.com/EzioTheDeadPoet/SME-FT-/issues/11).
+
+---
+
+## 6. Credits and Thanks
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
+- Lively and LadyZeefa for encouraging me to make this list.
 - ForgottenGlory for making SME(FT) possible due to his early support. 🧡
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
 - And ALL the mod authors that made the mods featured in this list.
 
-## 6. Contact
+## 7. Contact
 
 While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the [Issues](https://github.com/EzioTheDeadPoet/SME-FT-/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
 
 **DON'T CONTACT MOD-AUTHORS WITH ISSUES OR I WILL HAVE TO TAKE ACTIONS THAT WILL RESULT WITH YOU BEING BANNED FROM WABBAJACK.**
 
-## 7. Changelog
+## 8. Changelog
 
 See [Changelog](CHANGELOG.md).
 
