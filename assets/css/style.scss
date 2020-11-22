@@ -53,7 +53,7 @@ header {
 
 h1, h2, h3, h4, h5, h6 {
 	color:#D58546;
-  }
+}
 
 h1, h2, h3, h4 {
     display: block;
@@ -75,6 +75,18 @@ h4 {
 
 a {
 	color:#28c3e6;
+}
+
+span.mm {
+	color: #FBF8F1;
+}
+
+span.s {
+	color: #FBF8F1;
+}
+
+span.py {
+	color: #dd1144;
 }
 
 code, pre {
@@ -252,6 +264,12 @@ img {
     width: auto\9; /* ie8 */
 }
 
+section div {
+	max-width: 100%;
+	height: auto;
+	width: auto\9; /* ie8 */
+}
+
 @media print, screen and (max-width: 980px) {
 
 	div.wrapper {
@@ -335,3 +353,4 @@ img {
 	}
 
 }
+
