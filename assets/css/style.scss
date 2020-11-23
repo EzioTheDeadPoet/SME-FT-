@@ -130,7 +130,6 @@ code, pre {
 pre {
 	padding: 4px 12px;
  	border-radius:4px;
-	border:1px solid #D58546;
  	overflow: auto;
   	overflow-y: hidden;
   	margin-bottom: 32px;
@@ -149,6 +148,8 @@ header li {
   	width:132px;
 	height:15px;
 	margin-bottom: 12px;
+	margin-right: 6px;
+	margin-left: 6px;
 	line-height: 1em;
 	padding: 6px 6px 6px 7px;
 
@@ -177,8 +178,10 @@ header li:hover {
     background: linear-gradient(to top, #e5ac80 0%,#b3672d 100%);
 }
 
-div.language-md.highlighter-rouge {
-	background-color: #262D37;
+div .highlighter-rouge {
+	background-color: #526B67;
+	border-radius: 4px;
+	padding: 0% 4%;
 }
 
 pre.highlight {
@@ -288,12 +291,6 @@ img {
     width: auto\9; /* ie8 */
 }
 
-section div {
-	max-width: 100%;
-	height: auto;
-	width: auto\9; /* ie8 */
-}
-
 @media print, screen and (max-width: 980px) {
 
 	div.wrapper {
@@ -336,7 +333,7 @@ section div {
 	header ul li.download {
 		display:none;
 	}
-
+	/*
 	header ul li.github {
 		display:none;
 	}
@@ -348,9 +345,11 @@ section div {
 	header ul li.changelog {
 		display:none;
 	}
+	*/
 }
 
 //to overwrite the original settings as well
+/*
 @media print, screen and (max-width: 960px) {
 
 	div.wrapper {
@@ -382,3 +381,5 @@ section div {
 	}
 
 }
+
+*/
