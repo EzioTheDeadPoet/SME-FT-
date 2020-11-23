@@ -66,6 +66,7 @@ div.headertext {
 ul.header {
 	display: flex;
 	flex-direction: column;
+	align-self: center;
 	align-content: space-around;
 	order: 2;
 }
