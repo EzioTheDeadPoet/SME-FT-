@@ -44,11 +44,35 @@ body {
 
 .wrapper {
 	width: fit-content;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
 }
 
 header {
+	display: flex;
+	align-self: start;
+	order: 1;
+	flex-direction: column;
+	position: relative;
 	background-color: #262D37;
 	color: #FBF8F1;
+}
+
+div.headertext {
+	order: 1;
+}
+
+ul.header {
+	display: flex;
+	flex-direction: column;
+	align-content: space-around;
+	order: 2;
+}
+
+section {
+	order: 2;
+	width: 75%;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -77,16 +101,20 @@ a {
 	color:#28c3e6;
 }
 
-span.mm {
+.highlight .nn {
 	color: #FBF8F1;
 }
 
-span.s {
+.highlight .s {
 	color: #FBF8F1;
 }
 
-span.py {
+.highlight .py {
 	color: #dd1144;
+}
+
+.highlight .na {
+	color: #E6DB5A;
 }
 
 code, pre {
@@ -208,10 +236,6 @@ td li.buttons:hover {
     background: linear-gradient(to top, #e5ac80 0%,#b3672d 100%);
 }
 
-section {
-	width: 75%;
-}
-
 section a.buttons {
 	width:132px;
 	height:15px;
@@ -275,6 +299,10 @@ section div {
 	div.wrapper {
 	  width:initial;
 	  margin:0;
+	  display: flex;
+	  flex-direction: column;
+	  justify-content: space-between;
+	  order: column;
 	}
  
 	header, section, footer {
@@ -288,7 +316,8 @@ section div {
 	}
    
 	header {
-	  padding-right: initial;
+		flex-direction: row;
+	  	padding-right: initial;
 	}
   
 	section {
@@ -353,4 +382,3 @@ section div {
 	}
 
 }
-
