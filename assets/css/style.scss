@@ -79,6 +79,13 @@ section {
 	width: 75%;
 }
 
+div.socials {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+	align-content: space-evenly;
+}
+
 h1, h2, h3, h4, h5, h6 {
 	color:#D58546;
 }
