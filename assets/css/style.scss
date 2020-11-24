@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+a.buttons {
+	padding: 8px 2px 2px 22px;
+}
+
 a.wabbajack {
 	background: url(../images/wabbajack-small.png) no-repeat 1px;
 }
@@ -63,10 +67,10 @@ div.headertext {
 	order: 1;
 }
 
-ul.header {
+div.header {
 	display: flex;
 	flex-direction: column;
-	align-content: space-around;
+	align-content: space-evenly;
 	order: 2;
 }
 
@@ -143,7 +147,7 @@ header {
 	width: 15%;
 }
 
-header li {
+div.header a.buttons {
 	list-style-type: none;
   	width:132px;
 	height:15px;
@@ -168,7 +172,7 @@ header li {
 	box-shadow: inset 0px 1px 1px 0 rgba(233,2,38, 1);
 }
 
-header li:hover {
+div.header a.buttons:hover {
 	background: #e5ac80;
 	background: -moz-linear-gradient(top, #e5ac80 0%, #950119 100%);
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#8DAEB5), color-stop(100%,#8DAEB5));
@@ -200,7 +204,7 @@ pre.highlight {
     color: #FBF8F1;
        background: #526B67;
 }
-
+/*
 td li.buttons {
 	list-style-type: none;
   	width:132px;
@@ -223,7 +227,7 @@ td li.buttons {
 	-webkit-box-shadow: inset 0px 1px 1px 0 rgba(233,2,38, 1);
 	box-shadow: inset 0px 1px 1px 0 rgba(233,2,38, 1);
 }
-
+*/
 li a.buttons {
 	color:#ffffff;
 }

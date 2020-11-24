@@ -20,14 +20,14 @@
           <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
           <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
         </div>
-        <ul class="header">
-          <li><a class="buttons mainpage" href="https://eziothedeadpoet.github.io/Tales-from-the-Northern-Lands/">Main Page</a></li>
-          <li class="changelog"><a class="buttons changelog" href="https://eziothedeadpoet.github.io/Tales-from-the-Northern-Lands/CHANGELOG.html">Changelog</a></li>
-          <li class="github"><a class="buttons github" href="{{ site.github.repository_url }}">View On GitHub</a></li>
-          <li><a class="buttons wabbajack" href="{{ site.wabbajack.wabbajack_url }}">Wabbajack Tool</a></li>
-          <li><a class="buttons aboutMe" href="https://eziothedeadpoet.github.io/AboutMe/">About Me</a></li>
+        <div class="header">
+          <a class="buttons mainpage" href="https://eziothedeadpoet.github.io/Tales-from-the-Northern-Lands/">Main Page</a>
+          <a class="buttons changelog" href="https://eziothedeadpoet.github.io/Tales-from-the-Northern-Lands/CHANGELOG.html">Changelog</a>
+          <a class="buttons github" href="{{ site.github.repository_url }}">View On GitHub</a>
+          <a class="buttons wabbajack" href="{{ site.wabbajack.wabbajack_url }}">Wabbajack Tool</a>
+          <a class="buttons aboutMe" href="https://eziothedeadpoet.github.io/AboutMe/">About Me</a>
         </ul>
-      </header>
+      </div>
 
       <section>
         {{ content }}
