@@ -74,6 +74,10 @@ div.header {
 	order: 2;
 }
 
+div.header p {
+	margin: 11px 0;
+}
+
 section {
 	order: 2;
 	width: 75%;
@@ -156,7 +160,7 @@ header {
 
 div.header a.buttons {
 	list-style-type: none;
-  	width:132px;
+  	width:160px;
 	height:15px;
 	margin-bottom: 12px;
 	margin-right: 6px;
