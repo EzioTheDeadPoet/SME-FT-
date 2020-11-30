@@ -14,9 +14,9 @@
    <li><a href="#3-included-patches">3. Included Patches</a></li>
    <li><a href="#4-notes">4. Notes</a></li>
    <li><a href="#5-reasoning-and-future-plans">5.Reasoning and Future Plans</a></li>
-   <li><a href="#5-credits-and-thanks">6. Credits and Thanks</a></li>
-   <li><a href="#6-contact">7. Contact</a></li>
-   <li><a href="#7-changelog">8. Changelog</a></li>
+   <li><a href="#6-credits-and-thanks">6. Credits and Thanks</a></li>
+   <li><a href="#7-contact">7. Contact</a></li>
+   <li><a href="#8-changelog">8. Changelog</a></li>
 </ul>
 <!-- markdownlint-enable MD033 -->
 
