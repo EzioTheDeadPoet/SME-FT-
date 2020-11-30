@@ -26,6 +26,7 @@
 
 In short this list intendeds to offer what I was searching for when moving from Skyrim Legendary Edition to Skyrim Special Edition at the end of 2019.
 It got refined and has grown ever since and became a resource...
+
 - for LE players to make an easy move to SE with a ready to mod setup.
 - for SE players wanting a fast ready to mod setup.
 - for SE mod and Patch authors as a test bench.
@@ -183,7 +184,8 @@ There where some people asking why I haven't included mods like [unofficial perf
 since I want this to be a fast to install collection of fixes and tools and all of the optional mods I have included are still smaller than those audio and texture optimizations.
 So including a texture and the audio optimizations would triple the installation size. That said feel free to add them on top if you plan a vanilla playthrough or think you want them.
 
-Now what are the future plans, 
+Now what are the future plans,
+
 - I want to update this regulary, while also updating [Tales from the Northern Lands](https://eziothedeadpoet.github.io/Tales-from-the-Northern-Lands/)
 - A strong amount further in the future would be [SME(FT) - LL Edition](https://github.com/EzioTheDeadPoet/SME-FT-/issues/11) which I can see as well as very useful as a lot of LE players (active on LL) are slowly moving over to SE as well and could really benefit from this. Sadly I currently have not enough time to get to do it, as seen in the linked [Issue](https://github.com/EzioTheDeadPoet/SME-FT-/issues/11).
 
