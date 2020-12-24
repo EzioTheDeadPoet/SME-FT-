@@ -9,18 +9,17 @@
 ## Index
 <!-- markdownlint-disable MD033 -->
 <ul>
-   <li><a href="#1-general-description">1. General-Description !IMPORTANT!</a></li>
-   <li><a href="#2-installation">2. Installation</a></li>
-   <li><a href="#3-included-patches">3. Included Patches</a></li>
-   <li><a href="#4-notes">4. Notes</a></li>
-   <li><a href="#5-reasoning-and-future-plans">5.Reasoning and Future Plans</a></li>
-   <li><a href="#6-credits-and-thanks">6. Credits and Thanks</a></li>
-   <li><a href="#7-contact">7. Contact</a></li>
-   <li><a href="#8-changelog">8. Changelog</a></li>
+   <li><a href="general-description">General-Description !IMPORTANT!</a></li>
+   <li><a href="installation">Installation</a></li>
+   <li><a href="notes">Notes</a></li>
+   <li><a href="reasoning-and-future-plans">Reasoning and Future Plans</a></li>
+   <li><a href="credits-and-thanks">Credits and Thanks</a></li>
+   <li><a href="contact">Contact</a></li>
+   <li><a href="changelog">Changelog</a></li>
 </ul>
 <!-- markdownlint-enable MD033 -->
 
-## **1. GENERAL-DESCRIPTION**
+## **GENERAL-DESCRIPTION**
 
 ### **What is this list trying to offer ?**
 
@@ -58,10 +57,11 @@ Some of the mods might want to be exchanged based on personal preference and can
          - **Merge Plugins Hide**: Hide / unhide plugins that were merged using `Merge Plugins` or `zMerge`
          - **Sync Mod Order**: Sync mod order from current profile to another while keeping the (enabled/disabled) state intact
       - [LOOT](https://github.com/loot/loot)
-      - [Mator Smash](http://nexusmods.com/skyrim/mods/90987)
       - [NifSkope](https://github.com/niftools/nifskope)
       - [SSEEdit](http://nexusmods.com/skyrimspecialedition/mods/164)
       - [SSELODGen](https://www.nexusmods.com/skyrimspecialedition/mods/6642)
+      - [Synthesis](https://github.com/Noggog/Synthesis)
+      - [Unofficial Mator Smash Updated](https://www.nexusmods.com/skyrimspecialedition/mods/39378)
       - [Wrye Bash](https://www.nexusmods.com/skyrimspecialedition/mods/6837)
       - [zEdit](https://github.com/z-edit/zedit)
 
@@ -77,16 +77,22 @@ Some of the mods might want to be exchanged based on personal preference and can
       - [Console Commands Extender](https://www.nexusmods.com/skyrimspecialedition/mods/28210)
       - [Copy and Paste in Console](http://nexusmods.com/skyrimspecialedition/mods/30928)
       - [Critters Aint Snitches](http://nexusmods.com/skyrimspecialedition/mods/15134)
-      - [Dragon Stalking Fix](http://nexusmods.com/skyrimspecialedition/mods/14060)
       - [Dwemer Gates Don't Reset](https://www.nexusmods.com/skyrimspecialedition/mods/26331)
       - [Enchantment Reload Fix SE](http://nexusmods.com/skyrimspecialedition/mods/21055)
       - [Engine Fixes](http://nexusmods.com/skyrimspecialedition/mods/17230)
+      - [Enhanced Reanimation](https://www.nexusmods.com/skyrimspecialedition/mods/43500)
+      - [Equip Enchantment Fix](https://www.nexusmods.com/skyrimspecialedition/mods/42839)
+      - [Essential Favorites](https://www.nexusmods.com/skyrimspecialedition/mods/42997)
       - [Fast Travel Speed Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1503)
+      - [Favorite Misc Items](https://www.nexusmods.com/skyrimspecialedition/mods/42750)
       - [First Person Sneak Strafe-Walk Stutter Fix](http://nexusmods.com/skyrimspecialedition/mods/31165)
       - [Fix Note icon for SkyUI (SKSE64 plugin)](https://www.nexusmods.com/skyrimspecialedition/mods/32561)
       - [Fixed body collision](http://nexusmods.com/skyrimspecialedition/mods/10849)
+      - [Fixed Dragon Stalking Fix](https://www.nexusmods.com/skyrimspecialedition/mods/37230)
       - [FloraFixer - Mutagen Patcher and Data](https://www.nexusmods.com/skyrimspecialedition/mods/42057) (read Note 3. in [Notes](https://github.com/EzioTheDeadPoet/SME-FT-#4-notes))
+      - [hank's gamepad and controller fixes](https://www.nexusmods.com/skyrimspecialedition/mods/42492)
       - [Keyboard Shortcuts Fix](https://www.nexusmods.com/skyrimspecialedition/mods/3620?tab=description)
+      - [Logical Outfits and Classes for The Dark Brotherhood Forever](https://www.nexusmods.com/skyrimspecialedition/mods/43483)
       - [Modern Brawl Bug Fix](http://nexusmods.com/skyrimspecialedition/mods/1473)
       - [More Informative Console](http://nexusmods.com/skyrimspecialedition/mods/19250)
       - [Move it Dammit - for Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/752)
@@ -124,12 +130,12 @@ Some of the mods might want to be exchanged based on personal preference and can
    4. Optional but highly recommended mods(that address issues with the main game that aren't really bugs)
       - [Alternate Start - Live Another Life](http://nexusmods.com/skyrimspecialedition/mods/272)
       - [RaceMenu](http://nexusmods.com/skyrimspecialedition/mods/19080)
-      - [Finding Susanna Alive - A Blood on the Ice Trigger Revision](https://www.nexusmods.com/skyrimspecialedition/mods/32512) ([Blood on the Ice Redux SE](https://www.nexusmods.com/skyrimspecialedition/mods/6126) users see Note 2. in the [Notes](https://github.com/EzioTheDeadPoet/SME-FT-#4-notes) section of this readme)
+      - [Finding Susanna Alive - A Blood on the Ice Trigger Revision](https://www.nexusmods.com/skyrimspecialedition/mods/32512) ([Blood on the Ice Redux SE](https://www.nexusmods.com/skyrimspecialedition/mods/6126) users see Note 2. in the [Notes](#notes) section of this readme)
       - [GIST Soul Trap](http://nexusmods.com/skyrimspecialedition/mods/15755)
+      - [Loki's Wade In Water](https://www.nexusmods.com/skyrimspecialedition/mods/42854)
       - [No BS AI Projectile Dodge](http://nexusmods.com/skyrimspecialedition/mods/1763)
       - [Notification Log SSE](https://www.nexusmods.com/skyrimspecialedition/mods/27707)
-      - [Protect Your People SE](http://nexusmods.com/skyrimspecialedition/mods/10297)
-      - [ReCleaned Menu](https://www.nexusmods.com/skyrimspecialedition/mods/26680) (Creation Club users see Note 1. in the [Notes](https://github.com/EzioTheDeadPoet/SME-FT-#4-notes) section of this readme)
+      - [ReCleaned Menu](https://www.nexusmods.com/skyrimspecialedition/mods/26680) (Creation Club users see Note 1. in the [Notes](#notes) section of this readme)
       - [StayAtSystemPageSE](http://nexusmods.com/skyrimspecialedition/mods/19832)
       - [Velexia's Animals are not Monsters SE](http://nexusmods.com/skyrimspecialedition/mods/32133)
       - [Wider MCM Menu for SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/22825)
@@ -137,48 +143,37 @@ Some of the mods might want to be exchanged based on personal preference and can
 
 ---
 
-## 2. INSTALLATION
+## INSTALLATION
 
-0. First for Skyrim itself follow this [Guide](https://www.reddit.com/r/skyrimmods/wiki/begin2) Starting with the Foreword and ending with the end of the Install Location section.(If you want to be prepared to add mods yourself I highly recommend reading the whole thing.)
-1. Install this list by browsing the latest [Wabbajack](https://www.wabbajack.org) version with `Show Utility Lists` enabled and the game set to `Skyrim Special Edition`.
-2. Go to your Skyrim Special Edition root directory. This is the same folder where SkyrimSE.exe is, depending on where you installed it following step **0.**
-If you didn't follow the Guide which I highly advise against.) In there rename the `binkw64.dll` to `binkw64_.dll`.
-3. Open the Install Folder (MO2 folder), there navigate to Game Folder Files.
-4. Now put the Content of `Game Folder Files` into your Games installation folder.
-5. Locate the `BethINI.exe` in `...\\(name of the MO 2 folder(the installation path you choose for the modlist))\tools\BethINI (ONLY LAUNCH WITH MO AND THE GAME CLOSED)` and run it with the game and MO2 closed.
-6. In there (BethINI) go to the `Setup` tab and point BethINI to your `ModOrganizer.EXE`.
-7. Select the SME(FT) Profile you intend to use in the INI Path section.
-8. Now you Select a Preset fitting your Hardware/Plans of adding an ENB
-9. Save and Exit
-10. Open ModOrganizer and select the profile you want to use as your basis
-11. Either run the FNIS tool or Nemesis as if you had just installed them (if you selected one of those profiles)
-12. To Launch the game select SKSE in MO2 and hit launch, there you can also create MO2 shortcuts to automatically launch linked binaries trough MO2.
-13. Your MO2 Setup is now ready to start modding/ playing the most barebone PC friendly Skyrim experience.
-14. When adding Mods look out for possible incompatibilities and the [Patches](#3-included-patches) and the [Notes](#4-notes) sections below.
+- First for Skyrim itself follow this [Guide](https://www.reddit.com/r/skyrimmods/wiki/begin2) Starting with the Foreword and ending with the end of the Install Location section.(If you want to be prepared to add mods yourself I highly recommend reading the whole thing.)
+- Install this list by browsing the latest [Wabbajack](https://www.wabbajack.org) version with `Show Utility Lists` enabled and the game set to `Skyrim Special Edition`.
+- Open the Install Folder (MO2 folder), there navigate to `Game Folder Files`.
+- Now put the Content of `Game Folder Files` into your Games installation folder.
+- Locate the `BethINI.exe` in `...\\(name of the MO 2 folder(the installation path you choose for the modlist))\tools\BethINI (ONLY LAUNCH WITH MO AND THE GAME CLOSED)` and run it with the game and MO2 closed.
+- In there (BethINI) go to the `Setup` tab and point BethINI to your `ModOrganizer.EXE`.
+- Select the SME(FT) Profile you intend to use in the INI Path section.
+- Now you Select a Preset fitting your Hardware/Plans of adding an ENB
+- Save and Exit
+- Open ModOrganizer and select the profile you want to use as your basis
+- Either run the FNIS tool or Nemesis as if you had just installed them (if you selected one of those profiles)
+- Launch Synthesis and run the pre-selected patchers and close it when done
+- To Launch the game select SKSE in MO2 and hit launch, there you can also create MO2 shortcuts to automatically launch linked binaries trough MO2.
+- Your MO2 Setup is now ready to start modding/ playing the most barebone PC friendly Skyrim experience.
+- When adding Mods look out for possible incompatibilities and the [Notes](#4-notes) sections below.
 
 **Don't try to play the `SME(FT) - Installation` Profile since it is a dummy profile, for me to compile the list.**
 
 ---
 
-## 3. Included Patches
-
-If a mod I used has patches for other mods they are included but need to be enabled by you they are marked
-by being placed under the `INCLUDED PATCHES` separator and are part of the patch mod category of MO.
-Each one of them has the mods the patch is for included in its name and/or a note inside of MO.
-If a mod has a patch instead of merging it manually I would advise to check the modpage if there isn't a merged patch
-already.
-
----
-
-## 4. Notes
+## Notes
 
 1. If you want to use Creation Club mods you have to disable `ReCleaned Menu - If you want to use Creation Club mods disable this!!` in your MO for the option to even be available in the main menu, but since there are more people that don't install mods from there anyway I included this to make their menus cleaner.
 2. If you want to use [Blood on the Ice Redux SE](https://www.nexusmods.com/skyrimspecialedition/mods/6126) you have to right-click `Finding Susanna Alive` and click on reinstall to let it install with the included patch.
-3. If you addded new landscapes or altered existing ones you open and run the included Synthesis with the flora patcher enabled.(It is the default setting)
+3. If you addded new landscapes or altered existing ones you open and run the included Synthesis patchers.
 
 ---
 
-## 5. Reasoning and Future Plans
+## Reasoning and Future Plans
 
 There where some people asking why I haven't included mods like [unofficial performance optimized textures AKA (UPOT)](https://www.nexusmods.com/skyrimspecialedition/mods/21166), [Cleaned Skyrim SE Textures](https://www.nexusmods.com/skyrimspecialedition/mods/38775) or [Unofficial High Definition Audio Project](https://www.nexusmods.com/skyrimspecialedition/mods/18115) the short reasoning is size,
 since I want this to be a fast to install collection of fixes and tools and all of the optional mods I have included are still smaller than those audio and texture optimizations.
@@ -186,12 +181,12 @@ So including a texture and the audio optimizations would triple the installation
 
 Now what are the future plans,
 
-- I want to update this regulary, while also updating [Tales from the Northern Lands](https://eziothedeadpoet.github.io/Tales-from-the-Northern-Lands/)
+- I want to update this regularly, while also updating [Tales from the Northern Lands](https://eziothedeadpoet.github.io/Tales-from-the-Northern-Lands/)
 - A strong amount further in the future would be [SME(FT) - LL Edition](https://github.com/EzioTheDeadPoet/SME-FT-/issues/11) which I can see as well as very useful as a lot of LE players (active on LL) are slowly moving over to SE as well and could really benefit from this. Sadly I currently have not enough time to get to do it, as seen in the linked [Issue](https://github.com/EzioTheDeadPoet/SME-FT-/issues/11).
 
 ---
 
-## 6. Credits and Thanks
+## Credits and Thanks
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
 - Lively and LadyZeefa for encouraging me to make this list.
@@ -199,13 +194,13 @@ Now what are the future plans,
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
 - And ALL the mod authors that made the mods featured in this list.
 
-## 7. Contact
+## Contact
 
 While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the [Issues](https://github.com/EzioTheDeadPoet/SME-FT-/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
 
 **DON'T CONTACT MOD-AUTHORS WITH ISSUES OR I WILL HAVE TO TAKE ACTIONS THAT WILL RESULT WITH YOU BEING BANNED FROM WABBAJACK.**
 
-## 8. Changelog
+## Changelog
 
 See [Changelog](CHANGELOG.md).
 
