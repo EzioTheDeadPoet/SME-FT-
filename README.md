@@ -156,6 +156,8 @@ Some of the mods might want to be exchanged based on personal preference and can
 - Open ModOrganizer and select the profile you want to use as your basis
 - Either run the FNIS tool or Nemesis as if you had just installed them (if you selected one of those profiles)
 - Launch Synthesis and run the pre-selected patchers and close it when done
+  - If this step causes issues for you please check if your system has the requirements for it [here](https://github.com/Mutagen-Modding/Synthesis/wiki/Installation).
+  - If you have issues on how to use it look [here](https://github.com/Mutagen-Modding/Synthesis/wiki/Typical-Usage).
 - To Launch the game select SKSE in MO2 and hit launch, there you can also create MO2 shortcuts to automatically launch linked binaries trough MO2.
 - Your MO2 Setup is now ready to start modding/ playing the most barebone PC friendly Skyrim experience.
 - When adding Mods look out for possible incompatibilities and the [Notes](#4-notes) sections below.
@@ -192,6 +194,7 @@ Now what are the future plans,
 - ForgottenGlory for making SME(FT) possible due to his early support. 🧡
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
 - And ALL the mod authors that made the mods featured in this list.
+- Special thanks to all the other people listed [here](https://eziothedeadpoet.github.io/AboutMe/HALLOFFAME.html) that support this and other projects of mine.
 
 ## Contact
 
