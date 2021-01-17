@@ -1,5 +1,18 @@
 # Changelog
 
+## 21.01.17: SME(FT) - Skyrim Modding Essentials (Fixes & Tools)
+
+- changed
+  - [hank's gamepad and controller fixes](https://www.nexusmods.com/skyrimspecialedition/mods/42492) (disabled due to some weird camera behavior during conversations while scrolling with the mouse wheel)
+
+- added
+  - [Whiterun texture memory usage reduction](https://www.nexusmods.com/skyrim/mods/79995) (run through)
+
+- updated
+  - [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
+  - [Enhanced Reanimation](https://www.nexusmods.com/skyrimspecialedition/mods/43500)
+  - [Synthesis](https://github.com/Mutagen-Modding/Synthesis)
+
 ## 20.12.24: SME(FT) - Skyrim Modding Essentials (Fixes & Tools)
 
 - replaced
