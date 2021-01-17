@@ -6,8 +6,8 @@
   - [hank's gamepad and controller fixes](https://www.nexusmods.com/skyrimspecialedition/mods/42492) (disabled due to some weird camera behavior during conversations while scrolling with the mouse wheel)
 
 - added
-  - [Whiterun texture memory usage reduction](https://www.nexusmods.com/skyrim/mods/79995) (run through)
-
+  - [Whiterun texture memory usage reduction](https://www.nexusmods.com/skyrim/mods/79995)
+  
 - updated
   - [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
   - [Enhanced Reanimation](https://www.nexusmods.com/skyrimspecialedition/mods/43500)
