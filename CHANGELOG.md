@@ -1,5 +1,10 @@
 # Changelog
 
+## 21.01.17: SME(FT) - Skyrim Modding Essentials (Fixes & Tools) Same Day Update
+
+- removed
+  - [SSE Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/10547) (Covered by engine fixes)
+  
 ## 21.01.17: SME(FT) - Skyrim Modding Essentials (Fixes & Tools)
 
 - changed
