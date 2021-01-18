@@ -104,7 +104,6 @@ Some of the mods might want to be exchanged based on personal preference and can
       - [SkyUI](http://nexusmods.com/skyrimspecialedition/mods/12604)
       - [SkyUI SE - Flashing Savegames Fix](http://nexusmods.com/skyrimspecialedition/mods/20406)
       - [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705)
-      - [SSE Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/10547)
       - [SSE Parallax Shader Fix](http://nexusmods.com/skyrimspecialedition/mods/31963)
       - [Unofficial Skyrim Special Edition Patch](http://nexusmods.com/skyrimspecialedition/mods/266)
 
