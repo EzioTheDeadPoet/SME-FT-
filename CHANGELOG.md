@@ -1,3 +1,6 @@
+---
+description: Here you can find a list of changes made during each update.
+---
 # Changelog
 
 ## 21.01.17: SME(FT) - Skyrim Modding Essentials (Fixes & Tools) Same Day Update
