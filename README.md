@@ -82,7 +82,7 @@ Some of the mods might want to be exchanged based on personal preference and can
       - [Engine Fixes](http://nexusmods.com/skyrimspecialedition/mods/17230)
       - [Enhanced Reanimation](https://www.nexusmods.com/skyrimspecialedition/mods/43500)
       - [Equip Enchantment Fix](https://www.nexusmods.com/skyrimspecialedition/mods/42839)
-      - [Essential Favorites](https://www.nexusmods.com/skyrimspecialedition/mods/42997)
+      - [Essential Favorites](https://www.nexusmods.com/skyrimspecialedition/mods/42997) (See Note 4. in [Notes](#notes).)
       - [Fast Travel Speed Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1503)
       - [Favorite Misc Items](https://www.nexusmods.com/skyrimspecialedition/mods/42750)
       - [First Person Sneak Strafe-Walk Stutter Fix](http://nexusmods.com/skyrimspecialedition/mods/31165)
@@ -104,7 +104,6 @@ Some of the mods might want to be exchanged based on personal preference and can
       - [SkyUI](http://nexusmods.com/skyrimspecialedition/mods/12604)
       - [SkyUI SE - Flashing Savegames Fix](http://nexusmods.com/skyrimspecialedition/mods/20406)
       - [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705)
-      - [SSE Parallax Shader Fix](http://nexusmods.com/skyrimspecialedition/mods/31963)
       - [Unofficial Skyrim Special Edition Patch](http://nexusmods.com/skyrimspecialedition/mods/266)
 
    3. Mod Resources
@@ -134,6 +133,7 @@ Some of the mods might want to be exchanged based on personal preference and can
       - [No BS AI Projectile Dodge](http://nexusmods.com/skyrimspecialedition/mods/1763)
       - [Notification Log SSE](https://www.nexusmods.com/skyrimspecialedition/mods/27707)
       - [ReCleaned Menu](https://www.nexusmods.com/skyrimspecialedition/mods/26680) (Creation Club users see Note 1. in the [Notes](#notes) section of this readme)
+      - [SSE Parallax Shader Fix](http://nexusmods.com/skyrimspecialedition/mods/31963) (See Note 5. in [Notes](#notes).)
       - [StayAtSystemPageSE](http://nexusmods.com/skyrimspecialedition/mods/19832)
       - [Velexia's Animals are not Monsters SE](http://nexusmods.com/skyrimspecialedition/mods/32133)
       - [Wider MCM Menu for SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/22825)
@@ -159,7 +159,7 @@ Some of the mods might want to be exchanged based on personal preference and can
   - If you have issues on how to use it look [here](https://github.com/Mutagen-Modding/Synthesis/wiki/Typical-Usage).
 - To Launch the game select SKSE in MO2 and hit launch, there you can also create MO2 shortcuts to automatically launch linked binaries trough MO2.
 - Your MO2 Setup is now ready to start modding/ playing the most barebone PC friendly Skyrim experience.
-- When adding Mods look out for possible incompatibilities and the [Notes](#4-notes) sections below.
+- When adding Mods look out for possible incompatibilities and the [Notes](#notes) sections below.
 
 **Don't try to play the `SME(FT) - Installation` Profile since it is a dummy profile, for me to compile the list.**
 
@@ -170,6 +170,8 @@ Some of the mods might want to be exchanged based on personal preference and can
 1. If you want to use Creation Club mods you have to disable `ReCleaned Menu - If you want to use Creation Club mods disable this!!` in your MO for the option to even be available in the main menu, but since there are more people that don't install mods from there anyway I included this to make their menus cleaner.
 2. If you want to use [Blood on the Ice Redux SE](https://www.nexusmods.com/skyrimspecialedition/mods/6126) you have to right-click `Finding Susanna Alive` and click on reinstall to let it install with the included patch.
 3. If you addded new landscapes or altered existing ones you open and run the included Synthesis patchers.
+4. I set the protection of `Essential Favorites` to be disabled for disarming, since it would be incompatible with mods that rely on disarming.
+5. Moved this fix in the recommended section due to potential incompatibilities with[Better Dynamic Snow SE](https://www.nexusmods.com/skyrimspecialedition/mods/9121) as indicated [here](https://www.nexusmods.com/skyrimspecialedition/mods/31963?tab=bugs). 
 
 ---
 
