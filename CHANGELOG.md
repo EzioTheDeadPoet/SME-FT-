@@ -3,6 +3,17 @@ description: Here you can find a list of changes made during each update.
 ---
 # Changelog
 
+## 21.01.20: SME(FT) - Skyrim Modding Essentials (Fixes & Tools)
+
+- fixed
+  - DLL Plugin Loader was setup wrong causing multiple fixes to not load (re-copy all contents from `Game Folder Files` into your game folder.)
+    - **If you used SME(FT) as a base your for a modlist you intend to use for Wabbajack, then install this update in a different location and copy the `Game Folder Files` folder into your current setup and the `downloads` of this version into your modlist (this fix needs a dummy file downloaded that would miss during your compile attempts otherwise), so your users get the fix as well!**
+    - thanks to the people(or person) repeatedly asking the question why `Custom Skills Framework` wasn't working with this setup, for making me notice this issue.
+
+- changed
+  - set the protection of `Essential Favorites` to be disabled for disarming, since it would be incompatible with mods that rely on disarming.
+  - moved `SSE Parallax Shader Fix (BETA)` to the recommended section, since it seems to have some incompatibilities with the latest version of [Better Dynamic Snow SE](https://www.nexusmods.com/skyrimspecialedition/mods/9121) as indicated [here](https://www.nexusmods.com/skyrimspecialedition/mods/31963?tab=bugs).
+
 ## 21.01.17: SME(FT) - Skyrim Modding Essentials (Fixes & Tools) Same Day Update
 
 - removed
