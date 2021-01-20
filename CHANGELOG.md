@@ -3,6 +3,14 @@ description: Here you can find a list of changes made during each update.
 ---
 # Changelog
 
+## 21.01.20: SME(FT) - Skyrim Modding Essentials (Fixes & Tools) Same Day Update
+
+I was so eager to push that important update to make the general check for updated mods so I will just push a second update today.
+
+- updated
+  - [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
+  - [BodySlide and Outfit Studio](http://nexusmods.com/skyrimspecialedition/mods/201)
+
 ## 21.01.20: SME(FT) - Skyrim Modding Essentials (Fixes & Tools)
 
 - fixed
