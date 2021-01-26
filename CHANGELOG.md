@@ -3,6 +3,10 @@ description: Here you can find a list of changes made during each update.
 ---
 # Changelog
 
+## 21.01.26 Hotfix 1: SME(FT) - Skyrim Modding Essentials (Fixes & Tools)
+
+- fixed ini settings in Engine Fixes
+
 ## 21.01.26: SME(FT) - Skyrim Modding Essentials (Fixes & Tools)
 
 - added
