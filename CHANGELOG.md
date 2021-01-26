@@ -3,6 +3,18 @@ description: Here you can find a list of changes made during each update.
 ---
 # Changelog
 
+## 21.01.26: SME(FT) - Skyrim Modding Essentials (Fixes & Tools)
+
+- added
+  - [Dynamic Distant Objects LOD - DynDOLOD](https://www.nexusmods.com/skyrim/mods/59721)
+    - This does **NOT** include the resources found on the same modpage.
+
+- updated
+  - [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
+  - [Engine Fixes](http://nexusmods.com/skyrimspecialedition/mods/17230)
+  - [Equip Enchantment Fix](https://www.nexusmods.com/skyrimspecialedition/mods/42839)
+  - [hank's gamepad and controller fixes](https://www.nexusmods.com/skyrimspecialedition/mods/42492)
+
 ## 21.01.20: SME(FT) - Skyrim Modding Essentials (Fixes & Tools) Same Day Update
 
 I was so eager to push that important update to make the general check for updated mods so I will just push a second update today.

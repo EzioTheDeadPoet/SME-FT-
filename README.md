@@ -56,6 +56,8 @@ Some of the mods might want to be exchanged based on personal preference and can
       - [deorder's MO2 Plugins](https://github.com/deorder/mo2-plugins)
          - **Merge Plugins Hide**: Hide / unhide plugins that were merged using `Merge Plugins` or `zMerge`
          - **Sync Mod Order**: Sync mod order from current profile to another while keeping the (enabled/disabled) state intact
+      - [Dynamic Distant Objects LOD - DynDOLOD](https://www.nexusmods.com/skyrim/mods/59721)
+         - This does **NOT** include the resources found on the same modpage.
       - [LOOT](https://github.com/loot/loot)
       - [NifSkope](https://github.com/niftools/nifskope)
       - [SSEEdit](http://nexusmods.com/skyrimspecialedition/mods/164)
@@ -159,6 +161,7 @@ Some of the mods might want to be exchanged based on personal preference and can
   - If you have issues on how to use it look [here](https://github.com/Mutagen-Modding/Synthesis/wiki/Typical-Usage).
 - To Launch the game select SKSE in MO2 and hit launch, there you can also create MO2 shortcuts to automatically launch linked binaries trough MO2.
 - Your MO2 Setup is now ready to start modding/ playing the most barebone PC friendly Skyrim experience.
+- If you plan to run DynDOLOD don't forget to grab the resources from the official modpage and if available the dependencies for your weather mods and the likes.
 - When adding Mods look out for possible incompatibilities and the [Notes](#notes) sections below.
 
 **Don't try to play the `SME(FT) - Installation` Profile since it is a dummy profile, for me to compile the list.**
