@@ -212,3 +212,16 @@ While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbaja
 See [Changelog](CHANGELOG.md).
 
 ---
+
+### UltraWide Fix
+[Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) contains the necessary mods for UltraWide (21:9) monitor users. Download and install these mods using Mod Organizer 2. The first file is found under the `Main Files` section of the mod files page, the rest are under `Optional Files`.
+- `Complete Widescreen Fix for SkyUI 5.2 SE Alpha - 2560x1080`
+  - Place this mod under `SkyUi` and keep both active (Patch)
+- `Better Dialogue Control Widescreen Fix`
+  - Disable `Better Dialogue Control`, and place this mod under it (Replacer)
+- `Better MessageBox Control Widescreen Fix`
+  - Disable `Better MessageBox Control`, and place this mod under it (Replacer)
+- `SkyUI SE - Flashing Savegames FIx[sic] - Widescreen Fix`
+  - Disable `Flashing Savegames Fix`, and place this mod under it (Replacer)
+- `Race Menu SE - Widescreen Fix (Optional Files)`
+  - Place this mod under `RaceMenu`, and keep both active (Patch)
