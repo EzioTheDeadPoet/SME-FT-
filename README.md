@@ -147,6 +147,7 @@ Some of the mods might want to be exchanged based on personal preference and can
 
 - First for Skyrim itself follow this [Guide](https://www.reddit.com/r/skyrimmods/wiki/begin2) Starting with the Foreword and ending with the end of the Install Location section.(If you want to be prepared to add mods yourself I highly recommend reading the whole thing.)
 - Install this list by browsing the latest [Wabbajack](https://www.wabbajack.org) version with `Show Utility Lists` enabled and the game set to `Skyrim Special Edition`.
+- Adjust the download and installation paths. The recommended Installation Path is a blank folder at the root of a drive, such as C:\SME_FT. The Download Path will update automatically. You can move it elsewhere if you want.
 - Open the Install Folder (MO2 folder), there navigate to `Game Folder Files`.
 - Now put the Content of `Game Folder Files` into your Games installation folder.
 - Locate the `BethINI.exe` in `...\\(name of the MO 2 folder(the installation path you choose for the modlist))\tools\BethINI (ONLY LAUNCH WITH MO AND THE GAME CLOSED)` and run it with the game and MO2 closed.
