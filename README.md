@@ -12,7 +12,7 @@
    <li><a href="#general-description">General-Description !IMPORTANT!</a></li>
    <li><a href="#installation">Installation</a></li>
    <li><a href="#notes">Notes</a></li>
-   <li><a href="#ultrawide-fix">UltraWide Fix</a><li>
+   <li><a href="#ultrawide-fix">UltraWide Fix</a></li>
    <li><a href="#reasoning-and-future-plans">Reasoning and Future Plans</a></li>
    <li><a href="#credits-and-thanks">Credits and Thanks</a></li>
    <li><a href="#contact">Contact</a></li>
