@@ -12,6 +12,7 @@
    <li><a href="#general-description">General-Description !IMPORTANT!</a></li>
    <li><a href="#installation">Installation</a></li>
    <li><a href="#notes">Notes</a></li>
+   <li><a href="#ultrawide-fix">UltraWide Fix</a></li>
    <li><a href="#reasoning-and-future-plans">Reasoning and Future Plans</a></li>
    <li><a href="#credits-and-thanks">Credits and Thanks</a></li>
    <li><a href="#contact">Contact</a></li>
@@ -168,6 +169,19 @@ Some of the mods might want to be exchanged based on personal preference and can
 **Don't try to play the `SME(FT) - Installation` Profile since it is a dummy profile, for me to compile the list.**
 
 ---
+
+## UltraWide Fix
+[Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) contains the necessary mods for UltraWide (21:9) monitor users. Download and install these mods using Mod Organizer 2. The first file is found under the `Main Files` section of the mod files page, the rest are under `Optional Files`.
+- `Complete Widescreen Fix for SkyUI 5.2 SE Alpha - 2560x1080`
+  - Place this mod under `SkyUi` and keep both active (Patch)
+- `Better Dialogue Control Widescreen Fix`
+  - Disable `Better Dialogue Control`, and place this mod under it (Replacer)
+- `Better MessageBox Control Widescreen Fix`
+  - Disable `Better MessageBox Control`, and place this mod under it (Replacer)
+- `SkyUI SE - Flashing Savegames FIx[sic] - Widescreen Fix`
+  - Disable `Flashing Savegames Fix`, and place this mod under it (Replacer)
+- `Race Menu SE - Widescreen Fix (Optional Files)`
+  - Place this mod under `RaceMenu`, and keep both active (Patch)
 
 ## Notes
 
