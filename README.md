@@ -146,27 +146,46 @@ Some of the mods might want to be exchanged based on personal preference and can
 
 ## INSTALLATION
 
-- First for Skyrim itself follow this [Guide](https://www.reddit.com/r/skyrimmods/wiki/begin2) Starting with the Foreword and ending with the end of the Install Location section.(If you want to be prepared to add mods yourself I highly recommend reading the whole thing.)
-- Install this list by browsing the latest [Wabbajack](https://www.wabbajack.org) version with `Show Utility Lists` enabled and the game set to `Skyrim Special Edition`.
-- Adjust the download and installation paths. The recommended Installation Path is a blank folder at the root of a drive, such as C:\SME_FT. The Download Path will update automatically. You can move it elsewhere if you want.
-- Open the Install Folder (MO2 folder), there navigate to `Game Folder Files`.
-- Now put the Content of `Game Folder Files` into your Games installation folder.
-- Locate the `BethINI.exe` in `...\\(name of the MO 2 folder(the installation path you choose for the modlist))\tools\BethINI (ONLY LAUNCH WITH MO AND THE GAME CLOSED)` and run it with the game and MO2 closed.
-- In there (BethINI) go to the `Setup` tab and point BethINI to your `ModOrganizer.EXE`.
-- Select the SME(FT) Profile you intend to use in the INI Path section.
-- Now you Select a Preset fitting your Hardware/Plans of adding an ENB
-- Save and Exit
-- Open ModOrganizer and select the profile you want to use as your basis
-- Either run the FNIS tool or Nemesis as if you had just installed them (if you selected one of those profiles)
-- Launch Synthesis and run the pre-selected patchers and close it when done
-  - If this step causes issues for you please check if your system has the requirements for it [here](https://github.com/Mutagen-Modding/Synthesis/wiki/Installation).
-  - If you have issues on how to use it look [here](https://github.com/Mutagen-Modding/Synthesis/wiki/Typical-Usage).
-- To Launch the game select SKSE in MO2 and hit launch, there you can also create MO2 shortcuts to automatically launch linked binaries trough MO2.
-- Your MO2 Setup is now ready to start modding/ playing the most barebone PC friendly Skyrim experience.
-- If you plan to run DynDOLOD don't forget to grab the resources from the official modpage and if available the dependencies for your weather mods and the likes.
-- When adding Mods look out for possible incompatibilities and the [Notes](#notes) sections below.
+- To install Skyrim, see [Guide](https://www.reddit.com/r/skyrimmods/wiki/begin2). Read up to the end of the Install Location section. (If you want to prepare to add mods yourself, I highly recommend reading the whole thing.)
+You do not need to install Mod Organizer2(MO2). SMEFT installs a portable version of MO2 with everything else. If you do have another MO2 installed, use the one SMEFT installs.
 
-**Don't try to play the `SME(FT) - Installation` Profile since it is a dummy profile, for me to compile the list.**
+- To install SME(FT):
+1. Get the latest [Wabbajack](https://www.wabbajack.org) version.
+2. Select **Browse Modlist**.
+3. From the **Game** list, select **Skyrim Special Edition** and click the check-box for **Show Utility Lists**.
+4. At the bottom of the **SMEFT** window, click the **Download Modlist** icon.
+5. Enter a filepath in the **Installation Location** and **Download Location** fields.
+The recommended Installation Path is an empty folder at the root of a drive, such as `D:\SMEFT`. The Download Path is updated automatically. You can change it if you want.
+6. Click the blue **Play** button.
+Wabbajack downloads everything automatically if you have a Premium Nexus Mods account. Normal users are required to click the **Manual Download** button for each mod. Wabbajack highlights the buttons to press. 
+7. After the installation completes, click **Close**.
+8. Navigate to `Game Folder Files` in the install folder specified in **Step 5**.
+Using our previous example, the filepath is: `D:\SMEFT\Game Folder Files`.
+9. Copy the Content of `Game Folder Files` to the game folder located in `..\Steam\steamapps\common\Skyrim Special Edition`.
+10. Navigate to `..\SMEFT\tools\BethINI (ONLY LAUNCH WITH MO CLOSED)` and run `BethINI.exe`.
+Make sure the game and MO2 are closed.
+11. In the **Game** list, select **Skyrim Special Edition**.
+12 In **BethINI**, click the `Setup` tab. 
+13. Change the **Mod Organizer** field to point to `ModOrganizer.exe`.
+14. Select the SMEFT profile to use from the **INI Path** list.
+BethINI will restart after applying the profile.
+15. From the **Basic** tab, select a Preset to match your hardware and ENB plans.
+16. When done, click **Save and Exit**.
+17. Run `ModOrganizer.exe`.
+18. From the **Profile** list at the top, select a profile to use.
+19. If you selected the **FNIS** or **Nemesis** profile, run FNIS or Nemesis now.
+20. Launch **Synthesis** and click **Run** for the pre-selected patchers. Close it when done.
+If this step causes issues for you, check if your system has the requirements for it [here](https://github.com/Mutagen-Modding/Synthesis/wiki/Installation).
+If you have issues on how to use it, check [here](https://github.com/Mutagen-Modding/Synthesis/wiki/Typical-Usage).
+
+- To Launch the game from MO2, select **SKSE** from the drop-down list in the top-right and click **Run**. You can also create MO2 shortcuts to automatically launch linked binaries trough MO2.
+Your MO2 Setup is now ready to start modding and playing the most barebone PC friendly Skyrim experience.
+
+If you plan to run DynDOLOD, do not forget to grab the resources from the official modpage and if available the dependencies for your weather mods and the likes.
+
+When adding Mods, look out for possible incompatibilities and the [Notes](#notes) sections below.
+
+**Do not try to play the `SME(FT) - Installation` Profile since it is a dummy profile, for me to compile the list.**
 
 ---
 
