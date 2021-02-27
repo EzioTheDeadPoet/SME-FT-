@@ -160,7 +160,7 @@ You do not need to install ModOrganizer 2 (MO2). SMEFT installs a portable versi
    6. Click the blue **Play** button.
          - Wabbajack downloads everything automatically if you have a Premium Nexus Mods account. Normal users are required to click the **Manual Download** button for each mod. Wabbajack highlights the buttons to press.
    7. After the installation completes, click **Close**.
-   8. Navigate to `Game Folder Files` in the install folder specified in **Step 5** (v.).
+   8. Navigate to `Game Folder Files` in the install folder specified in **Step 5**.
          - Using our previous example, the filepath is: `D:\SMEFT\Game Folder Files`.
    9. Copy the Content of `Game Folder Files` to the game folder located in `..\Steam\steamapps\common\Skyrim Special Edition`.
          - It should be a folder not located in one of the windows protected folders.
