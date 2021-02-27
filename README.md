@@ -146,9 +146,9 @@ Some of the mods might want to be exchanged based on personal preference and can
 
 ## INSTALLATION
 
-- To install Skyrim, see [Guide](https://www.reddit.com/r/skyrimmods/wiki/begin2). Read up to the end of the Install Location section. 
-   - (If you want to prepare to add mods yourself, I highly recommend reading the whole thing.)
-You do not need to install ModOrganizer 2 (MO2). SMEFT installs a portable version of MO2 with everything else. If you do have another MO2 installed, use the one SMEFT installs.
+- To install Skyrim, see [Guide](https://www.reddit.com/r/skyrimmods/wiki/begin2). Read up to the end of the **Install Location** section. 
+   - If you want to prepare to add mods yourself, I highly recommend reading the whole thing.
+   - You do not need to install ModOrganizer 2 (MO2). SMEFT installs a portable version of MO2 with everything else. If you do have another MO2 installed, use the one SMEFT installs.
 
 - To install SME(FT):
    1. Get the latest [Wabbajack](https://www.wabbajack.org) version.
