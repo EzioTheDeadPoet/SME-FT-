@@ -159,12 +159,15 @@ You do not need to install ModOrganizer 2 (MO2). SMEFT installs a portable versi
 The recommended Installation Path is an empty folder at the root of a drive, such as `D:\SMEFT`. The Download Path is updated automatically. You can change it if you want.
 6. Click the blue **Play** button.
    -Wabbajack downloads everything automatically if you have a Premium Nexus Mods account. Normal users are required to click the **Manual Download** button for each mod. Wabbajack highlights the buttons to press. 
+
 7. After the installation completes, click **Close**.
 8. Navigate to `Game Folder Files` in the install folder specified in **Step 5**.
    - Using our previous example, the filepath is: `D:\SMEFT\Game Folder Files`.
+
 9. Copy the Content of `Game Folder Files` to the game folder located in `..\Steam\steamapps\common\Skyrim Special Edition`.
 10. Navigate to `..\SMEFT\tools\BethINI (ONLY LAUNCH WITH MO CLOSED)` and run `BethINI.exe`.
    - Make sure the game and MO2 are closed.
+
 11. In the **Game** list, select **Skyrim Special Edition**.
 12 In **BethINI**, click the `Setup` tab. 
 13. Change the **Mod Organizer** field to point to `ModOrganizer.exe`.
