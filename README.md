@@ -230,6 +230,7 @@ Now what are the future plans,
 ## Credits and Thanks
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
+- akalonian for making the install instructions clearer.
 - Lively and LadyZeefa for encouraging me to make this list.
 - ForgottenGlory for making SME(FT) possible due to his early support. 🧡
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
