@@ -146,7 +146,8 @@ Some of the mods might want to be exchanged based on personal preference and can
 
 ## INSTALLATION
 
-- To install Skyrim, see [Guide](https://www.reddit.com/r/skyrimmods/wiki/begin2). Read up to the end of the Install Location section. (If you want to prepare to add mods yourself, I highly recommend reading the whole thing.)
+- To install Skyrim, see [Guide](https://www.reddit.com/r/skyrimmods/wiki/begin2). Read up to the end of the Install Location section. 
+   - (If you want to prepare to add mods yourself, I highly recommend reading the whole thing.)
 You do not need to install ModOrganizer 2 (MO2). SMEFT installs a portable version of MO2 with everything else. If you do have another MO2 installed, use the one SMEFT installs.
 
 - To install SME(FT):
@@ -157,29 +158,29 @@ You do not need to install ModOrganizer 2 (MO2). SMEFT installs a portable versi
 5. Enter a filepath in the **Installation Location** and **Download Location** fields.
 The recommended Installation Path is an empty folder at the root of a drive, such as `D:\SMEFT`. The Download Path is updated automatically. You can change it if you want.
 6. Click the blue **Play** button.
-Wabbajack downloads everything automatically if you have a Premium Nexus Mods account. Normal users are required to click the **Manual Download** button for each mod. Wabbajack highlights the buttons to press. 
+   -Wabbajack downloads everything automatically if you have a Premium Nexus Mods account. Normal users are required to click the **Manual Download** button for each mod. Wabbajack highlights the buttons to press. 
 7. After the installation completes, click **Close**.
 8. Navigate to `Game Folder Files` in the install folder specified in **Step 5**.
-Using our previous example, the filepath is: `D:\SMEFT\Game Folder Files`.
+   - Using our previous example, the filepath is: `D:\SMEFT\Game Folder Files`.
 9. Copy the Content of `Game Folder Files` to the game folder located in `..\Steam\steamapps\common\Skyrim Special Edition`.
 10. Navigate to `..\SMEFT\tools\BethINI (ONLY LAUNCH WITH MO CLOSED)` and run `BethINI.exe`.
-Make sure the game and MO2 are closed.
+   - Make sure the game and MO2 are closed.
 11. In the **Game** list, select **Skyrim Special Edition**.
 12 In **BethINI**, click the `Setup` tab. 
 13. Change the **Mod Organizer** field to point to `ModOrganizer.exe`.
 14. Select the SMEFT profile to use from the **INI Path** list.
-BethINI will restart after applying the profile.
+   - BethINI will restart after applying the profile.
 15. From the **Basic** tab, select a Preset to match your hardware and ENB plans.
 16. When done, click **Save and Exit**.
 17. Run `ModOrganizer.exe`.
 18. From the **Profile** list at the top, select a profile to use.
 19. If you selected the **FNIS** or **Nemesis** profile, run FNIS or Nemesis now.
 20. Launch **Synthesis** and click **Run** for the pre-selected patchers. Close it when done.
-If this step causes issues for you, check if your system has the requirements for it [here](https://github.com/Mutagen-Modding/Synthesis/wiki/Installation).
-If you have issues on how to use it, check [here](https://github.com/Mutagen-Modding/Synthesis/wiki/Typical-Usage).
+   - If this step causes issues for you, check if your system has the requirements for it [here](https://github.com/Mutagen-Modding/Synthesis/wiki/Installation).
+   - If you have issues on how to use it, check [here](https://github.com/Mutagen-Modding/Synthesis/wiki/Typical-Usage).
 
 - To Launch the game from MO2, select **SKSE** from the drop-down list in the top-right and click **Run**. You can also create MO2 shortcuts to automatically launch linked binaries trough MO2.
-Your MO2 Setup is now ready to start modding and playing the most barebone PC friendly Skyrim experience.
+   - Your MO2 Setup is now ready to start modding and playing the most barebone PC friendly Skyrim experience.
 
 If you plan to run DynDOLOD, do not forget to grab the resources from the official modpage and if available the dependencies for your weather mods and the likes.
 
