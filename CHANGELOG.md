@@ -3,6 +3,24 @@ description: Here you can find a list of changes made during each update.
 ---
 # Changelog
 
+## 21.02.28: SME(FT) - Skyrim Modding Essentials (Fixes & Tools)
+
+Putting the links to the updated files takes a lot of time in the update process, which is why I will stop doing it.
+
+- updated
+  - [Mod Organizer](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
+  - ModOragnizer Plugins
+  - DynDOLOD
+  - Assorted Mesh Fixes
+  - powerofthree's Papyrus Extender for SSE
+  - Wrye Bash
+  - Synthesis
+  - NPC AI Process Position Fix - SSE
+
+- added
+  - [Whiterun Tower fix](https://www.nexusmods.com/skyrimspecialedition/mods/14365?tab=files)
+  - No Silly Physics Damage - Carts Pots Bones etc
+
 ## 21.01.26 Hotfix 1: SME(FT) - Skyrim Modding Essentials (Fixes & Tools)
 
 - fixed ini settings in Engine Fixes
