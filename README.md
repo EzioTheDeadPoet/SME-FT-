@@ -210,7 +210,7 @@ When adding Mods, look out for possible incompatibilities and the [Notes](#notes
 2. If you want to use [Blood on the Ice Redux SE](https://www.nexusmods.com/skyrimspecialedition/mods/6126) you have to right-click `Finding Susanna Alive` and click on reinstall to let it install with the included patch.
 3. If you addded new landscapes or altered existing ones you open and run the included Synthesis patchers.
 4. I set the protection of `Essential Favorites` to be disabled for disarming, since it would be incompatible with mods that rely on disarming.
-5. Moved this fix in the recommended section due to potential incompatibilities with[Better Dynamic Snow SE](https://www.nexusmods.com/skyrimspecialedition/mods/9121) as indicated [here](https://www.nexusmods.com/skyrimspecialedition/mods/31963?tab=bugs).
+5. Moved this fix in the recommended section due to potential incompatibilities with [Better Dynamic Snow SE](https://www.nexusmods.com/skyrimspecialedition/mods/9121) as indicated [here](https://www.nexusmods.com/skyrimspecialedition/mods/31963?tab=bugs).
 
 ---
 
