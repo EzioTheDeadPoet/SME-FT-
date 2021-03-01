@@ -24,34 +24,34 @@
 
 ### **What is this list trying to offer ?**
 
-In short this list intendeds to offer what I was searching for when moving from Skyrim Legendary Edition to Skyrim Special Edition at the end of 2019.
-It got refined and has grown ever since and became a resource...
+In short, this list intendeds to offer what I was searching for when moving from Skyrim Legendary Edition to Skyrim Special Edition at the end of 2019.
+It got refined, has grown, and became a resource.
 
-- for LE players to make an easy move to SE with a ready to mod setup.
-- for SE players wanting a fast ready to mod setup.
-- for SE mod and Patch authors as a test bench.
+- For LE players to make an easy move to SE with a ready to mod setup.
+- For SE players wanting a fast ready to mod setup.
+- For SE mod and Patch authors as a test bench.
 
 This modlist is a utility for modders, to speed up their initial MO2 setup.
 For people who just want a vanilla experience with all the unofficial patches and fixes.
 
-If you want to learn more about modding Skyrim I recommend [this Guide](https://www.reddit.com/r/skyrimmods/wiki/begin2) on how to get started.
+If you want to learn more about modding Skyrim, I recommend [this Guide](https://www.reddit.com/r/skyrimmods/wiki/begin2) on how to get started.
 
-This modlist comes with the most (I don't want to make the absolute claim it has all, even tho I am pretty sure) common tools and fixes for Skyrim Special Edition so modlist creators and modders have an easier way of getting a stable initial vanilla setup with only a little effort.
+This modlist comes with the most (I do not want to make the absolute claim it has all, even tho I am pretty sure) common tools and fixes for Skyrim Special Edition, so modlist creators and modders have an easier way of getting a stable initial vanilla setup with little effort.
 
-Some of the mods might want to be exchanged based on personal preference and can be found in the `Optional but highly recommended mods` section.
+Some of the mods you might want to change, based on personal preference. They are found in the `Optional but highly recommended mods` section.
 
 **Now have fun using this as a basis for your modlists, or your test bench for your mods or patchers.**
 
 ### **What is included in this List ?**
 
 - This list has 3 playable profiles:
-   1. For people wanting to use FNIS
-   2. For people wanting to use Nemesis
-   3. For people who don't want to use either of them.
+   1. For people that want to use FNIS.
+   2. For people that want to use Nemesis.
+   3. For people who do not want to use either of them.
 
 - This list contains these of 4 categories:
 
-   1. Tools (Accessible over the run menu and the shortcuts)
+   1. **Tools** (Accessible over the run menu and the shortcuts)
       - [BethINI](http://nexusmods.com/skyrimspecialedition/mods/4875)
       - [BodySlide and Outfit Studio](http://nexusmods.com/skyrimspecialedition/mods/201)
       - [deorder's MO2 Plugins](https://github.com/deorder/mo2-plugins)
@@ -68,7 +68,7 @@ Some of the mods might want to be exchanged based on personal preference and can
       - [Wrye Bash](https://www.nexusmods.com/skyrimspecialedition/mods/6837)
       - [zEdit](https://github.com/z-edit/zedit)
 
-   2. Game Fixes and Patches
+   2. **Game Fixes and Patches**
       - [Actor Movement Limit Fix](https://www.nexusmods.com/skyrimspecialedition/mods/32349?tab=files)
       - [Animation Limit Crash Fix SSE](https://www.nexusmods.com/skyrimspecialedition/mods/31146)
       - [Assorted mesh fixes](http://nexusmods.com/skyrimspecialedition/mods/32117)
@@ -109,7 +109,7 @@ Some of the mods might want to be exchanged based on personal preference and can
       - [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705)
       - [Unofficial Skyrim Special Edition Patch](http://nexusmods.com/skyrimspecialedition/mods/266)
 
-   3. Mod Resources
+   3. **Mod Resources**
       - [.NET Script Framework](https://www.nexusmods.com/skyrimspecialedition/mods/21294)
       - [Address Library for SKSE Plugins](https://www.nexusmods.com/skyrimspecialedition/mods/32444)
       - [ConsoleUtilSSE](http://nexusmods.com/skyrimspecialedition/mods/24858)
@@ -127,7 +127,7 @@ Some of the mods might want to be exchanged based on personal preference and can
       - [Skyrim Script Extender SKSE64](https://skse.silverlock.org)
       - [UIExtensions](http://nexusmods.com/skyrimspecialedition/mods/17561)
 
-   4. Optional but highly recommended mods(that address issues with the main game that aren't really bugs)
+   4. Optional but highly recommended mods(that address issues with the main game that are not really bugs)
       - [Alternate Start - Live Another Life](http://nexusmods.com/skyrimspecialedition/mods/272)
       - [RaceMenu](http://nexusmods.com/skyrimspecialedition/mods/19080)
       - [Finding Susanna Alive - A Blood on the Ice Trigger Revision](https://www.nexusmods.com/skyrimspecialedition/mods/32512) ([Blood on the Ice Redux SE](https://www.nexusmods.com/skyrimspecialedition/mods/6126) users see Note 2. in the [Notes](#notes) section of this readme)
@@ -196,31 +196,31 @@ When adding Mods, look out for possible incompatibilities and the [Notes](#notes
 - `Complete Widescreen Fix for SkyUI 5.2 SE Alpha - 2560x1080`
   - Place this mod under `SkyUi` and keep both active (Patch)
 - `Better Dialogue Control Widescreen Fix`
-  - Disable `Better Dialogue Control`, and place this mod under it (Replacer)
+  - Disable `Better Dialogue Control` and place this mod under it (Replacer)
 - `Better MessageBox Control Widescreen Fix`
-  - Disable `Better MessageBox Control`, and place this mod under it (Replacer)
+  - Disable `Better MessageBox Control` and place this mod under it (Replacer)
 - `SkyUI SE - Flashing Savegames FIx[sic] - Widescreen Fix`
-  - Disable `Flashing Savegames Fix`, and place this mod under it (Replacer)
+  - Disable `Flashing Savegames Fix` and place this mod under it (Replacer)
 - `Race Menu SE - Widescreen Fix (Optional Files)`
-  - Place this mod under `RaceMenu`, and keep both active (Patch)
+  - Place this mod under `RaceMenu` and keep both active (Patch)
 
 ## Notes
 
-1. If you want to use Creation Club mods you have to disable `ReCleaned Menu - If you want to use Creation Club mods disable this!!` in your MO for the option to even be available in the main menu, but since there are more people that don't install mods from there anyway I included this to make their menus cleaner.
-2. If you want to use [Blood on the Ice Redux SE](https://www.nexusmods.com/skyrimspecialedition/mods/6126) you have to right-click `Finding Susanna Alive` and click on reinstall to let it install with the included patch.
-3. If you addded new landscapes or altered existing ones you open and run the included Synthesis patchers.
-4. I set the protection of `Essential Favorites` to be disabled for disarming, since it would be incompatible with mods that rely on disarming.
+1. If you want to use Creation Club mods, you must disable `ReCleaned Menu - If you want to use Creation Club mods disable this!!` in your MO for the option to even be available in the main menu. Since there are more people that don't install mods from there anyway, I included this to make their menus cleaner.
+2. If you want to use [Blood on the Ice Redux SE](https://www.nexusmods.com/skyrimspecialedition/mods/6126), right-click `Finding Susanna Alive` and select **Reinstall Mod** to let it install with the included patch.
+3. If you addded new landscapes or altered existing ones, open and run the included Synthesis patchers.
+4. I set the protection of `Essential Favorites` to disabled for disarming since it is incompatible with mods that rely on disarming.
 5. Moved this fix in the recommended section due to potential incompatibilities with [Better Dynamic Snow SE](https://www.nexusmods.com/skyrimspecialedition/mods/9121) as indicated [here](https://www.nexusmods.com/skyrimspecialedition/mods/31963?tab=bugs).
 
 ---
 
 ## Reasoning and Future Plans
 
-There where some people asking why I haven't included mods like [unofficial performance optimized textures AKA (UPOT)](https://www.nexusmods.com/skyrimspecialedition/mods/21166), [Cleaned Skyrim SE Textures](https://www.nexusmods.com/skyrimspecialedition/mods/38775) or [Unofficial High Definition Audio Project](https://www.nexusmods.com/skyrimspecialedition/mods/18115) the short reasoning is size,
-since I want this to be a fast to install collection of fixes and tools and all of the optional mods I have included are still smaller than those audio and texture optimizations.
-So including a texture and the audio optimizations would triple the installation size. That said feel free to add them on top if you plan a vanilla playthrough or think you want them.
+People asked why I haven't included mods like [unofficial performance optimized textures AKA (UPOT)](https://www.nexusmods.com/skyrimspecialedition/mods/21166), [Cleaned Skyrim SE Textures](https://www.nexusmods.com/skyrimspecialedition/mods/38775) or [Unofficial High Definition Audio Project](https://www.nexusmods.com/skyrimspecialedition/mods/18115) the short reasoning is size,
+since I want this to be a fast to install collection of fixes and tools, and all of the optional mods I included are still smaller than those audio and texture optimizations.
+Including a texture and the audio optimizations would triple the installation size. That said, feel free to add them on top if you plan a vanilla playthrough or think you want them.
 
-Now what are the future plans,
+Future plans:
 
 - I want to update this regularly, while also updating [Tales from the Northern Lands](https://eziothedeadpoet.github.io/Tales-from-the-Northern-Lands/)
 - A strong amount further in the future would be [SME(FT) - LL Edition](https://github.com/EzioTheDeadPoet/SME-FT-/issues/11) which I can see as well as very useful as a lot of LE players (active on LL) are slowly moving over to SE as well and could really benefit from this. Sadly I currently have not enough time to get to do it, as seen in the linked [Issue](https://github.com/EzioTheDeadPoet/SME-FT-/issues/11).
@@ -230,18 +230,18 @@ Now what are the future plans,
 ## Credits and Thanks
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
-- akalonian for making the install instructions clearer.
+- Akalonian for making the install instructions clearer.
 - Lively and LadyZeefa for encouraging me to make this list.
 - ForgottenGlory for making SME(FT) possible due to his early support. 🧡
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
-- And ALL the mod authors that made the mods featured in this list.
+- ALL the mod authors that made the mods featured in this list.
 - Special thanks to all the other people listed [here](https://eziothedeadpoet.github.io/AboutMe/HALLOFFAME.html) that support this and other projects of mine.
 
 ## Contact
 
-While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the [Issues](https://github.com/EzioTheDeadPoet/SME-FT-/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
+While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I recommend checking the [Issues](https://github.com/EzioTheDeadPoet/SME-FT-/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
 
-**DON'T CONTACT MOD-AUTHORS WITH ISSUES OR I WILL HAVE TO TAKE ACTIONS THAT WILL RESULT WITH YOU BEING BANNED FROM WABBAJACK.**
+**DO NOT CONTACT MOD-AUTHORS WITH ISSUES OR I WILL HAVE TO TAKE ACTIONS THAT WILL RESULT IN YOU BEING BANNED FROM WABBAJACK.**
 
 ## Changelog
 
