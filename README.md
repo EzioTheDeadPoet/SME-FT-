@@ -38,7 +38,7 @@ If you want to learn more about modding Skyrim, I recommend [this Guide](https:/
 
 This modlist comes with the most (I do not want to make the absolute claim it has all, even tho I am pretty sure) common tools and fixes for Skyrim Special Edition, so modlist creators and modders have an easier way of getting a stable initial vanilla setup with little effort.
 
-Some of the mods you might want to exchange, based on personal preference. They are found in the `Optional but highly recommended mods` section.
+Some of the mods you might want to change, based on personal preference. They are found in the `Optional but highly recommended mods` section.
 
 **Now have fun using this as a basis for your modlists, or your test bench for your mods or patchers.**
 
