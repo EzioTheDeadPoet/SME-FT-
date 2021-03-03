@@ -173,6 +173,7 @@ Some of the mods you might want to change, based on personal preference. They ar
          - BethINI will restart after applying the profile.
    15. From the **Basic** tab, select a Preset to match your hardware and ENB plans.
    16. When done, click **Save and Exit**.
+         - You can come back at any time and change your BethINI profile.
    17. Run `ModOrganizer.exe`.
    18. From the **Profile** list at the top, select a profile to use.
    19. If you selected the **FNIS** or **Nemesis** profile, run FNIS or Nemesis now.
@@ -233,7 +234,7 @@ Future plans:
 - Akalonian for making the install instructions clearer.
 - Lively and LadyZeefa for encouraging me to make this list.
 - ForgottenGlory for making SME(FT) possible due to his early support. 🧡
-- Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
+- Halgari and everyone the WJ Team - Wabbajack is awesome and so are you.
 - ALL the mod authors that made the mods featured in this list.
 - Special thanks to all the other people listed [here](https://eziothedeadpoet.github.io/AboutMe/HALLOFFAME.html) that support this and other projects of mine.
 
