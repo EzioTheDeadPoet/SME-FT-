@@ -3,6 +3,19 @@ description: Here you can find a list of changes made during each update.
 ---
 # Changelog
 
+## 21.04.04: SME(FT) - Skyrim Modding Essentials (Fixes & Tools)
+
+- Added [xLODGen.76.7z](https://mega.nz/file/oVplUSpZ#RuT0KTyW3TCqDs4NcIRy3-RtGjPOtHcGYOJkLmpv1TY)
+- Added [Scrambled Bugs](http://nexusmods.com/skyrimspecialedition/mods/43532)
+- Added [SSE CreationKit Fixes](http://nexusmods.com/skyrimspecialedition/mods/20061)
+- Updated [Dynamic Distant Objects LOD - DynDOLOD](http://nexusmods.com/skyrimspecialedition/mods/32382)
+- Updated [Synthesis.zip](https://github.com/Mutagen-Modding/Synthesis/releases/download/0.17.5/Synthesis.zip)
+- Updated [SSE Engine Fixes (skse64 plugin)](http://nexusmods.com/skyrimspecialedition/mods/17230)
+- Updated [Mod.Organizer-2.4.1.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.1/Mod.Organizer-2.4.1.7z)
+- Updated [Alternate Start - Live Another Life - SSE](http://nexusmods.com/skyrimspecialedition/mods/272)
+- Updated [PapyrusUtil SE - Modders Scripting Utility Functions](http://nexusmods.com/skyrimspecialedition/mods/13048)
+- Updated [RaceMenu](http://nexusmods.com/skyrimspecialedition/mods/19080)
+
 ## 21.02.28: SME(FT) - Skyrim Modding Essentials (Fixes & Tools)
 
 Putting the links to the updated files takes a lot of time in the update process, which is why I will stop doing it.
