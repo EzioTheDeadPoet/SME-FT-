@@ -101,6 +101,7 @@ Some of the mods you might want to change, based on personal preference. They ar
       - [Move it Dammit - for Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/752)
       - [Multiple Floors Sandboxing](https://www.nexusmods.com/skyrimspecialedition/mods/4524)
       - [No More Standing Too Close SSE](https://www.nexusmods.com/skyrimspecialedition/mods/4784)
+      - [No Silly Physics Damage - Carts Pots Bones etc](https://www.nexusmods.com/skyrimspecialedition/mods/36132)
       - [No Spinning Death Animation](http://nexusmods.com/skyrimspecialedition/mods/1432)
       - [NPC AI Process Position Fix - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/40261)
       - [Raven Rock - Fix Exit on Horseback](https://www.nexusmods.com/skyrimspecialedition/mods/14075)
@@ -108,6 +109,7 @@ Some of the mods you might want to change, based on personal preference. They ar
       - [SkyUI SE - Flashing Savegames Fix](http://nexusmods.com/skyrimspecialedition/mods/20406)
       - [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705)
       - [Unofficial Skyrim Special Edition Patch](http://nexusmods.com/skyrimspecialedition/mods/266)
+      - [Whiterun Tower Fix](https://www.nexusmods.com/skyrimspecialedition/mods/14365)
 
    3. **Mod Resources**
       - [.NET Script Framework](https://www.nexusmods.com/skyrimspecialedition/mods/21294)
