@@ -3,6 +3,42 @@ description: Here you can find a list of changes made during each update.
 ---
 # Changelog
 
+## 21.6.13: SME(FT) - Skyrim Modding Essentials (Fixes & Tools)
+
+**Build at:** `13th June 2021 18:05:51`
+
+**Info**:
+
+- Download Size change: -97,5MB (Total: 1,1GB)
+- Install Size change: -225,9MB (Total: 2,5GB)
+
+**Download Changes**:
+
+- Added [Gladys the Corgi - A Custom Dog Follower Mod](http://nexusmods.com/skyrimspecialedition/mods/50164)
+  - on request of multiple independent parties
+
+- Updated [Dwemer Gates Don't Reset](http://nexusmods.com/skyrimspecialedition/mods/26331)
+- Updated [Unofficial Skyrim Special Edition Patch](http://nexusmods.com/skyrimspecialedition/mods/266)
+- Updated [Cathedral Assets Optimizer](http://nexusmods.com/skyrimspecialedition/mods/23316)
+- Updated [Dynamic Distant Objects LOD - DynDOLOD](http://nexusmods.com/skyrimspecialedition/mods/32382)
+- Updated [Fixed Dragon Stalking Fix](http://nexusmods.com/skyrimspecialedition/mods/37230)
+- Updated [More Informative Console](http://nexusmods.com/skyrimspecialedition/mods/19250)
+- Updated [powerofthree's Papyrus Extender](http://nexusmods.com/skyrimspecialedition/mods/22854)
+- Updated [Enhanced Reanimation](http://nexusmods.com/skyrimspecialedition/mods/43500)
+- Updated [Equip Enchantment Fix](http://nexusmods.com/skyrimspecialedition/mods/42839)
+- Updated [Essential Favorites](http://nexusmods.com/skyrimspecialedition/mods/42997)
+- Updated [Scrambled Bugs](http://nexusmods.com/skyrimspecialedition/mods/43532)
+- Updated [SSE Display Tweaks](http://nexusmods.com/skyrimspecialedition/mods/34705)
+- Updated [Assorted mesh fixes](http://nexusmods.com/skyrimspecialedition/mods/32117)
+- Updated [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
+- Updated [Wrye Bash](http://nexusmods.com/skyrim/mods/1840)
+- Updated [xEdit_4.0.3g.7z](https://cdn.discordapp.com/attachments/518048160526893057/832281169717362738/xEdit_4.0.3g.7z)
+- Updated [xLODGen.83.7z](https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg)
+
+- Not needed anymore:
+  - Removed [DLL Plugin Loader](http://nexusmods.com/skyrimspecialedition/mods/10546)
+  - Removed [Enchantment Reload Fix SE](http://nexusmods.com/skyrimspecialedition/mods/21055)
+
 ## 21.04.04: SME(FT) - Skyrim Modding Essentials (Fixes & Tools)
 
 - Added [xLODGen.76.7z](https://mega.nz/file/oVplUSpZ#RuT0KTyW3TCqDs4NcIRy3-RtGjPOtHcGYOJkLmpv1TY)

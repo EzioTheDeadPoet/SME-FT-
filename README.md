@@ -81,7 +81,6 @@ Some of the mods you might want to change, based on personal preference. They ar
       - [Copy and Paste in Console](http://nexusmods.com/skyrimspecialedition/mods/30928)
       - [Critters Aint Snitches](http://nexusmods.com/skyrimspecialedition/mods/15134)
       - [Dwemer Gates Don't Reset](https://www.nexusmods.com/skyrimspecialedition/mods/26331)
-      - [Enchantment Reload Fix SE](http://nexusmods.com/skyrimspecialedition/mods/21055)
       - [Engine Fixes](http://nexusmods.com/skyrimspecialedition/mods/17230)
       - [Enhanced Reanimation](https://www.nexusmods.com/skyrimspecialedition/mods/43500)
       - [Equip Enchantment Fix](https://www.nexusmods.com/skyrimspecialedition/mods/42839)
@@ -105,6 +104,7 @@ Some of the mods you might want to change, based on personal preference. They ar
       - [No Spinning Death Animation](http://nexusmods.com/skyrimspecialedition/mods/1432)
       - [NPC AI Process Position Fix - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/40261)
       - [Raven Rock - Fix Exit on Horseback](https://www.nexusmods.com/skyrimspecialedition/mods/14075)
+      - [Scrambled Bugs](http://nexusmods.com/skyrimspecialedition/mods/43532)
       - [SkyUI](http://nexusmods.com/skyrimspecialedition/mods/12604)
       - [SkyUI SE - Flashing Savegames Fix](http://nexusmods.com/skyrimspecialedition/mods/20406)
       - [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705)
@@ -115,7 +115,6 @@ Some of the mods you might want to change, based on personal preference. They ar
       - [.NET Script Framework](https://www.nexusmods.com/skyrimspecialedition/mods/21294)
       - [Address Library for SKSE Plugins](https://www.nexusmods.com/skyrimspecialedition/mods/32444)
       - [ConsoleUtilSSE](http://nexusmods.com/skyrimspecialedition/mods/24858)
-      - [DLL Plugin Loader](https://www.nexusmods.com/skyrimspecialedition/mods/10546)
       - [FileAccess Interface for Skyrim SE Scripts](http://nexusmods.com/skyrimspecialedition/mods/13956)
       - [Fuz Ro D-oh - Silent Voice](https://www.nexusmods.com/skyrimspecialedition/mods/15109)
       - [Fores New Idles in Skyrim SE - FNIS SE](https://www.nexusmods.com/skyrimspecialedition/mods/3038)
@@ -134,6 +133,7 @@ Some of the mods you might want to change, based on personal preference. They ar
       - [RaceMenu](http://nexusmods.com/skyrimspecialedition/mods/19080)
       - [Finding Susanna Alive - A Blood on the Ice Trigger Revision](https://www.nexusmods.com/skyrimspecialedition/mods/32512) ([Blood on the Ice Redux SE](https://www.nexusmods.com/skyrimspecialedition/mods/6126) users see Note 2. in the [Notes](#notes) section of this readme)
       - [GIST Soul Trap](http://nexusmods.com/skyrimspecialedition/mods/15755)
+      - [Gladys the Corgi - A Custom Dog Follower Mod](http://nexusmods.com/skyrimspecialedition/mods/50164)
       - [Loki's Wade In Water](https://www.nexusmods.com/skyrimspecialedition/mods/42854)
       - [No BS AI Projectile Dodge](http://nexusmods.com/skyrimspecialedition/mods/1763)
       - [Notification Log SSE](https://www.nexusmods.com/skyrimspecialedition/mods/27707)
@@ -149,8 +149,8 @@ Some of the mods you might want to change, based on personal preference. They ar
 ## INSTALLATION
 
 - To install Skyrim, see [Guide](https://www.reddit.com/r/skyrimmods/wiki/begin2). Read up to the end of the **Install Location** section. 
-   - If you want to prepare to add mods yourself, I highly recommend reading the whole thing.
-   - You do not need to install ModOrganizer 2 (MO2). SMEFT installs a portable version of MO2 with everything else. If you do have another MO2 installed, use the one SMEFT installs.
+  - If you want to prepare to add mods yourself, I highly recommend reading the whole thing.
+  - You do not need to install ModOrganizer 2 (MO2). SMEFT installs a portable version of MO2 with everything else. If you do have another MO2 installed, use the one SMEFT installs.
 
 - To install SME(FT):
    1. Get the latest [Wabbajack](https://www.wabbajack.org) version.
@@ -184,7 +184,7 @@ Some of the mods you might want to change, based on personal preference. They ar
          - If you have issues on how to use it, check [here](https://github.com/Mutagen-Modding/Synthesis/wiki/Typical-Usage).
 
 - To Launch the game from MO2, select **SKSE** from the drop-down list in the top-right and click **Run**. You can also create MO2 shortcuts to automatically launch linked binaries trough MO2.
-   - Your MO2 Setup is now ready to start modding and playing the most barebone PC friendly Skyrim experience.
+  - Your MO2 Setup is now ready to start modding and playing the most barebone PC friendly Skyrim experience.
 
 If you plan to run DynDOLOD, do not forget to grab the resources from the official modpage and if available the dependencies for your weather mods and the likes.
 
