@@ -12,7 +12,7 @@ description: Here you can find a list of changes made during each update.
 - Download Size change: -97,5MB (Total: 1,1GB)
 - Install Size change: -225,9MB (Total: 2,5GB)
 
-**Download Changes**:
+**Changes**:
 
 - Added [Gladys the Corgi - A Custom Dog Follower Mod](http://nexusmods.com/skyrimspecialedition/mods/50164)
   - on request of multiple independent parties
