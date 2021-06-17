@@ -3,7 +3,7 @@
 ![(thumbnail)](/SME-FT-Thumbnail.png)
 
 ![status](https://img.shields.io/endpoint?url=https://build.wabbajack.org/lists/status/smeft/badge.json?style=for-the-badge)
-![version](https://img.shields.io/endpoint?url=/github/v/tag/:user/:repo?sort=semver)
+![version](https://img.shields.io/github/v/tag/EzioTheDeadPoet/SME-FT-?label=Version&style=for-the-badge?sort=semver)
 
 **THIS MODLIST IS MEANT AS A BASIS TO START YOUR OWN MODDING JOURNEY AND INCLUDES ALL THE FIXES AND TOOLS KNOWN TO ME WITH A FEW ADDED RECOMMENDATIONS!!!**
 
