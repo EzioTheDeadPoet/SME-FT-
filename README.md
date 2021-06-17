@@ -61,6 +61,7 @@ Some of the mods you might want to change, based on personal preference. They ar
          - This does **NOT** include the resources found on the same modpage.
       - [LOOT](https://github.com/loot/loot)
       - [NifSkope](https://github.com/niftools/nifskope)
+      - [Papyrus Compiler App (Mod Organizer 2 Integration) SE](http://nexusmods.com/skyrimspecialedition/mods/23852)
       - [SSEEdit](http://nexusmods.com/skyrimspecialedition/mods/164)
       - [SSELODGen](https://www.nexusmods.com/skyrimspecialedition/mods/6642)
       - [Synthesis](https://github.com/Noggog/Synthesis)
@@ -103,6 +104,7 @@ Some of the mods you might want to change, based on personal preference. They ar
       - [No Silly Physics Damage - Carts Pots Bones etc](https://www.nexusmods.com/skyrimspecialedition/mods/36132)
       - [No Spinning Death Animation](http://nexusmods.com/skyrimspecialedition/mods/1432)
       - [NPC AI Process Position Fix - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/40261)
+      - [powerofthree's Tweaks](http://nexusmods.com/skyrimspecialedition/mods/51073)
       - [Raven Rock - Fix Exit on Horseback](https://www.nexusmods.com/skyrimspecialedition/mods/14075)
       - [Scrambled Bugs](http://nexusmods.com/skyrimspecialedition/mods/43532)
       - [SkyUI](http://nexusmods.com/skyrimspecialedition/mods/12604)

@@ -3,6 +3,25 @@ description: Here you can find a list of changes made during each update.
 ---
 # Changelog
 
+## 21.6.17 SME(FT) - Skyrim Modding Essentials (Fixes & Tools)
+
+**Build at:** `17. Juni. 2021 09:50:17`
+
+**Info**:
+
+- Download Size change: -50,9MB (Total: 1,2GB)
+- Install Size change: -183,3MB (Total: 2,7GB)
+
+**Download Changes**:
+
+- Updated [Unofficial Skyrim Special Edition Patch](http://nexusmods.com/skyrimspecialedition/mods/266)
+- Added [Papyrus Compiler App (Mod Organizer 2 Integration) SE](http://nexusmods.com/skyrimspecialedition/mods/23852)
+- Added [powerofthree's Tweaks](http://nexusmods.com/skyrimspecialedition/mods/51073)
+
+**Other Changes**:
+
+- Synced the plugin order between profiles.
+
 ## 21.6.13: SME(FT) - Skyrim Modding Essentials (Fixes & Tools)
 
 **Build at:** `13th June 2021 18:05:51`
