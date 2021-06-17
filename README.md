@@ -2,7 +2,8 @@
 
 ![(thumbnail)](/SME-FT-Thumbnail.png)
 
-![status](https://img.shields.io/endpoint?url=https://build.wabbajack.org/lists/status/smeft/badge.json)
+![status](https://img.shields.io/endpoint?url=https://build.wabbajack.org/lists/status/smeft/badge.json?style=for-the-badge)
+![version](https://img.shields.io/endpoint?url=/github/v/tag/:user/:repo?sort=semver)
 
 **THIS MODLIST IS MEANT AS A BASIS TO START YOUR OWN MODDING JOURNEY AND INCLUDES ALL THE FIXES AND TOOLS KNOWN TO ME WITH A FEW ADDED RECOMMENDATIONS!!!**
 
@@ -171,7 +172,7 @@ Some of the mods you might want to change, based on personal preference. They ar
    10. Navigate to `..\SMEFT\tools\BethINI (ONLY LAUNCH WITH MO CLOSED)` and run `BethINI.exe`.
          - Make sure the game and MO2 are closed.
    11. In the **Game** list, select **Skyrim Special Edition**.
-   12. In **BethINI**, click the `Setup` tab.    
+   12. In **BethINI**, click the `Setup` tab.
    13. Change the **Mod Organizer** field to point to `ModOrganizer.exe`.
    14. Select the SMEFT profile to use from the **INI Path** list.
          - BethINI will restart after applying the profile.
@@ -197,7 +198,9 @@ When adding Mods, look out for possible incompatibilities and the [Notes](#notes
 ---
 
 ## UltraWide Fix
+
 [Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) contains the necessary mods for UltraWide (21:9) monitor users. Download and install these mods using Mod Organizer 2. The first file is found under the `Main Files` section of the mod files page, the rest are under `Optional Files`.
+
 - `Complete Widescreen Fix for SkyUI 5.2 SE Alpha - 2560x1080`
   - Place this mod under `SkyUi` and keep both active (Patch)
 - `Better Dialogue Control Widescreen Fix`
