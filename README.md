@@ -113,6 +113,7 @@ This list contains mods that fall into 4 categories.
  - [No BS AI Projectile Dodge](https://nexusmods.com/skyrimspecialedition/mods/1763)
  - [Notification Log SSE](https://www.nexusmods.com/skyrimspecialedition/mods/27707)
  - [ReCleaned Menu](https://www.nexusmods.com/skyrimspecialedition/mods/26680) (Creation Club users should disable this mod)
+ - [Slayable Offspring SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/46826)
  - [SSE Parallax Shader Fix](https://nexusmods.com/skyrimspecialedition/mods/31963) (Be aware - potential incompatibility with [Better Dynamic Snow SE](https://www.nexusmods.com/skyrimspecialedition/mods/9121) as indicated [here](https://www.nexusmods.com/skyrimspecialedition/mods/31963?tab=bugs)].
  - [Stay at the System Page - Updated](https://nexusmods.com/skyrimspecialedition/mods/19832)
  - [Velexia's Animals are not Monsters SE](http://nexusmods.com/skyrimspecialedition/mods/32133)
