@@ -1,6 +1,7 @@
 # Changelog
 
 ## 1.0
+
 SMEFT is now maintained by me (trawzified) instead of Luca, it now uses semantic versioning.
 The FNIS versions of SMEFT have been deprecated.
 
@@ -9,6 +10,8 @@ The FNIS versions of SMEFT have been deprecated.
 **Added** No Grass In Objects
 
 **Added** Slayable Offspring SKSE
+
+**Added** Player Rotation in ShowRaceMenu
 
 ---
 
