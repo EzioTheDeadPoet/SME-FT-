@@ -107,7 +107,7 @@ The list contains mods that fall into 4 categories.
 #### Highly recommended mods
  - [Alternate Start - Live Another Life](https://nexusmods.com/skyrimspecialedition/mods/272)
  - [RaceMenu](https://nexusmods.com/skyrimspecialedition/mods/19080)
- - [Finding Susanna Alive - A Blood on the Ice Trigger Revision](https://www.nexusmods.com/skyrimspecialedition/mods/32512) ([Blood on the Ice Redux SE](https://www.nexusmods.com/skyrimspecialedition/mods/6126) users should reinstall this mod with the patch enabled.)
+ - [Finding Susanna Alive - A Blood on the Ice Trigger Revision](https://www.nexusmods.com/skyrimspecialedition/mods/32512) ([Blood on the Ice Redux SE](https://www.nexusmods.com/skyrimspecialedition/mods/6126) users should reinstall this mod with the patch enabled)
  - [GIST Soul Trap](https://nexusmods.com/skyrimspecialedition/mods/15755)
  - [Loki's Wade In Water](https://www.nexusmods.com/skyrimspecialedition/mods/42854)
  - [Player Rotation in ShowRaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/36095)
@@ -115,7 +115,7 @@ The list contains mods that fall into 4 categories.
  - [Notification Log SSE](https://www.nexusmods.com/skyrimspecialedition/mods/27707)
  - [ReCleaned Menu](https://www.nexusmods.com/skyrimspecialedition/mods/26680) (Creation Club users should disable this mod)
  - [Slayable Offspring SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/46826)
- - [SSE Parallax Shader Fix](https://nexusmods.com/skyrimspecialedition/mods/31963) (Be aware - potential incompatibility with [Better Dynamic Snow SE](https://www.nexusmods.com/skyrimspecialedition/mods/9121) as indicated [here](https://www.nexusmods.com/skyrimspecialedition/mods/31963?tab=bugs)].
+ - [SSE Parallax Shader Fix](https://nexusmods.com/skyrimspecialedition/mods/31963) (Be aware - potential incompatibility with [Better Dynamic Snow SE](https://www.nexusmods.com/skyrimspecialedition/mods/9121) as indicated [here](https://www.nexusmods.com/skyrimspecialedition/mods/31963?tab=bugs))
  - [Stay at the System Page - Updated](https://nexusmods.com/skyrimspecialedition/mods/19832)
  - [Velexia's Animals are not Monsters SE](http://nexusmods.com/skyrimspecialedition/mods/32133)
  - [Wider MCM Menu for SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/22825)
