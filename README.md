@@ -44,7 +44,7 @@ This list contains mods that fall into 4 categories.
 - [zEdit](https://github.com/z-edit/zedit)
       
 #### Essential fixes and patches
-- [Actor Movement Limit Fix](https://www.nexusmods.com/skyrimspecialedition/mods/32349?tab=files)
+- [Actor Movement Limit Fix](https://www.nexusmods.com/skyrimspecialedition/mods/32349)
 - [Animation Limit Crash Fix SSE](https://www.nexusmods.com/skyrimspecialedition/mods/31146)
 - [Assorted mesh fixes](https://nexusmods.com/skyrimspecialedition/mods/32117)
 - [Believable Crime Report Radius](https://www.nexusmods.com/skyrimspecialedition/mods/2802)
@@ -67,7 +67,8 @@ This list contains mods that fall into 4 categories.
 - [Fixed body collision](http://nexusmods.com/skyrimspecialedition/mods/10849)
 - [Fixed Dragon Stalking Fix](https://www.nexusmods.com/skyrimspecialedition/mods/37230)
 - [hank's gamepad and controller fixes](https://www.nexusmods.com/skyrimspecialedition/mods/42492)
-- [Keyboard Shortcuts Fix](https://www.nexusmods.com/skyrimspecialedition/mods/3620?tab=description)
+- [Keyboard Shortcuts Fix](https://www.nexusmods.com/skyrimspecialedition/mods/3620)
+- [Labyrinthian Shalidor's Maze Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/52239)
 - [Logical Outfits and Classes for The Dark Brotherhood Forever](https://www.nexusmods.com/skyrimspecialedition/mods/43483)
 - [Modern Brawl Bug Fix](https://nexusmods.com/skyrimspecialedition/mods/1473)
 - [More Informative Console](https://nexusmods.com/skyrimspecialedition/mods/19250)
@@ -97,9 +98,9 @@ This list contains mods that fall into 4 categories.
  - [PapyrusUtil SE](https://nexusmods.com/skyrimspecialedition/mods/13048)
  - [powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854)
  - [Project New Reign - Nemesis Main](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main)
- - [Project New Reign - Nemesis PCEA](https://www.nexusmods.com/skyrimspecialedition/mods/31667?tab=description)
+ - [Project New Reign - Nemesis PCEA](https://www.nexusmods.com/skyrimspecialedition/mods/31667)
  - [Scaleform Translation Plus Plus](https://www.nexusmods.com/skyrimspecialedition/mods/22603)
- - [SimpleAddItems 2.0 - a zEdit module for leveled lists and containers](https://www.nexusmods.com/skyrimspecialedition/mods/32319?tab=description)
+ - [SimpleAddItems 2.0 - a zEdit module for leveled lists and containers](https://www.nexusmods.com/skyrimspecialedition/mods/32319)
  - [Skyrim Script Extender (SKSE64)](https://skse.silverlock.org)
  - [UIExtensions](https://nexusmods.com/skyrimspecialedition/mods/17561)
 
@@ -113,7 +114,7 @@ This list contains mods that fall into 4 categories.
  - [Notification Log SSE](https://www.nexusmods.com/skyrimspecialedition/mods/27707)
  - [ReCleaned Menu](https://www.nexusmods.com/skyrimspecialedition/mods/26680) (Creation Club users should disable this mod)
  - [SSE Parallax Shader Fix](https://nexusmods.com/skyrimspecialedition/mods/31963) (Be aware - potential incompatibility with [Better Dynamic Snow SE](https://www.nexusmods.com/skyrimspecialedition/mods/9121) as indicated [here](https://www.nexusmods.com/skyrimspecialedition/mods/31963?tab=bugs)].
- - [StayAtSystemPageSE](https://nexusmods.com/skyrimspecialedition/mods/19832)
+ - [Stay at the System Page - Updated](https://nexusmods.com/skyrimspecialedition/mods/19832)
  - [Velexia's Animals are not Monsters SE](http://nexusmods.com/skyrimspecialedition/mods/32133)
  - [Wider MCM Menu for SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/22825)
  - [Whose Quest Is It Anyway](https://www.nexusmods.com/skyrimspecialedition/mods/23581)
