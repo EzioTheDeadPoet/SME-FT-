@@ -28,7 +28,7 @@ This list contains mods that fall into 4 categories.
 - [BethINI](http://nexusmods.com/skyrimspecialedition/mods/4875)
 - [BodySlide and Outfit Studio](http://nexusmods.com/skyrimspecialedition/mods/201)
 - [deorder's MO2 Plugins](https://github.com/deorder/mo2-plugins)
-   - **Merge Plugins Hide**: Hide / unhide plugins that were merged using `Merge Plugins` or `zMerge`.
+   - **Merge Plugins Hide**: Hide / unhide plugins that were merged using *Merge Plugins* or *zMerge*.
    - **Sync Mod Order**: Sync mod order from current profile to another while keeping the (enabled/disabled) state intact.
 - [Dynamic Distant Objects LOD - DynDOLOD](https://www.nexusmods.com/skyrim/mods/59721)
    - This does **NOT** include the resources found on the same page.
@@ -58,7 +58,7 @@ This list contains mods that fall into 4 categories.
 - [Engine Fixes](https://nexusmods.com/skyrimspecialedition/mods/17230)
 - [Enhanced Reanimation](https://www.nexusmods.com/skyrimspecialedition/mods/43500)
 - [Equip Enchantment Fix](https://www.nexusmods.com/skyrimspecialedition/mods/42839)
-- [Essential Favorites](https://www.nexusmods.com/skyrimspecialedition/mods/42997) (The protection of `Essential Favorites` is disabled for disarming since it is incompatible with mods that rely on this feature)
+- [Essential Favorites](https://www.nexusmods.com/skyrimspecialedition/mods/42997) (The protection of *Essential Favorites* is disabled for disarming since it is incompatible with mods that rely on this feature)
 - [Fast Travel Speed Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1503)
 - [Favorite Misc Items](https://www.nexusmods.com/skyrimspecialedition/mods/42750)
 - [First Person Sneak Strafe-Walk Stutter Fix](http://nexusmods.com/skyrimspecialedition/mods/31165)
@@ -69,6 +69,7 @@ This list contains mods that fall into 4 categories.
 - [Keyboard Shortcuts Fix](https://www.nexusmods.com/skyrimspecialedition/mods/3620)
 - [Labyrinthian Shalidor's Maze Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/52239)
 - [Logical Outfits and Classes for The Dark Brotherhood Forever](https://www.nexusmods.com/skyrimspecialedition/mods/43483)
+- [No Grass in Objects](https://www.nexusmods.com/skyrimspecialedition/mods/42161)
 - [Modern Brawl Bug Fix](https://nexusmods.com/skyrimspecialedition/mods/1473)
 - [More Informative Console](https://nexusmods.com/skyrimspecialedition/mods/19250)
 - [Move it Dammit - for Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/752)
