@@ -187,7 +187,7 @@ Important to know:
 
 ## Ultrawide Fix
 
-[Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) contains the necessary mods for UltraWide (21:9) monitor users. Download and install these mods using Mod Organizer 2. The first file is found under the `Main Files` section of the mod files page, the rest are under `Optional Files`.
+[Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) contains the necessary mods for ultrawide monitor users. Download and install these mods using Mod Organizer 2. The first file is found under the *Main Files* section of the mod files page, the rest are under *Optional Files*.
 
 - `Complete Widescreen Fix for SkyUI 5.2 SE Alpha - 2560x1080`
   - Place this mod under `SkyUi` and keep both active (Patch)
@@ -200,47 +200,31 @@ Important to know:
 - `Race Menu SE - Widescreen Fix (Optional Files)`
   - Place this mod under `RaceMenu` and keep both active (Patch)
 
+Alternatively, an easier option that will result in a less vanilla-looking UI is [Dear Diary](https://www.nexusmods.com/skyrimspecialedition/mods/23010). It includes support for 21:9 and 32:9.
+
 ## Notes
 
-1. If you want to use Creation Club mods, you must disable `ReCleaned Menu - If you want to use Creation Club mods disable this!!` in your MO for the option to even be available in the main menu. Since there are more people that don't install mods from there anyway, I included this to make their menus cleaner.
-2. If you want to use [Blood on the Ice Redux SE](https://www.nexusmods.com/skyrimspecialedition/mods/6126), right-click `Finding Susanna Alive` and select **Reinstall Mod** to let it install with the included patch.
-3. If you addded new landscapes or altered existing ones, open and run the included Synthesis patchers.
-4. I set the protection of `Essential Favorites` to disabled for disarming since it is incompatible with mods that rely on disarming.
-5. Moved this fix in the recommended section due to potential incompatibilities with [Better Dynamic Snow SE](https://www.nexusmods.com/skyrimspecialedition/mods/9121) as indicated [here](https://www.nexusmods.com/skyrimspecialedition/mods/31963?tab=bugs).
+1. If you want to use Creation Club mods, you must disable *ReCleaned Menu* in Mod Organizer for the option to be available in the main menu.
+2. If you want to use [Blood on the Ice Redux SE](https://www.nexusmods.com/skyrimspecialedition/mods/6126), right-click *Finding Susanna Alive* in Mod Organizer and select *Reinstall Mod* to install it with the included patch (select *Replace* afterwards)
+3. The protection of `Essential Favorites` is disabled for disarming since it is incompatible with mods that rely on this feature.
+4. Moved this fix in the recommended section due to potential incompatibilities with [Better Dynamic Snow SE](https://www.nexusmods.com/skyrimspecialedition/mods/9121) as indicated [here](https://www.nexusmods.com/skyrimspecialedition/mods/31963?tab=bugs).
 
----
+## FAQ
 
-## Reasoning and Future Plans
-
-People asked why I haven't included mods like [unofficial performance optimized textures AKA (UPOT)](https://www.nexusmods.com/skyrimspecialedition/mods/21166), [Cleaned Skyrim SE Textures](https://www.nexusmods.com/skyrimspecialedition/mods/38775) or [Unofficial High Definition Audio Project](https://www.nexusmods.com/skyrimspecialedition/mods/18115) the short reasoning is size,
-since I want this to be a fast to install collection of fixes and tools, and all of the optional mods I included are still smaller than those audio and texture optimizations.
-Including a texture and the audio optimizations would triple the installation size. That said, feel free to add them on top if you plan a vanilla playthrough or think you want them.
-
-Future plans:
-
-- I want to update this regularly, while also updating [Tales from the Northern Lands](https://eziothedeadpoet.github.io/Tales-from-the-Northern-Lands/)
-- A strong amount further in the future would be [SME(FT) - LL Edition](https://github.com/EzioTheDeadPoet/SME-FT-/issues/11) which I can see as well as very useful as a lot of LE players (active on LL) are slowly moving over to SE as well and could really benefit from this. Sadly I currently have not enough time to get to do it, as seen in the linked [Issue](https://github.com/EzioTheDeadPoet/SME-FT-/issues/11).
-
----
+### Why is there no cleaned texture / audio mod included? [unofficial performance optimized textures AKA (UPOT)](https://www.nexusmods.com/skyrimspecialedition/mods/21166), [Cleaned Skyrim SE Textures](https://www.nexusmods.com/skyrimspecialedition/mods/38775) or [Unofficial High Definition Audio Project](https://www.nexusmods.com/skyrimspecialedition/mods/18115) the short reasoning is size,
+Mods like that are very large sized (would triple the installation size) and not very useful for people that simply want to have a setup to test their newly developed mod on. There are plans for a SMEFT version that do include these types of mods, but it's not here just yet :)
 
 ## Credits and Thanks
-
-- _YOU_ for actually reading the readme. Thanks a ton!!
-- Akalonian for making the install instructions clearer.
-- Lively and LadyZeefa for encouraging me to make this list.
-- ForgottenGlory for making SME(FT) possible due to his early support. 🧡
+- You, for actually reading the readme. Thanks :)
+- Akalonian for clearing up some of the installation instructions.
+- Lively and LadyZeefa for encouraging Luca to create this list.
+- ForgottenGlory for making SME(FT) possible due to his early support.
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you.
-- ALL the mod authors that made the mods featured in this list.
+- All the mod authors that made the mods featured in this list.
+- Luca for originally creating SME(FT).
 - Special thanks to all the other people listed [here](https://eziothedeadpoet.github.io/AboutMe/HALLOFFAME.html) that support this and other projects of mine.
 
 ## Contact
+I (trawzified) am usually available on the [Wabbajack Discord](https://discord.gg/wabbajack). You may also message me on GitHub. Mod suggestions are alright, but keep in mind that they should be within the scope of the project.
 
-While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I recommend checking the [Issues](https://github.com/EzioTheDeadPoet/SME-FT-/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
-
-**DO NOT CONTACT MOD-AUTHORS WITH ISSUES OR I WILL HAVE TO TAKE ACTIONS THAT WILL RESULT IN YOU BEING BANNED FROM WABBAJACK.**
-
-## Changelog
-
-See [Changelog](CHANGELOG.md).
-
----
+**Do not contact mod authors with issues, approach me first. It's far more likely that there's an issue with this list rather than their mod, and we don't want to waste their time.**
