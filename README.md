@@ -22,7 +22,7 @@ If you want to learn more about modding Skyrim, you could read up on it on [the 
 
 Previously, SMEFT included profiles for people that want to use specific animation engines. However, the best option is clearly [Nemesis](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases/latest) unless you want a very particular set of animal mods found on LoversLab.
 
-This list contains mods that fall into 4 categories.
+The list contains mods that fall into 4 categories.
 
 #### Tools
 - [BethINI](http://nexusmods.com/skyrimspecialedition/mods/4875)
@@ -110,6 +110,7 @@ This list contains mods that fall into 4 categories.
  - [Finding Susanna Alive - A Blood on the Ice Trigger Revision](https://www.nexusmods.com/skyrimspecialedition/mods/32512) ([Blood on the Ice Redux SE](https://www.nexusmods.com/skyrimspecialedition/mods/6126) users should reinstall this mod with the patch enabled.)
  - [GIST Soul Trap](https://nexusmods.com/skyrimspecialedition/mods/15755)
  - [Loki's Wade In Water](https://www.nexusmods.com/skyrimspecialedition/mods/42854)
+ - [Player Rotation in ShowRaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/36095)
  - [No BS AI Projectile Dodge](https://nexusmods.com/skyrimspecialedition/mods/1763)
  - [Notification Log SSE](https://www.nexusmods.com/skyrimspecialedition/mods/27707)
  - [ReCleaned Menu](https://www.nexusmods.com/skyrimspecialedition/mods/26680) (Creation Club users should disable this mod)
