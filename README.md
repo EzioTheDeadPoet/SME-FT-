@@ -5,7 +5,9 @@
 ![status](https://img.shields.io/endpoint?url=https://build.wabbajack.org/lists/status/smeft/badge.json&style=for-the-badge&label=status)
 ![version](https://img.shields.io/badge/dynamic/json?label=version&query=%24%5B%3F%28%40.links.machineURL%3D%3D%22smeft%22%29%5D.version&url=https%3A%2F%2Fraw.githubusercontent.com%2Fwabbajack-tools%2Fmod-lists%2Fmaster%2Fmodlists.json&style=for-the-badge)
 
-**THIS MODLIST IS MEANT AS A BASIS TO START YOUR OWN MODDING JOURNEY AND INCLUDES ALL THE FIXES AND TOOLS KNOWN TO ME WITH A FEW ADDED RECOMMENDATIONS!!!**
+**This modlist is meant as a basis to start your own Skyrim modding journey, it includes all the essential fixes & tools.**
+
+Originally created by Luca (EzioTheDeadPoet), I (trawzified) have taken over the maintenance of SMEFT.
 
 ## Index
 <!-- markdownlint-disable MD033 -->
@@ -21,45 +23,27 @@
 </ul>
 <!-- markdownlint-enable MD033 -->
 
-## **GENERAL-DESCRIPTION**
+## Description
 
-### **What is this list trying to offer ?**
+This modlist is a utility for modders, to speed up their initial modding setup, or for people who want to play vanilla Skyrim with all the unofficial patches and fixes.
+It can also be utilized as a test bench for developing new mods on a stable base.
 
-In short, this list intendeds to offer what I was searching for when moving from Skyrim Legendary Edition to Skyrim Special Edition at the end of 2019.
-It got refined, has grown, and became a resource.
+If you want to learn more about modding Skyrim, you could read up on it on [the /r/skyrimmods wiki](https://www.reddit.com/r/skyrimmods/wiki/begin2) or follow the [lessons on the Learn to Mod page](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/Main.md) on how to get started.
 
-- For LE players to make an easy move to SE with a ready to mod setup.
-- For SE players wanting a fast ready to mod setup.
-- For SE mod and patch authors as a test bench.
+### What's included in this list?
 
-This modlist is a utility for modders, to speed up their initial MO2 setup.
-For people who just want a vanilla experience with all the unofficial patches and fixes.
+Previously, SMEFT included profiles for people that want to use specific animation engines. However, the best option is clearly [Nemesis](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases/latest) unless you want a very particular set of animal mods found on LoversLab.
 
-If you want to learn more about modding Skyrim, I recommend [this Guide](https://www.reddit.com/r/skyrimmods/wiki/begin2) on how to get started.
+This list contains mods that fall into 4 categories.
 
-This modlist comes with the most (I do not want to make the absolute claim it has all, even tho I am pretty sure) common tools and fixes for Skyrim Special Edition, so modlist creators and modders have an easier way of getting a stable initial vanilla setup with little effort.
-
-Some of the mods you might want to change, based on personal preference. They are found in the `Optional but highly recommended mods` section.
-
-**Now have fun using this as a basis for your modlists, or your test bench for your mods or patchers.**
-
-### **What is included in this List ?**
-
-- This list has 3 playable profiles:
-   1. For people that want to use FNIS.
-   2. For people that want to use Nemesis.
-   3. For people who do not want to use either of them.
-
-- This list contains these of 4 categories:
-
-   1. **Tools** (Accessible over the run menu and the shortcuts)
+#### Tools
       - [BethINI](http://nexusmods.com/skyrimspecialedition/mods/4875)
       - [BodySlide and Outfit Studio](http://nexusmods.com/skyrimspecialedition/mods/201)
       - [deorder's MO2 Plugins](https://github.com/deorder/mo2-plugins)
-         - **Merge Plugins Hide**: Hide / unhide plugins that were merged using `Merge Plugins` or `zMerge`
-         - **Sync Mod Order**: Sync mod order from current profile to another while keeping the (enabled/disabled) state intact
+         - **Merge Plugins Hide**: Hide / unhide plugins that were merged using `Merge Plugins` or `zMerge`.
+         - **Sync Mod Order**: Sync mod order from current profile to another while keeping the (enabled/disabled) state intact.
       - [Dynamic Distant Objects LOD - DynDOLOD](https://www.nexusmods.com/skyrim/mods/59721)
-         - This does **NOT** include the resources found on the same modpage.
+         - This does **NOT** include the resources found on the same page.
       - [LOOT](https://github.com/loot/loot)
       - [NifSkope](https://github.com/niftools/nifskope)
       - [Papyrus Compiler App (Mod Organizer 2 Integration) SE](http://nexusmods.com/skyrimspecialedition/mods/23852)
@@ -69,8 +53,8 @@ Some of the mods you might want to change, based on personal preference. They ar
       - [Unofficial Mator Smash Updated](https://www.nexusmods.com/skyrimspecialedition/mods/39378)
       - [Wrye Bash](https://www.nexusmods.com/skyrimspecialedition/mods/6837)
       - [zEdit](https://github.com/z-edit/zedit)
-
-   2. **Game Fixes and Patches**
+      
+#### Essential fixes and patches
       - [Actor Movement Limit Fix](https://www.nexusmods.com/skyrimspecialedition/mods/32349?tab=files)
       - [Animation Limit Crash Fix SSE](https://www.nexusmods.com/skyrimspecialedition/mods/31146)
       - [Assorted mesh fixes](http://nexusmods.com/skyrimspecialedition/mods/32117)
@@ -93,7 +77,6 @@ Some of the mods you might want to change, based on personal preference. They ar
       - [Fix Note icon for SkyUI (SKSE64 plugin)](https://www.nexusmods.com/skyrimspecialedition/mods/32561)
       - [Fixed body collision](http://nexusmods.com/skyrimspecialedition/mods/10849)
       - [Fixed Dragon Stalking Fix](https://www.nexusmods.com/skyrimspecialedition/mods/37230)
-      - [FloraFixer - Mutagen Patcher and Data](https://www.nexusmods.com/skyrimspecialedition/mods/42057) (read Note 3. in [Notes](https://github.com/EzioTheDeadPoet/SME-FT-#4-notes))
       - [hank's gamepad and controller fixes](https://www.nexusmods.com/skyrimspecialedition/mods/42492)
       - [Keyboard Shortcuts Fix](https://www.nexusmods.com/skyrimspecialedition/mods/3620?tab=description)
       - [Logical Outfits and Classes for The Dark Brotherhood Forever](https://www.nexusmods.com/skyrimspecialedition/mods/43483)
@@ -114,7 +97,7 @@ Some of the mods you might want to change, based on personal preference. They ar
       - [Unofficial Skyrim Special Edition Patch](http://nexusmods.com/skyrimspecialedition/mods/266)
       - [Whiterun Tower Fix](https://www.nexusmods.com/skyrimspecialedition/mods/14365)
 
-   3. **Mod Resources**
+#### Common Mod Resources
       - [.NET Script Framework](https://www.nexusmods.com/skyrimspecialedition/mods/21294)
       - [Address Library for SKSE Plugins](https://www.nexusmods.com/skyrimspecialedition/mods/32444)
       - [ConsoleUtilSSE](http://nexusmods.com/skyrimspecialedition/mods/24858)
@@ -128,15 +111,14 @@ Some of the mods you might want to change, based on personal preference. They ar
       - [Project New Reign - Nemesis PCEA](https://www.nexusmods.com/skyrimspecialedition/mods/31667?tab=description)
       - [Scaleform Translation Plus Plus](https://www.nexusmods.com/skyrimspecialedition/mods/22603)
       - [SimpleAddItems 2.0 - a zEdit module for leveled lists and containers](https://www.nexusmods.com/skyrimspecialedition/mods/32319?tab=description)
-      - [Skyrim Script Extender SKSE64](https://skse.silverlock.org)
+      - [Skyrim Script Extender (SKSE64)](https://skse.silverlock.org)
       - [UIExtensions](http://nexusmods.com/skyrimspecialedition/mods/17561)
 
-   4. Optional but highly recommended mods(that address issues with the main game that are not really bugs)
+#### Highly recommended mods
       - [Alternate Start - Live Another Life](http://nexusmods.com/skyrimspecialedition/mods/272)
       - [RaceMenu](http://nexusmods.com/skyrimspecialedition/mods/19080)
       - [Finding Susanna Alive - A Blood on the Ice Trigger Revision](https://www.nexusmods.com/skyrimspecialedition/mods/32512) ([Blood on the Ice Redux SE](https://www.nexusmods.com/skyrimspecialedition/mods/6126) users see Note 2. in the [Notes](#notes) section of this readme)
       - [GIST Soul Trap](http://nexusmods.com/skyrimspecialedition/mods/15755)
-      - [Gladys the Corgi - A Custom Dog Follower Mod](http://nexusmods.com/skyrimspecialedition/mods/50164)
       - [Loki's Wade In Water](https://www.nexusmods.com/skyrimspecialedition/mods/42854)
       - [No BS AI Projectile Dodge](http://nexusmods.com/skyrimspecialedition/mods/1763)
       - [Notification Log SSE](https://www.nexusmods.com/skyrimspecialedition/mods/27707)
@@ -147,57 +129,63 @@ Some of the mods you might want to change, based on personal preference. They ar
       - [Wider MCM Menu for SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/22825)
       - [Whose Quest Is It Anyway](https://www.nexusmods.com/skyrimspecialedition/mods/23581)
 
----
+## Installation
 
-## INSTALLATION
+### Step 1 - Preparing the Wabbajack installation environment
 
-- To install Skyrim, see [Guide](https://www.reddit.com/r/skyrimmods/wiki/begin2). Read up to the end of the **Install Location** section. 
-  - If you want to prepare to add mods yourself, I highly recommend reading the whole thing.
-  - You do not need to install ModOrganizer 2 (MO2). SMEFT installs a portable version of MO2 with everything else. If you do have another MO2 installed, use the one SMEFT installs.
+First off - ensure your game is completely vanilla, no mods installed. Make sure to install the game **outside** of your Program Files directories (not in the default Steam location!). This can cause issues for certain mods because Windows restricts permissions to these folders via UAC. If you already have a Steam Library in Program Files and still want to install Skyrim outside of it, Steam won't let you. You can bypass this by using [this tool by LostDragonist.](https://github.com/LostDragonist/steam-library-setup-tool/releases)
 
-- To install SME(FT):
-   1. Get the latest [Wabbajack](https://www.wabbajack.org) version.
-   2. Select **Browse Modlist**.
-   3. From the **Game** list, select **Skyrim Special Edition** and click the check-box for **Show Utility Lists**.
-   4. At the bottom of the **SMEFT** window, click the **Download Modlist** icon.
-   5. Enter a filepath in the **Installation Location** and **Download Location** fields.
-         - The recommended Installation Path is an empty folder at the root of a drive, such as `D:\SMEFT`. The Download Path is updated automatically. You can change it if you want.
-   6. Click the blue **Play** button.
-         - Wabbajack downloads everything automatically if you have a Premium Nexus Mods account. Normal users are required to click the **Manual Download** button for each mod. Wabbajack highlights the buttons to press.
-   7. After the installation completes, click **Close**.
-   8. Navigate to `Game Folder Files` in the install folder specified in **Step 5**.
-         - Using our previous example, the filepath is: `D:\SMEFT\Game Folder Files`.
-   9. Copy the Content of `Game Folder Files` to the game folder located in `..\Steam\steamapps\common\Skyrim Special Edition`.
-         - It should be a folder not located in one of the windows protected folders.
-   10. Navigate to `..\SMEFT\tools\BethINI (ONLY LAUNCH WITH MO CLOSED)` and run `BethINI.exe`.
-         - Make sure the game and MO2 are closed.
-   11. In the **Game** list, select **Skyrim Special Edition**.
-   12. In **BethINI**, click the `Setup` tab.
-   13. Change the **Mod Organizer** field to point to `ModOrganizer.exe`.
-   14. Select the SMEFT profile to use from the **INI Path** list.
-         - BethINI will restart after applying the profile.
-   15. From the **Basic** tab, select a Preset to match your hardware and ENB plans.
-   16. When done, click **Save and Exit**.
-         - You can come back at any time and change your BethINI profile.
-   17. Run `ModOrganizer.exe`.
-   18. From the **Profile** list at the top, select a profile to use.
-   19. If you selected the **FNIS** or **Nemesis** profile, run FNIS or Nemesis now.
-   20. Launch **Synthesis** and click **Run** for the pre-selected patchers. Close it when done.
-         - If this step causes issues for you, check if your system has the requirements for it [here](https://github.com/Mutagen-Modding/Synthesis/wiki/Installation).
-         - If you have issues on how to use it, check [here](https://github.com/Mutagen-Modding/Synthesis/wiki/Typical-Usage).
+Create a Wabbajack folder and an installation folder on the root of your drive. An instance of Mod Organizer 2 will be installed into the installation directory, and Wabbajack itself will stay inside the Wabbajack folder.
 
-- To Launch the game from MO2, select **SKSE** from the drop-down list in the top-right and click **Run**. You can also create MO2 shortcuts to automatically launch linked binaries trough MO2.
-  - Your MO2 Setup is now ready to start modding and playing the most barebone PC friendly Skyrim experience.
 
-If you plan to run DynDOLOD, do not forget to grab the resources from the official modpage and if available the dependencies for your weather mods and the likes.
+Example:
+- `C:\Wabbajack` (Wabbajack folder)
+- `C:\SMEFT` (Installation folder, where Mod Organizer 2 will be installed)
 
-When adding Mods, look out for possible incompatibilities and the [Notes](#notes) sections below.
+### Step 2 - Downloading Wabbajack
 
-**Do not try to play the `SME(FT) - Installation` Profile since it is a dummy profile, for me to compile the list.**
+Get [the latest Wabbajack build](https://www.github.com/wabbajack-tools/wabbajack/releases/latest) from GitHub (the executable file named `Wabbajack.exe`).
 
----
+Place it in the Wabbajack folder.
 
-## UltraWide Fix
+### Step 3 - Downloading the modlist
+
+Start `Wabbajack.exe` in the Wabbajack folder and click on 'Browse Modlists'. Now select 'Only Utility Lists' at the top right, you should now be able to see SMEFT. Press the big download button in the corner.
+
+This'll download the modlist file which is basically a set of instructions Wabbajack will use to replicate my SMEFT installation on your computer.
+
+### Step 4 - Starting installation via Wabbajack
+
+Select your installation folder in Wabbajack and point it to the folder you created in step 1.	
+
+Downloads will be automatically stored in a subdirectory (`C:\SMEFT\downloads`), but if you would like to save space on the installation drive, create an empty Downloads folder on the drive you wish to store the downloaded files on and select that folder instead.
+
+Now start your installation by clicking on the blue play button on the right.
+
+### Step 5 - Copying Game Folder Files
+
+Once your installation is complete, proceed to go to your Skyrim game directory.
+
+Copy all the files inside the Game Folder Files directory (in the installation directory) into your Skyrim game directory.
+
+**WARNING: Only copy the files inside the Game Folder Files directory (`skse64_loader.exe` etc) into your Skyrim folder, not the entire installation folder!**
+
+### Step 6 - Post-installation
+
+After copying the Game Folder Files into your base game directory, go to your installation directory (`C:\SMEFT`), proceed into the `tools\BethINI` folder. Make sure Mod Organizer 2 and Skyrim are closed and start `BethINI.exe`. Select *Skyrim Special Edition* in the drop-down menu and proceed after reading the warning. Go to the *Setup* tab on the far-left of BethINI and select *Browse...* in the Mod Organizer drop-down menu. Browse to your installation folder and select `ModOrganizer.exe` inside. Now select the SMEFT profile in the Profiles drop-down menu, below the Mod Organizer label. Click *Yes* if BethINI asks whether it may modify custom INI files.
+
+Go back to the Basic tab, check the box next to *Recommended Tweaks* and select the preset you think is right for your PC. Modern PCs should be fine with the *Medium* or *High* preset. People with high end PCs - I would recommend against the *Ultra* preset even with your RTX 3090 and Ryzen 9 5950X, unless you're going for a screen archery setup. The lost performance is better spent upping the settings quality of your favorite ENB preset. Click *Save and Exit* after you've applied the settings.
+
+### Step 7 - Running the game & notes
+
+Start the game by launching `ModOrganizer.exe` in the installation directory, then select *SKSE* from the drop-down menu at the top right. Click *Run* next to it.
+
+Important to know:
+
+- You will need to re-run Synthesis after adding your own mods, and re-run Nemesis when adding mods that require it.
+- If you plan to run DynDOLOD, do not forget to grab the resources from the Nexus page and if available the dependencies for any added weather mods and the likes.
+
+## Ultrawide Fix
 
 [Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) contains the necessary mods for UltraWide (21:9) monitor users. Download and install these mods using Mod Organizer 2. The first file is found under the `Main Files` section of the mod files page, the rest are under `Optional Files`.
 
