@@ -192,12 +192,28 @@ Important to know:
 
 Alternatively, an easier option that will result in a less vanilla-looking UI is [Dear Diary](https://www.nexusmods.com/skyrimspecialedition/mods/23010). It includes support for 21:9 and 32:9.
 
-## Notes
-
 ## FAQ
 
 ### Why is there no cleaned texture / audio mod included? [unofficial performance optimized textures AKA (UPOT)](https://www.nexusmods.com/skyrimspecialedition/mods/21166), [Cleaned Skyrim SE Textures](https://www.nexusmods.com/skyrimspecialedition/mods/38775) or [Unofficial High Definition Audio Project](https://www.nexusmods.com/skyrimspecialedition/mods/18115) the short reasoning is size,
 Mods like that are very large sized (would triple the installation size) and not very useful for people that simply want to have a setup to test their newly developed mod on. There are plans for a SMEFT version that do include these types of mods, but it's not here just yet :)
+
+### Are there ultrawide options available?
+Not included by default, but here are the instructions.
+
+[Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778?tab=files) contains the necessary mods for playing Skyrim on an ultrawide monitor. Download and install these mods via the 'Mod Manager Download' buttons. The first file is found under the *Main Files* section of the mod files page, the rest are under *Optional Files*.
+
+- Complete Widescreen Fix for SkyUI 5.2 SE Alpha - 2560x1080
+  - Place this mod under *SkyUI* in the left pane and keep both active
+- Better Dialogue Control Widescreen Fix
+  - Disable *Better Dialogue Controls* and place this mod under it in the left pane (Replacer)
+- Better MessageBox Control Widescreen Fix
+  - Disable *Better MessageBox Controls* and place this mod under it in the left pane (Replacer)
+- SkyUI SE - Flashing Savegames Fix - Widescreen Fix
+  - Disable *Flashing Savegames Fix* and place this mod under it in the left pane (Replacer)
+- RaceMenu SE - Widescreen Fix
+  - Place this mod under *RaceMenu* in the left pane and keep both active
+
+Alternatively, an easier option that will result in a less vanilla-looking UI is [Dear Diary](https://www.nexusmods.com/skyrimspecialedition/mods/23010). It includes support for 21:9 and 32:9.
 
 ## Credits and Thanks
 - You, for actually reading the entirety of the README
