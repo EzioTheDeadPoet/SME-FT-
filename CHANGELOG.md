@@ -1,7 +1,6 @@
 # Changelog
 
-## 1.0
-
+## 1.0 | 15-07-2021
 SMEFT is now maintained by me (trawzified) instead of Luca, it now uses semantic versioning.
 The FNIS versions of SMEFT have been deprecated.
 
