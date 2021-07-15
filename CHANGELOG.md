@@ -22,6 +22,10 @@ The FNIS versions of SMEFT have been deprecated.
 
 **Updated** NPC AI Process Position Fix - SSE (4.03c -> 4.05b)
 
+**Updated** powerofthree's Tweaks (1.0 -> 1.1.1)
+
+**Updated** Assorted mesh fixes (0.16 -> 0.20)
+
 ---
 
 **Changed** SSE Display Tweaks now uses a MaxFrameLatency of 1 & enforces Borderless mode
