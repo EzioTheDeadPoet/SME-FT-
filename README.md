@@ -45,11 +45,6 @@ Some of the mods you might want to change, based on personal preference. They ar
 
 ### **What is included in this List ?**
 
-- This list has 3 playable profiles:
-   1. For people that want to use FNIS.
-   2. For people that want to use Nemesis.
-   3. For people who do not want to use either of them.
-
 - This list contains these of 4 categories:
 
    1. **Tools** (Accessible over the run menu and the shortcuts)
@@ -120,7 +115,6 @@ Some of the mods you might want to change, based on personal preference. They ar
       - [ConsoleUtilSSE](http://nexusmods.com/skyrimspecialedition/mods/24858)
       - [FileAccess Interface for Skyrim SE Scripts](http://nexusmods.com/skyrimspecialedition/mods/13956)
       - [Fuz Ro D-oh - Silent Voice](https://www.nexusmods.com/skyrimspecialedition/mods/15109)
-      - [Fores New Idles in Skyrim SE - FNIS SE](https://www.nexusmods.com/skyrimspecialedition/mods/3038)
       - [JContainers SE](http://nexusmods.com/skyrimspecialedition/mods/16495)
       - [PapyrusUtil SE](http://nexusmods.com/skyrimspecialedition/mods/13048)
       - [powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854)
@@ -178,11 +172,13 @@ Some of the mods you might want to change, based on personal preference. They ar
          - BethINI will restart after applying the profile.
    15. From the **Basic** tab, select a Preset to match your hardware and ENB plans.
    16. When done, click **Save and Exit**.
-         - You can come back at any time and change your BethINI profile.
+         - You can come back at any time and change your BethINI settings.
    17. Run `ModOrganizer.exe`.
    18. From the **Profile** list at the top, select a profile to use.
-   19. If you selected the **FNIS** or **Nemesis** profile, run FNIS or Nemesis now.
-   20. Launch **Synthesis** and click **Run** for the pre-selected patchers. Close it when done.
+   19. Run Nemesis now.
+         1. Press `Update Engine`
+         2. Press `Launch` when the engine update is done.
+   21. Launch **Synthesis** and click **Run** for the pre-selected patchers. Close it when done.
          - If this step causes issues for you, check if your system has the requirements for it [here](https://github.com/Mutagen-Modding/Synthesis/wiki/Installation).
          - If you have issues on how to use it, check [here](https://github.com/Mutagen-Modding/Synthesis/wiki/Typical-Usage).
 
