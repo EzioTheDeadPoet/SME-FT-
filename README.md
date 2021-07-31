@@ -7,6 +7,11 @@
 
 **THIS MODLIST IS MEANT AS A BASIS TO START YOUR OWN MODDING JOURNEY AND INCLUDES ALL THE FIXES AND TOOLS KNOWN TO ME WITH A FEW ADDED RECOMMENDATIONS!!!**
 
+## Active Team
+
+- Luca|EzioTheDeadPoet
+- trawzified
+
 ## Index
 <!-- markdownlint-disable MD033 -->
 <ul>
@@ -237,6 +242,7 @@ Future plans:
 - Akalonian for making the install instructions clearer.
 - Lively and LadyZeefa for encouraging me to make this list.
 - ForgottenGlory for making SME(FT) possible due to his early support. 🧡
+- trawzified for helping out with updates
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you.
 - ALL the mod authors that made the mods featured in this list.
 - Special thanks to all the other people listed [here](https://eziothedeadpoet.github.io/AboutMe/HALLOFFAME.html) that support this and other projects of mine.
