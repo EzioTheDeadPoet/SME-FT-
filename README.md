@@ -1,6 +1,3 @@
-# SME(FT) - Skyrim Modding Essentials (Fixes & Tools)
-
-![(thumbnail)](/SME-FT-Thumbnail.png)
 
 ![status](https://img.shields.io/endpoint?url=https://build.wabbajack.org/lists/status/smeft/badge.json&style=for-the-badge&label=status)
 
@@ -41,7 +38,7 @@ The list contains mods that fall into 4 categories.
 - [Unofficial Mator Smash Updated](https://www.nexusmods.com/skyrimspecialedition/mods/39378)
 - [Wrye Bash](https://www.nexusmods.com/skyrimspecialedition/mods/6837)
 - [zEdit](https://github.com/z-edit/zedit)
-      
+
 #### Essential fixes and patches
 - [Actor Movement Limit Fix](https://www.nexusmods.com/skyrimspecialedition/mods/32349)
 - [Animation Limit Crash Fix SSE](https://www.nexusmods.com/skyrimspecialedition/mods/31146)
@@ -200,22 +197,8 @@ Alternatively, an easier option that will result in a less vanilla-looking UI is
 Mods like that are very large sized (would triple the installation size) and not very useful for people that simply want to have a setup to test their newly developed mod on. There are plans for a SMEFT version that do include these types of mods, but it's not here just yet :)
 
 ### Are there ultrawide options available?
-Not included by default, but here are the instructions.
+Not included by default, but there are the instructions in the [Ultrawide Fixes Section](#ultrawide-fix).
 
-[Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778?tab=files) contains the necessary mods for playing Skyrim on an ultrawide monitor. Download and install these mods via the 'Mod Manager Download' buttons. The first file is found under the *Main Files* section of the mod files page, the rest are under *Optional Files*.
-
-- Complete Widescreen Fix for SkyUI 5.2 SE Alpha - 2560x1080
-  - Place this mod under *SkyUI* in the left pane and keep both active
-- Better Dialogue Control Widescreen Fix
-  - Disable *Better Dialogue Controls* and place this mod under it in the left pane (Replacer)
-- Better MessageBox Control Widescreen Fix
-  - Disable *Better MessageBox Controls* and place this mod under it in the left pane (Replacer)
-- SkyUI SE - Flashing Savegames Fix - Widescreen Fix
-  - Disable *Flashing Savegames Fix* and place this mod under it in the left pane (Replacer)
-- RaceMenu SE - Widescreen Fix
-  - Place this mod under *RaceMenu* in the left pane and keep both active
-
-Alternatively, an easier option that will result in a less vanilla-looking UI is [Dear Diary](https://www.nexusmods.com/skyrimspecialedition/mods/23010). It includes support for 21:9 and 32:9.
 
 ## Credits and Thanks
 - You, for actually reading the entirety of the README
