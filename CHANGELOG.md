@@ -3,6 +3,23 @@ description: Here you can find a list of changes made during each update.
 ---
 # Changelog
 
+## 1.0 & 1.0.1 SME(FT) - Skyrim Modding Essentials (Fixes & Tools)
+
+This entry combines the changelog for 1.0 & 1.0.1
+thanks to trawzified for making the first of this updates while I way on on holidays.
+
+**Info**:
+
+- comming soon.
+
+**Download Changes**:
+
+- comming soon.
+
+**Other Changes**:
+
+- Changed versioning
+
 ## 21.6.17 SME(FT) - Skyrim Modding Essentials (Fixes & Tools)
 
 **Build at:** `17. Juni. 2021 09:50:17`
