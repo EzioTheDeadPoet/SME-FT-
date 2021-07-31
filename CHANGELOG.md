@@ -5,20 +5,8 @@ description: Here you can find a list of changes made during each update.
 
 ## 1.0 & 1.0.1 SME(FT) - Skyrim Modding Essentials (Fixes & Tools)
 
-This entry combines the changelog for 1.0 & 1.0.1
-thanks to trawzified for making the first of this updates while I way on on holidays.
-
-**Info**:
-
-- comming soon.
-
-**Download Changes**:
-
-- comming soon.
-
-**Other Changes**:
-
-- Changed versioning
+- trawzified is now maintaining the list primarily
+- [Readme moved here](https://www.wabbajack.org/#/modlists/info?machineURL=smeft)
 
 ## 21.6.17 SME(FT) - Skyrim Modding Essentials (Fixes & Tools)
 
