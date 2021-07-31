@@ -3,7 +3,7 @@
 ## 1.0.1 | 31-07-2021
 
 Hi Luca here, I came back from holidays and out of habit updated SMEFT, so if anything is weird here blame me.
-This will probably my last update to smeft and I now also have updated my pages to link to trawzifide's readme.
+This will probably be my last update to SMEFT and I now also have updated my pages to link to trawzifieds README.
 
 **Updated** Unofficial Mator Smash Updated (1.2 -> 2.0)
 
