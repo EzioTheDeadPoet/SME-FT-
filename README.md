@@ -9,7 +9,7 @@
 
 ## Update Team
 
-- Luca|EzioTheDeadPoet
+- Luca\|EzioTheDeadPoet
 - trawzified
 
 ## Index
