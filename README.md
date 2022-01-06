@@ -1,6 +1,6 @@
 
 ![status](https://img.shields.io/badge/dynamic/json?label=Status&query=Status&url=https%3A%2F%2Fraw.githubusercontent.com%2Fwabbajack-tools%2Fmod-lists%2Fmaster%2Freports%2Fsmeft%2Fstatus.json&style=for-the-badge)
-![version](https://img.shields.io/badge/dynamic/json?label=version&query=%24%5B%3F%28%40.links.machineURL%3D%3D%22TalesFromTheNorthernLands%22%29%5D.version&url=https%3A%2F%2Fraw.githubusercontent.com%2Fwabbajack-tools%2Fmod-lists%2Fmaster%2Fmodlists.json&style=for-the-badge)
+![version](https://img.shields.io/badge/dynamic/json?label=version&query=%24%5B%3F%28%40.links.machineURL%3D%3D%22smeft%22%29%5D.version&url=https%3A%2F%2Fraw.githubusercontent.com%2Fwabbajack-tools%2Fmod-lists%2Fmaster%2Fmodlists.json&style=for-the-badge)
 
 **This modlist is meant as a basis to start your own Skyrim modding journey, it includes all the essential fixes & tools.**
 
@@ -165,6 +165,9 @@ Copy all the files inside the Game Folder Files directory (in the installation d
 After copying the Game Folder Files into your base game directory, go to your installation directory (`C:\SMEFT`), proceed into the `tools\BethINI` folder. Make sure Mod Organizer 2 and Skyrim are closed and start `BethINI.exe`. Select *Skyrim Special Edition* in the drop-down menu and proceed after reading the warning. Go to the *Setup* tab on the far-left of BethINI and select *Browse...* in the Mod Organizer drop-down menu. Browse to your installation folder and select `ModOrganizer.exe` inside. Now select the SMEFT profile in the Profiles drop-down menu, below the Mod Organizer label. Click *Yes* if BethINI asks whether it may modify custom INI files.
 
 Go back to the Basic tab, check the box next to *Recommended Tweaks* and select the preset you think is right for your PC. Modern PCs should be fine with the *Medium* or *High* preset. People with high end PCs - I would recommend against the *Ultra* preset even with your RTX 3090 and Ryzen 9 5950X, unless you're going for a screen archery setup. The lost performance is better spent upping the settings quality of your favorite ENB preset. Click *Save and Exit* after you've applied the settings.
+
+You can make your game update save by making it steam update independant using this [guide](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/lessons/Setting%20up%20Stock%20Game%20for%20Skyrim%20SE.md) for integrating your skyrim installation into your MO2 instance.
+*If you plan to make a Wabbajack list this is how all of them do it, SMEFT is the Exception because Wabbajack can't source the Creation Kit (it could but that would require everyone to install it before trying to install any modlist including any Creation Kit file) and SMEFT depends on all tools being available.*
 
 ### Step 7 - Running the game & notes
 
