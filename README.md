@@ -123,7 +123,7 @@ The list contains mods that fall into 4 categories.
 
 ### Step 1 - Preparing the Wabbajack installation environment
 
-First off - ensure your game is completely vanilla, no mods installed. Make sure to install the game **outside** of your Program Files directories (not in the default Steam location!). This can cause issues for certain mods because Windows restricts permissions to these folders via UAC. If you already have a Steam Library in Program Files and still want to install Skyrim outside of it, Steam won't let you. You can bypass this by using [this tool by LostDragonist.](https://github.com/LostDragonist/steam-library-setup-tool/releases)
+First off - ensure your game is completely vanilla, no mods installed and downgraded to version SE 1.5.97.0 using the [Downgrade Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618) it usually updates shortly after a game update releases. Make sure to install the game **outside** of your Program Files directories (not in the default Steam location!). This can cause issues for certain mods because Windows restricts permissions to these folders via UAC. If you already have a Steam Library in Program Files and still want to install Skyrim outside of it, Steam won't let you (not on the same drive that is). You can bypass this by using [this tool by LostDragonist.](https://github.com/LostDragonist/steam-library-setup-tool/releases)
 
 Create a Wabbajack folder and an installation folder on the root of your drive. An instance of Mod Organizer 2 will be installed into the installation directory, and Wabbajack itself will stay inside the Wabbajack folder.
 
