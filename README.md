@@ -1,5 +1,6 @@
 
-![status](https://img.shields.io/endpoint?url=https://build.wabbajack.org/lists/status/smeft/badge.json&style=for-the-badge&label=status)
+![status](https://img.shields.io/badge/dynamic/json?label=Status&query=Status&url=https%3A%2F%2Fraw.githubusercontent.com%2Fwabbajack-tools%2Fmod-lists%2Fmaster%2Freports%2Fsmeft%2Fstatus.json&style=for-the-badge)
+![version](https://img.shields.io/badge/dynamic/json?label=version&query=%24%5B%3F%28%40.links.machineURL%3D%3D%22TalesFromTheNorthernLands%22%29%5D.version&url=https%3A%2F%2Fraw.githubusercontent.com%2Fwabbajack-tools%2Fmod-lists%2Fmaster%2Fmodlists.json&style=for-the-badge)
 
 **This modlist is meant as a basis to start your own Skyrim modding journey, it includes all the essential fixes & tools.**
 
@@ -122,7 +123,7 @@ The list contains mods that fall into 4 categories.
 
 ### Step 1 - Preparing the Wabbajack installation environment
 
-First off - ensure your game is completely vanilla, no mods installed. Make sure to install the game **outside** of your Program Files directories (not in the default Steam location!). This can cause issues for certain mods because Windows restricts permissions to these folders via UAC. If you already have a Steam Library in Program Files and still want to install Skyrim outside of it, Steam won't let you. You can bypass this by using [this tool by LostDragonist.](https://github.com/LostDragonist/steam-library-setup-tool/releases)
+First off - ensure your game is completely vanilla, no mods installed and downgraded to version SE 1.5.97.0 using the [Downgrade Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618) it usually updates shortly after a game update releases. Make sure to install the game **outside** of your Program Files directories (not in the default Steam location!). This can cause issues for certain mods because Windows restricts permissions to these folders via UAC. If you already have a Steam Library in Program Files and still want to install Skyrim outside of it, Steam won't let you (not on the same drive that is). You can bypass this by using [this tool by LostDragonist.](https://github.com/LostDragonist/steam-library-setup-tool/releases)
 
 Create a Wabbajack folder and an installation folder on the root of your drive. An instance of Mod Organizer 2 will be installed into the installation directory, and Wabbajack itself will stay inside the Wabbajack folder.
 
