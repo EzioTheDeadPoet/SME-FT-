@@ -194,7 +194,7 @@ The Nexus Mods file is only linked, because it is likely to cause issues because
 
 | Host       | Mod                                    | Author                                                                           | Website                                                              | Download                                                                                              |
 |------------|----------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| Nexus Mods | Cleaned Skyrim SE Textures             | [Kartoffel](https://www.nexusmods.com/skyrimspecialedition/users/6129887)        | [Website](https://www.nexusmods.com/skyrimspecialedition/mods/38775) | [Direct Download](https://www.nexusmods.com/skyrimspecialedition/mods/38775?tab=files&file_id=248251) |
+| Nexus Mods | unofficial performance optimized textures AKA (UPOT) | [mlbrad aka rogue](https://www.nexusmods.com/skyrimspecialedition/users/14230174)        | [Website](https://www.nexusmods.com/skyrimspecialedition/mods/21166) | [Direct Download](https://www.nexusmods.com/skyrimspecialedition/mods/21166?tab=files&file_id=241623) |
 
 ##### Problems with Wabbajack
 
