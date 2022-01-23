@@ -65,13 +65,14 @@ Previously, SMEFT included profiles for people that want to use specific animati
 The list contains mods that fall into 4 categories.
 
 #### Tools
+
 - [BethINI](http://nexusmods.com/skyrimspecialedition/mods/4875)
 - [BodySlide and Outfit Studio](http://nexusmods.com/skyrimspecialedition/mods/201)
 - [deorder's MO2 Plugins](https://github.com/deorder/mo2-plugins)
-   - **Merge Plugins Hide**: Hide / unhide plugins that were merged using *Merge Plugins* or *zMerge*.
-   - **Sync Mod Order**: Sync mod order from current profile to another while keeping the (enabled/disabled) state intact.
+  - **Merge Plugins Hide**: Hide / unhide plugins that were merged using *Merge Plugins* or *zMerge*.
+  - **Sync Mod Order**: Sync mod order from current profile to another while keeping the (enabled/disabled) state intact.
 - [Dynamic Distant Objects LOD - DynDOLOD](https://www.nexusmods.com/skyrim/mods/59721)
-   - This does **NOT** include the resources found on the same page.
+  - This does **NOT** include the resources found on the same page.
 - [LOOT](https://github.com/loot/loot)
 - [NifSkope](https://github.com/niftools/nifskope)
 - [Papyrus Compiler App (Mod Organizer 2 Integration) SE](http://nexusmods.com/skyrimspecialedition/mods/23852)
@@ -84,7 +85,7 @@ The list contains mods that fall into 4 categories.
 
 #### Mods
 
-[Link to LoadOrderLibrary]()(to-do)
+[Link to LoadOrderLibrary](https://loadorderlibrary.com/lists/smeft-skyrim-modding-essentials-fixes-tools)
 
 ## Installation
 
@@ -92,7 +93,7 @@ The list contains mods that fall into 4 categories.
 
 | Website                                               | Comment                                                                  | Mandatory |
 |-------------------------------------------------------|--------------------------------------------------------------------------|-----------|
-| [Nexus Mods](https://users.nexusmods.com/register)    | Premium highly recommended for automated and faster downloads.           | Yes       |
+| [Nexus Mods](https://users.nexusmods.com/register)    | Premium is highly recommended for automated and faster downloads.           | Yes       |
 | [Bethesda.net](https://www.bethesda.net/en/dashboard) | Required to install the Creation Kit the official Bethesda modding tool. | No        |
 
 ### Pre-Installation
