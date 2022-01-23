@@ -1,12 +1,64 @@
----
-description: Here you can find a list of changes made during each update.
----
 # Changelog
 
-## 1.0 & 1.0.1 SME(FT) - Skyrim Modding Essentials (Fixes & Tools)
+## 1.0.1 | 31-07-2021
 
-- trawzified is now maintaining the list primarily
-- [Readme moved here](https://www.wabbajack.org/#/modlists/info?machineURL=smeft)
+Hi Luca here, I came back from holidays and out of habit updated SMEFT, so if anything is weird here blame me.
+This will probably be my last update to SMEFT and I now also have updated my pages to link to trawzifieds README.
+
+**Updated** Unofficial Mator Smash Updated (1.2 -> 2.0)
+
+**Updated** Dwemer Gates Don't Reset (1.3.2 -> 1.3.3)
+
+**Updated** BodySlide and Outfit Studio (5.3.1 -> 5.4.1)
+
+**Updated** Assorted mesh fixes (0.20 -> 0.22)
+
+**Updated** powerofthree's Tweaks (1.1.1 -> 1.2)
+
+---
+
+**Changed** Readded version number separator. (Out of habbit, trawzified can remove it again, but I don't want to recompile for such a minor change.)
+
+**Changed** Fixed the automation the of "Tool Generated Files".
+
+## 1.0 | 15-07-2021
+
+SMEFT is now maintained by me (trawzified) instead of Luca, it now uses semantic versioning.
+The FNIS versions of SMEFT have been deprecated.
+
+**Added** Labyrinthian Shalidor's Maze Fixes
+
+**Added** No Grass In Objects
+
+**Added** Slayable Offspring SKSE
+
+**Added** Player Rotation in ShowRaceMenu
+
+---
+
+**Updated** Papyrus Extender SSE (4.3.8 -> 4.4.2)
+
+**Updated** Dwemer Gates Don't Reset (1.3.1 -> 1.3.2)
+
+**Updated** More Informative Console (0.42 -> 0.43)
+
+**Updated** hank's gamepad and controller fixes (1.5 -> 1.6)
+
+**Updated** NPC AI Process Position Fix - SSE (4.03c -> 4.05b)
+
+**Updated** powerofthree's Tweaks (1.0 -> 1.1.1)
+
+**Updated** Assorted mesh fixes (0.16 -> 0.20)
+
+---
+
+**Changed** SSE Display Tweaks now uses a MaxFrameLatency of 1 & enforces Borderless mode
+
+---
+
+**Removed** Gladys the Corgi - A Custom Dog Follower Mod (Reason: While this may be a wonderful mod by our fellow modlist author Pierre Despereaux, I disagree with it being in scope of SMEFT)
+
+**Removed** FloraFixer - Synthesis Patcher (Reason: Scrambled Bugs takes care of this now)
 
 ## 21.6.17 SME(FT) - Skyrim Modding Essentials (Fixes & Tools)
 
