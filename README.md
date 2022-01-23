@@ -229,11 +229,10 @@ To install the Creation Kit you need the [`Bethesda.net Launcher`](https://downl
 
 **The Creation Kit Fixes:** You will need the main file from [Tweaked Creation Kit Ini](https://www.nexusmods.com/skyrimspecialedition/mods/19817) and it is recommended to use [SSE Creation Kit Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/20061) & [SSE Creation Kit FonixData Lip Sync Fix](https://www.nexusmods.com/skyrimspecialedition/mods/40971) alongside the Creation Kit. To setup the Creation Kit, complete the following steps.
 
-1. Copy the Creation Kit.exe, CreationKit.ini & CreationKitPrefs.ini to the game root folder.
-2. Extract and copy the Tweaked ini into the game root folder.
-3. Copy the files from Creation Kit Fixes into the game root folder. If you receive a prompt to overwrite files, **do not overwrite**.
-4. Install the Lip Sync Fix mod as normal in MO2.
-5. Run the CK to test and make sure that it works.
+1. Extract and copy the Tweaked ini into the game root folder.
+2. Copy the files from Creation Kit Fixes into the game root folder. If you receive a prompt to overwrite files, **do not overwrite**.
+3. Install the Lip Sync Fix mod as normal in MO2.
+4. Run the CK to test and make sure that it works.
 
 #### xEdit & xEdit based applications (DynDOLOD, xLodGen)
 
