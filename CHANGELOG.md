@@ -1,5 +1,12 @@
 # Changelog
 
+## 2.0 | 23.01.2022
+
+- Moved to a Setup that copies your game files into the ModOrganizer instance to keep your Skyrim Folder untouched.
+- Cleaned up some mod choices
+
+Installs Skyrim AE ESMs and BSAs merged with the Skyrim 1.5.97 EXE to have the highest possible compatibility with not yet updated mods like .NET Framework and the new Creation Club Mods.
+
 ## 1.0.1 | 31-07-2021
 
 Hi Luca here, I came back from holidays and out of habit updated SMEFT, so if anything is weird here blame me.
