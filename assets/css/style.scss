@@ -82,6 +82,14 @@ div.header p {
 	margin: 11px 0;
 }
 
+table {
+	border: 1px solid #008080;
+}
+
+td {
+	background: #262D37;
+}
+
 section {
 	order: 2;
 	width: 75%;
@@ -312,6 +320,15 @@ img {
 
 .ko-fi {
 	margin: 25px 16px 4px;
+}
+
+.utterances {
+	width: 800px;
+	max-width: none;
+}	
+
+.timeline-comment .markdown-body {
+	max-height: 720px;
 }
 
 @media print, screen and (max-width: 1182px) {

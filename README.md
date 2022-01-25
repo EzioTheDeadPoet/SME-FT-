@@ -11,48 +11,49 @@ Originally created by Luca (EzioTheDeadPoet), now maintained by trawzified and L
 
 ## Index
 
-- [Index](#index)
-- [Description](#description)
-  - [What's included in this list?](#whats-included-in-this-list)
-    - [Tools](#tools)
-    - [Mods](#mods)
-- [Installation](#installation)
-  - [Required Accounts](#required-accounts)
-  - [Pre-Installation](#pre-installation)
-    - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
-    - [Installing .NET 5.0](#installing-net-50)
-    - [Steam Config](#steam-config)
-      - [Game Location](#game-location)
-      - [Disable the Steam Overlay](#disable-the-steam-overlay)
-      - [Change Steams Update Behavior](#change-steams-update-behavior)
-      - [Set the Game language to English](#set-the-game-language-to-english)
-    - [Clean Skyrim](#clean-skyrim)
-    - [Start Skyrim](#start-skyrim)
-  - [Using Wabbajack](#using-wabbajack)
-    - [Preparations](#preparations)
-    - [Downloading and Installing](#downloading-and-installing)
-      - [Manual Downloads](#manual-downloads)
-      - [Problems with Wabbajack](#problems-with-wabbajack)
-        - [Could not download x](#could-not-download-x)
-        - [x is not a whitelisted download](#x-is-not-a-whitelisted-download)
-        - [Wabbajack could not find my game folder](#wabbajack-could-not-find-my-game-folder)
-        - [Windows is reporting that a virus has been detected](#windows-is-reporting-that-a-virus-has-been-detected)
-  - [Post-installation](#post-installation)
-    - [Creation Kit](#creation-kit)
-    - [xEdit & xEdit based applications (DynDOLOD, xLodGen)](#xedit--xedit-based-applications-dyndolod-xlodgen)
-    - [Nemesis](#nemesis)
-    - [Synthesis](#synthesis)
-    - [zEdit](#zedit)
-    - [Easy NPC](#easy-npc)
-    - [PCA SE](#pca-se)
-    - [BethINI / Visuals](#bethini--visuals)
-- [How to Launch SME(FT)](#how-to-launch-smeft)
-- [Updating](#updating)
-- [Ultrawide Fix](#ultrawide-fix)
-- [FAQ](#faq)
-  - [Are there ultrawide options available?](#are-there-ultrawide-options-available)
-- [Credits and Thanks](#credits-and-thanks)
-- [Contact](#contact)
+- [SME(FT) - Skyrim Modding Essentials (Fixes & Tools)](#smeft---skyrim-modding-essentials-fixes--tools)
+  - [Index](#index)
+  - [Description](#description)
+    - [What's included in this list?](#whats-included-in-this-list)
+      - [Tools](#tools)
+      - [Mods](#mods)
+  - [Installation](#installation)
+    - [Required Accounts](#required-accounts)
+    - [Pre-Installation](#pre-installation)
+      - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
+      - [Installing .NET 5.0](#installing-net-50)
+      - [Steam Config](#steam-config)
+        - [Game Location](#game-location)
+        - [Disable the Steam Overlay](#disable-the-steam-overlay)
+        - [Change Steams Update Behavior](#change-steams-update-behavior)
+        - [Set the Game language to English](#set-the-game-language-to-english)
+      - [Clean Skyrim](#clean-skyrim)
+      - [Start Skyrim](#start-skyrim)
+    - [Using Wabbajack](#using-wabbajack)
+      - [Preparations](#preparations)
+      - [Downloading and Installing](#downloading-and-installing)
+        - [Manual Downloads](#manual-downloads)
+        - [Problems with Wabbajack](#problems-with-wabbajack)
+          - [Could not download x](#could-not-download-x)
+          - [x is not a whitelisted download](#x-is-not-a-whitelisted-download)
+          - [Wabbajack could not find my game folder](#wabbajack-could-not-find-my-game-folder)
+          - [Windows is reporting that a virus has been detected](#windows-is-reporting-that-a-virus-has-been-detected)
+    - [Post-installation](#post-installation)
+      - [Creation Kit](#creation-kit)
+      - [xEdit & xEdit based applications (DynDOLOD, xLodGen)](#xedit--xedit-based-applications-dyndolod-xlodgen)
+      - [Nemesis](#nemesis)
+      - [Synthesis](#synthesis)
+      - [zEdit](#zedit)
+      - [Easy NPC](#easy-npc)
+      - [PCA SE](#pca-se)
+      - [BethINI / Visuals](#bethini--visuals)
+  - [How to Launch SME(FT)](#how-to-launch-smeft)
+  - [Updating](#updating)
+  - [Ultrawide Fix](#ultrawide-fix)
+  - [FAQ](#faq)
+    - [Are there ultrawide options available?](#are-there-ultrawide-options-available)
+  - [Credits and Thanks](#credits-and-thanks)
+  - [Contact](#contact)
 
 ## Description
 
@@ -108,15 +109,15 @@ These steps are only needed if you install this Modlist for the first time.
 I doubt you need to do this since you likely already have this installed. The package is required for MO2 and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019".
 
 |[Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe)|
-|-|
+
 
 #### Installing .NET 5.0
 
 This is a needed dependency for mods used with this list.
 So please make sure to install it to avoid any issues. Download the desktop app x64 AND the console app x64 versions from [Microsoft](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
 
-|[Direct Link Desktop](https://download.visualstudio.microsoft.com/download/pr/1daf85dc-291b-4bb8-812e-a0df5cdb6701/85455a4a851347de26e2901e043b81e1/windowsdesktop-runtime-5.0.12-win-x64.exe) | [Direct Link Console](https://download.visualstudio.microsoft.com/download/pr/28b0479a-2ca7-4441-97f2-64a3d64b2ea4/9995401dac4787a2d1104c73c4356f4d/dotnet-runtime-5.0.12-win-x64.exe)|
-|-|-|
+[Direct Link Desktop](https://download.visualstudio.microsoft.com/download/pr/1daf85dc-291b-4bb8-812e-a0df5cdb6701/85455a4a851347de26e2901e043b81e1/windowsdesktop-runtime-5.0.12-win-x64.exe) | [Direct Link Console](https://download.visualstudio.microsoft.com/download/pr/28b0479a-2ca7-4441-97f2-64a3d64b2ea4/9995401dac4787a2d1104c73c4356f4d/dotnet-runtime-5.0.12-win-x64.exe)
+
 
 #### Steam Config
 
