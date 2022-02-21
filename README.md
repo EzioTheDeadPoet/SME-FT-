@@ -46,6 +46,7 @@ Originally created by Luca (EzioTheDeadPoet), now maintained by trawzified and L
       - [zEdit](#zedit)
       - [Easy NPC](#easy-npc)
       - [PCA SE](#pca-se)
+      - [LOOT](#loot)
       - [BethINI / Visuals](#bethini--visuals)
   - [How to Launch SME(FT)](#how-to-launch-smeft)
   - [Updating](#updating)
@@ -288,6 +289,21 @@ EasyNPC does not require any special setup other than simply making sure the che
 PCA SE does not require any special setup other than telling it where the game is.
 
 ![alt text](https://raw.githubusercontent.com/LivelyDismay/Learn-To-Mod/main/images/Stock%20Game%2013.png)
+
+#### LOOT
+
+I will start with this:
+You can build perfectly fine and if you do it correct better loadorders without LOOT and checking xEdit and reading modpages instead. LOOT is a tool and a "dumb" one at that as in it can't scan for what is inside your mods and can only scratch the surface of meta data which is not enough to actually properly know which mods need patches or need to be ordered differently, all this information is stored in a static community maintained database file called the masterlist. And as you might be able to guess a master list like this simply can't always be correct nor will it be able to properly detect updated mods or mods you altered.
+
+There are ways LOOT can be useful, but for me personally none of those are worth the effort I would have to put into maintaining custom sorting rules and the likes.
+
+If you want to use LOOT link it to the Mod Organizer 2 instance like shown here:
+
+![alt text](readme_assets/images/LOOT_1.webp)
+
+And in the LOOT settings after starting it make sure to set the `Install Path` to the `Skyrim Special Edition` Folder inside of the SMEFT version you just installed:
+
+![alt text](readme_assets/images/LOOT_2.webp)
 
 #### BethINI / Visuals
 
