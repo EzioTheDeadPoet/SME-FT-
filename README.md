@@ -79,6 +79,8 @@ The list contains mods that fall into 4 categories.
 - [Dynamic Distant Objects LOD - DynDOLOD](https://www.nexusmods.com/skyrim/mods/59721)
   - This does **NOT** include the resources found on the same page.
 - [LOOT](https://github.com/loot/loot)
+- [Nemesis](https://www.nexusmods.com/skyrimspecialedition/mods/60033)
+  - This replaces FNIS and is compatible with any FNIS mod (even the ones with outdated descriptions demanding FNIS), with the only exception being animations involving creatures, those are incompatible. Those creature animations would not be found on the Nexus so most people wont see a difference.
 - [NifSkope](https://github.com/niftools/nifskope)
 - [Papyrus Compiler App (Mod Organizer 2 Integration) SE](http://nexusmods.com/skyrimspecialedition/mods/23852)
 - [SSEEdit](https://nexusmods.com/skyrimspecialedition/mods/164)
@@ -111,14 +113,12 @@ I doubt you need to do this since you likely already have this installed. The pa
 
 |[Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe)|
 
-
 #### Installing .NET 5.0
 
 This is a needed dependency for mods used with this list.
 So please make sure to install it to avoid any issues. Download the desktop app x64 AND the console app x64 versions from [Microsoft](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
 
 [Direct Link Desktop](https://download.visualstudio.microsoft.com/download/pr/1daf85dc-291b-4bb8-812e-a0df5cdb6701/85455a4a851347de26e2901e043b81e1/windowsdesktop-runtime-5.0.12-win-x64.exe) | [Direct Link Console](https://download.visualstudio.microsoft.com/download/pr/28b0479a-2ca7-4441-97f2-64a3d64b2ea4/9995401dac4787a2d1104c73c4356f4d/dotnet-runtime-5.0.12-win-x64.exe)
-
 
 #### Steam Config
 
