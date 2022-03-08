@@ -58,6 +58,8 @@ Originally created by Luca (EzioTheDeadPoet), now maintained by trawzified and L
 
 ## Description
 
+**This list might require the latest Steam version of Skyrim SE/AE installed, BUT it will downgrade it to version 1.5.97 due to the greater compatibility of that version with mods.**
+
 This modlist is a utility for modders, to speed up their initial modding setup, or for people who want to play vanilla Skyrim with all the unofficial patches and fixes.
 It can also be utilized as a test bench for developing new mods on a stable base.
 
@@ -201,7 +203,7 @@ The Nexus Mods file is only linked, because it is likely to cause issues because
 
 | Host       | Mod                                    | Author                                                                           | Website                                                              | Download                                                                                              |
 |------------|----------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| Nexus Mods | unofficial performance optimized textures AKA (UPOT) | [mlbrad aka rogue](https://www.nexusmods.com/skyrimspecialedition/users/14230174)        | [Website](https://www.nexusmods.com/skyrimspecialedition/mods/21166) | [Direct Download](https://www.nexusmods.com/skyrimspecialedition/mods/21166?tab=files&file_id=241623) |
+| - | - | - | - | - |
 
 ##### Problems with Wabbajack
 
