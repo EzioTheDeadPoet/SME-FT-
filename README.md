@@ -58,7 +58,7 @@ Originally created by Luca (EzioTheDeadPoet), now maintained by trawzified and L
 
 ## Description
 
-**This list might require the latest Steam version of Skyrim SE/AE installed, BUT it will downgrade it to version 1.5.97 due to the greater compatibility of that version with mods.**
+**This list might require the latest Steam version of Skyrim SE/AE installed, BUT it will downgrade it to version 1.5.97 due to the greater compatibility of that version with mods. You can however still use the AE included and bought via DLC Creation Club mods.**
 
 This modlist is a utility for modders, to speed up their initial modding setup, or for people who want to play vanilla Skyrim with all the unofficial patches and fixes.
 It can also be utilized as a test bench for developing new mods on a stable base.
