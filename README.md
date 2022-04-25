@@ -1,6 +1,6 @@
 # SME(FT) - Skyrim Modding Essentials (Fixes & Tools)
 
-![(thumbnail alt text)](/SME-FT-Thumbnail.png)
+![(thumbnail alt text)](SME-FT-Thumbnail.webp)
 
 ![status](https://img.shields.io/badge/dynamic/json?label=Status&query=Status&url=https%3A%2F%2Fraw.githubusercontent.com%2Fwabbajack-tools%2Fmod-lists%2Fmaster%2Freports%2Fsmeft%2Fstatus.json&style=for-the-badge)
 ![version](https://img.shields.io/badge/dynamic/json?label=version&query=%24%5B%3F%28%40.links.machineURL%3D%3D%22smeft%22%29%5D.version&url=https%3A%2F%2Fraw.githubusercontent.com%2Fwabbajack-tools%2Fmod-lists%2Fmaster%2Fmodlists.json&style=for-the-badge)
@@ -11,50 +11,50 @@ Originally created by Luca (EzioTheDeadPoet), now maintained by trawzified and L
 
 ## Index
 
-- [SME(FT) - Skyrim Modding Essentials (Fixes & Tools)](#smeft---skyrim-modding-essentials-fixes--tools)
-  - [Index](#index)
-  - [Description](#description)
-    - [What's included in this list?](#whats-included-in-this-list)
-      - [Tools](#tools)
-      - [Mods](#mods)
-  - [Installation](#installation)
-    - [Required Accounts](#required-accounts)
-    - [Pre-Installation](#pre-installation)
-      - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
-      - [Installing .NET 5.0](#installing-net-50)
-      - [Steam Config](#steam-config)
-        - [Game Location](#game-location)
-        - [Disable the Steam Overlay](#disable-the-steam-overlay)
-        - [Change Steams Update Behavior](#change-steams-update-behavior)
-        - [Set the Game language to English](#set-the-game-language-to-english)
-      - [Clean Skyrim](#clean-skyrim)
-      - [Start Skyrim](#start-skyrim)
-    - [Using Wabbajack](#using-wabbajack)
-      - [Preparations](#preparations)
-      - [Downloading and Installing](#downloading-and-installing)
-        - [Manual Downloads](#manual-downloads)
-        - [Problems with Wabbajack](#problems-with-wabbajack)
-          - [Could not download x](#could-not-download-x)
-          - [x is not a whitelisted download](#x-is-not-a-whitelisted-download)
-          - [Wabbajack could not find my game folder](#wabbajack-could-not-find-my-game-folder)
-          - [Windows is reporting that a virus has been detected](#windows-is-reporting-that-a-virus-has-been-detected)
-    - [Post-installation](#post-installation)
-      - [Creation Kit](#creation-kit)
-      - [xEdit & xEdit based applications (DynDOLOD, xLodGen)](#xedit--xedit-based-applications-dyndolod-xlodgen)
-      - [Nemesis](#nemesis)
-      - [Synthesis](#synthesis)
-      - [zEdit](#zedit)
-      - [Easy NPC](#easy-npc)
-      - [PCA SE](#pca-se)
-      - [LOOT](#loot)
-      - [BethINI / Visuals](#bethini--visuals)
-  - [How to Launch SME(FT)](#how-to-launch-smeft)
-  - [Updating](#updating)
-  - [Ultrawide Fix](#ultrawide-fix)
-  - [FAQ](#faq)
-    - [Are there ultrawide options available?](#are-there-ultrawide-options-available)
-  - [Credits and Thanks](#credits-and-thanks)
-  - [Contact](#contact)
+1. [SME(FT) - Skyrim Modding Essentials (Fixes & Tools)](#smeft---skyrim-modding-essentials-fixes--tools)
+   1. [Index](#index)
+   2. [Description](#description)
+      1. [What's included in this list?](#whats-included-in-this-list)
+         1. [Tools](#tools)
+         2. [Mods](#mods)
+   3. [Installation](#installation)
+      1. [Required Accounts](#required-accounts)
+      2. [Pre-Installation](#pre-installation)
+         1. [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
+         2. [Installing .NET 5.0](#installing-net-50)
+         3. [Steam Config](#steam-config)
+            1. [Game Location](#game-location)
+            2. [Disable the Steam Overlay](#disable-the-steam-overlay)
+            3. [Change Steams Update Behavior](#change-steams-update-behavior)
+            4. [Set the Game language to English](#set-the-game-language-to-english)
+         4. [Clean Skyrim](#clean-skyrim)
+         5. [Start Skyrim](#start-skyrim)
+      3. [Using Wabbajack](#using-wabbajack)
+         1. [Preparations](#preparations)
+         2. [Downloading and Installing](#downloading-and-installing)
+            1. [Manual Downloads](#manual-downloads)
+            2. [Problems with Wabbajack](#problems-with-wabbajack)
+               1. [Could not download x](#could-not-download-x)
+               2. [x is not a whitelisted download](#x-is-not-a-whitelisted-download)
+               3. [Wabbajack could not find my game folder](#wabbajack-could-not-find-my-game-folder)
+               4. [Windows is reporting that a virus has been detected](#windows-is-reporting-that-a-virus-has-been-detected)
+      4. [Post-installation](#post-installation)
+         1. [Creation Kit](#creation-kit)
+         2. [xEdit & xEdit based applications (DynDOLOD, xLodGen)](#xedit--xedit-based-applications-dyndolod-xlodgen)
+         3. [Nemesis](#nemesis)
+         4. [Synthesis](#synthesis)
+         5. [zEdit](#zedit)
+         6. [Easy NPC](#easy-npc)
+         7. [PCA SE](#pca-se)
+         8. [LOOT](#loot)
+         9. [BethINI / Visuals](#bethini--visuals)
+   4. [How to Launch SME(FT)](#how-to-launch-smeft)
+   5. [Updating](#updating)
+   6. [Ultrawide Fix](#ultrawide-fix)
+   7. [FAQ](#faq)
+      1. [Are there ultrawide options available?](#are-there-ultrawide-options-available)
+   8. [Credits and Thanks](#credits-and-thanks)
+   9. [Contact](#contact)
 
 ## Description
 
@@ -103,7 +103,7 @@ The list contains mods that fall into 4 categories.
 | Website                                               | Comment                                                                  | Mandatory |
 |-------------------------------------------------------|--------------------------------------------------------------------------|-----------|
 | [Nexus Mods](https://users.nexusmods.com/register)    | Premium is highly recommended for automated and faster downloads.           | Yes       |
-| [Bethesda.net](https://www.bethesda.net/en/dashboard) | Required to install the Creation Kit the official Bethesda modding tool. | No        |
+| [Bethesda.net](https://www.bethesda.net/en/dashboard) | Required to install the Creation Kit the official Bethesda modding tool. (With the soon finalized discontinuation of the Bethesda Store the CreationKit will soon be available on steam) | No        |
 
 ### Pre-Installation
 
@@ -126,7 +126,7 @@ So please make sure to install it to avoid any issues. Download the desktop app 
 
 ##### Game Location
 
-Make sure your game is **NOT** installed in a _common folder_ like your `Desktop`, `Downloads` or `Program Files` folder (like the default steam location). If you only have one drive and can't create a second steam library with steam use LostDragonist's [steam-library-setup-tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to create a second one on your main drive. When you have a new steam library setup move your game there **using the steam feature** to do so.
+Make sure your game is **NOT** installed in a *common folder* like your `Desktop`, `Downloads` or `Program Files` folder (like the default steam location). If you only have one drive and can't create a second steam library with steam use LostDragonist's [steam-library-setup-tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to create a second one on your main drive. When you have a new steam library setup move your game there **using the steam feature** to do so.
 
 *Creating a new library with Steam:*
 
@@ -142,13 +142,13 @@ Make sure your game is **NOT** installed in a _common folder_ like your `Desktop
 
 The Steam Overlay can cause issues with ENB and is recommended to be turned off when using and ENB, this list only uses ReShade which makes this step only necessary if you want to add an ENB yourself.
 
-Open the Properties window (right-click the game in your Library->Properties), navigate to the _General_ tab, and un-tick the _Enable the Steam Overlay while in-game_ checkbox.
+Open the Properties window (right-click the game in your Library->Properties), navigate to the *General* tab, and un-tick the *Enable the Steam Overlay while in-game* checkbox.
 
 ##### Change Steams Update Behavior
 
 SSE is still being updated by Bethesda (they only add Creation Club content). Whenever the game updates, the entire modding community goes silent for the next one or two weeks because some mods need to be updated to the latest game runtime version.
 
-To ensure that Steam does not automatically update the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_. You should also disable the Steam Cloud while you're at it.
+To ensure that Steam does not automatically update the game for you, head over to the Properties window, navigate to the *Updates* tab and change *Automatic updates* to *Only update this game when I launch it*. You should also disable the Steam Cloud while you're at it.
 
 ![SteamSettings_1](readme_assets/images/SteamSettings_1.webp)
 ![SteamSettings_2](readme_assets/images/SteamSettings_2.webp)
@@ -157,7 +157,7 @@ To ensure that Steam does not automatically update the game for you, head over t
 
 Just do it. This entire Modlist is in English and 99% of all mods you will find are also in English. I highly recommend playing the game in English and **I can not give support to people with a non-English game**.
 
-Open the Steam Properties window, navigate to the _Language_ tab and select _English_ from the dropdown menu.
+Open the Steam Properties window, navigate to the *Language* tab and select *English* from the dropdown menu.
 
 #### Clean Skyrim
 
@@ -181,7 +181,7 @@ Start the game and exit once you're on the main menu.
 
 #### Preparations
 
-Grab the latest release of Wabbajack from [here](https://www.wabbajack.org/#/) and place the `Wabbajack.exe` file in a _working folder_. This folder **must not** be in a _common folders_ like your `Desktop`, `Downloads` or `Program Files` folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
+Grab the latest release of Wabbajack from [here](https://www.wabbajack.org/#/) and place the `Wabbajack.exe` file in a *working folder*. This folder **must not** be in a *common folders* like your `Desktop`, `Downloads` or `Program Files` folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
 
 #### Downloading and Installing
 
@@ -234,9 +234,12 @@ To install the Creation Kit you need the [`Bethesda.net Launcher`](https://downl
 - Install the Bethesda.net Launcher & Login
 - Install the `Creation Kit: Skyrim`. **Dont it install in your GameFolder.** ![Creation Kit Installation 1](readme_assets/images/BethesdaNetLauncher_1.webp)
 - Open the installation location. ![Creation Kit Installation 2](readme_assets/images/BethesdaNetLauncher_2.webp)
-- Copy the Creation Kit Files into the SME(FT) game folder, which based on the previous installation instructions would be `C:/Modlists/SME(FT)/Skyrim Special Edition/`. This are the files you need to copy: ![Creation Kit Installation 3](readme_assets/images/CreationKitFiles.webp)
+- Copy the Creation Kit Files into the SME(FT) game folder, which based on the previous installation instructions would be `C:/Modlists/SME(FT)/Skyrim Special Edition/`. This are the files you need to copy:  
+*Note some of those might be already installed by default with the list, in that case **DON'T** overwrite when asked.*![Creation Kit Installation 3](readme_assets/images/CreationKitFiles.webp)
 
-**The Creation Kit Fixes:** You will need the main file from [Tweaked Creation Kit Ini](https://www.nexusmods.com/skyrimspecialedition/mods/19817) and it is recommended to use [SSE Creation Kit Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/20061) & [SSE Creation Kit FonixData Lip Sync Fix](https://www.nexusmods.com/skyrimspecialedition/mods/40971) alongside the Creation Kit. To setup the Creation Kit, complete the following steps.
+**The Creation Kit Fixes:**  
+You will need the main file from [Tweaked Creation Kit Ini](https://www.nexusmods.com/skyrimspecialedition/mods/19817) and it is recommended to use [SSE Creation Kit Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/20061) & [SSE Creation Kit FonixData Lip Sync Fix](https://www.nexusmods.com/skyrimspecialedition/mods/40971) alongside the Creation Kit. To setup the Creation Kit, complete the following steps.  
+*Note some of those might be already installed by default with the list, in that case **DON'T** overwrite when asked.*
 
 1. Extract and copy the Tweaked ini into the game root folder.
 2. Copy the files from Creation Kit Fixes into the game root folder. If you receive a prompt to overwrite files, **do not overwrite**.
@@ -245,7 +248,10 @@ To install the Creation Kit you need the [`Bethesda.net Launcher`](https://downl
 
 #### xEdit & xEdit based applications (DynDOLOD, xLodGen)
 
-Already configured.
+xEdit, xLODGen already configured.
+
+DynDOLOD requires you to install the [DynDOLOD Resources SE 3](https://www.nexusmods.com/skyrimspecialedition/mods/52897), this is because it comes with a FOMOD that depends on your personal end goals with DynDOLOD.
+The Shortcuts are already configured.
 
 #### Nemesis
 
@@ -332,6 +338,8 @@ You should not update smeft as it will delete all your modding you did on top of
 **Wabbajack will delete all files that are not part of the modlist when updating!**
 
 ## Ultrawide Fix
+
+*These are things I got recommended, that I can not test since I don't own or have interest in an ultrawide monitor.*
 
 [Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) contains the necessary mods for ultrawide monitor users. Download and install these mods using Mod Organizer 2. The first file is found under the *Main Files* section of the mod files page, the rest are under *Optional Files*.
 
