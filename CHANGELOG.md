@@ -1,5 +1,14 @@
 # Changelog
 
+## 2.1 | 25.04.2022
+
+- Updated mods and tools
+- updated the readme (slightly)
+
+**Installs Skyrim AE ESMs and BSAs merged with the Skyrim 1.5.97 EXE to have the highest possible compatibility with not yet updated mods like .NET Framework and the new Creation Club Mods.**
+
+Once the Bethesda.net Store moved completely to Steam and the CreationKit for Skyrim Special Edition becomes available on Steam, I will make a new update to the list (as soon as I find time), that will change the Pre-Installation steps and removes a lot of the current Creation Kit Post-Installation steps.
+
 ## 2.0 | 23.01.2022
 
 - Moved to a Setup that copies your game files into the ModOrganizer instance to keep your Skyrim Folder untouched.
