@@ -29,6 +29,7 @@ Originally created by Luca (EzioTheDeadPoet), now maintained by trawzified and L
             4. [Set the Game language to English](#set-the-game-language-to-english)
          4. [Clean Skyrim](#clean-skyrim)
          5. [Start Skyrim](#start-skyrim)
+         6. [Install Creation Kit](#install-creation-kit)
       3. [Using Wabbajack](#using-wabbajack)
          1. [Preparations](#preparations)
          2. [Downloading and Installing](#downloading-and-installing)
@@ -102,8 +103,7 @@ The list contains mods that fall into 4 categories.
 
 | Website                                               | Comment                                                                  | Mandatory |
 |-------------------------------------------------------|--------------------------------------------------------------------------|-----------|
-| [Nexus Mods](https://users.nexusmods.com/register)    | Premium is highly recommended for automated and faster downloads.           | Yes       |
-| [Bethesda.net](https://www.bethesda.net/en/dashboard) | Required to install the Creation Kit the official Bethesda modding tool. (With the soon finalized discontinuation of the Bethesda Store the CreationKit will soon be available on steam) | No        |
+| [Nexus Mods](https://users.nexusmods.com/register)    | Premium is highly recommended for automated and faster downloads.        | Yes       |
 
 ### Pre-Installation
 
@@ -177,6 +177,15 @@ How to verify Skyrim Special Edition with Steam:
 After you have done everything above and got a clean Skyrim Special Edition installation, start the Launcher and let it do the initial graphics check. Do not worry about this part as the installation will replace these graphics settings.
 Start the game and exit once you're on the main menu.
 
+#### Install Creation Kit
+
+Install the Creation kit from steam into the same library you have Skyrim Special Edition installed in.
+(Don't forget to use the same location you chose in the [Game Location](#game-location) section.)
+
+[>>Click Here to install.<<](steam://install/1946180)
+
+[Store Page](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/)
+
 ### Using Wabbajack
 
 #### Preparations
@@ -229,22 +238,7 @@ Windows 10 has started to auto-quarantine the usvfs_proxy_x86.exe file from the 
 
 #### Creation Kit
 
-To install the Creation Kit you need the [`Bethesda.net Launcher`](https://download.cdp.bethesda.net/BethesdaNetLauncher_Setup.exe) and an Bethesda.net account.
-
-- Install the Bethesda.net Launcher & Login
-- Install the `Creation Kit: Skyrim`. **Dont it install in your GameFolder.** ![Creation Kit Installation 1](readme_assets/images/BethesdaNetLauncher_1.webp)
-- Open the installation location. ![Creation Kit Installation 2](readme_assets/images/BethesdaNetLauncher_2.webp)
-- Copy the Creation Kit Files into the SME(FT) game folder, which based on the previous installation instructions would be `C:/Modlists/SME(FT)/Skyrim Special Edition/`. This are the files you need to copy:  
-*Note some of those might be already installed by default with the list, in that case **DON'T** overwrite when asked.*![Creation Kit Installation 3](readme_assets/images/CreationKitFiles.webp)
-
-**The Creation Kit Fixes:**  
-You will need the main file from [Tweaked Creation Kit Ini](https://www.nexusmods.com/skyrimspecialedition/mods/19817) and it is recommended to use [SSE Creation Kit Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/20061) & [SSE Creation Kit FonixData Lip Sync Fix](https://www.nexusmods.com/skyrimspecialedition/mods/40971) alongside the Creation Kit. To setup the Creation Kit, complete the following steps.  
-*Note some of those might be already installed by default with the list, in that case **DON'T** overwrite when asked.*
-
-1. Extract and copy the Tweaked ini into the game root folder.
-2. Copy the files from Creation Kit Fixes into the game root folder. If you receive a prompt to overwrite files, **do not overwrite**.
-3. Install the Lip Sync Fix mod as normal in MO2.
-4. Run the CK to test and make sure that it works.
+Already set up.
 
 #### xEdit & xEdit based applications (DynDOLOD, xLodGen)
 
