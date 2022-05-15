@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.2 | 15.05.2022
+
+- Updated installation for the Skyrim Creation Kit
+
 ## 2.1 | 25.04.2022
 
 - Updated mods and tools
