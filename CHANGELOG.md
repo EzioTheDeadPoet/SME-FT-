@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.3 | 22.05.2022
+
+- downgraded DynDOLOD to the "stable" 2.0 version
+  - because it doesn't get what feels like weekly updates making maintaining this a chore and breaking my instructions.
+
 ## 2.2 | 15.05.2022
 
 - Updated installation for the Skyrim Creation Kit

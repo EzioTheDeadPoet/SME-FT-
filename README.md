@@ -80,7 +80,7 @@ The list contains mods that fall into 4 categories.
   - **Merge Plugins Hide**: Hide / unhide plugins that were merged using *Merge Plugins* or *zMerge*.
   - **Sync Mod Order**: Sync mod order from current profile to another while keeping the (enabled/disabled) state intact.
 - [Dynamic Distant Objects LOD - DynDOLOD](https://www.nexusmods.com/skyrim/mods/59721)
-  - This does **NOT** include the resources found on the same page.
+  - You need to reinstall the resources with your preferences.
 - [LOOT](https://github.com/loot/loot)
 - [Nemesis](https://www.nexusmods.com/skyrimspecialedition/mods/60033)
   - This replaces FNIS and is compatible with any FNIS mod (even the ones with outdated descriptions demanding FNIS), with the only exception being animations involving creatures, those are incompatible. Those creature animations would not be found on the Nexus so most people wont see a difference.
@@ -210,9 +210,9 @@ The download and installation process can take a very long time depending on you
 
 The Nexus Mods file is only linked, because it is likely to cause issues because of the file size, which sometimes causes Wabbajack to fail the download.
 
-| Host       | Mod                                    | Author                                                                           | Website                                                              | Download                                                                                              |
-|------------|----------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| - | - | - | - | - |
+| Host | Mod  | Author | Website | Download |
+|------|------|--------|---------|----------|
+|X|X|X|X|X|
 
 ##### Problems with Wabbajack
 
@@ -244,8 +244,12 @@ Already set up.
 
 xEdit, xLODGen already configured.
 
-DynDOLOD requires you to install the [DynDOLOD Resources SE 3](https://www.nexusmods.com/skyrimspecialedition/mods/52897), this is because it comes with a FOMOD that depends on your personal end goals with DynDOLOD.
+DynDOLOD requires you to re-install the `DynDOLOD Resources SE`, this is because it comes with a FOMOD that depends on your personal end goals with DynDOLOD.
 The Shortcuts are already configured.
+Just right-click the mod and select `Reinstall Mod`.
+
+**This list installs the "stable" older 2.0 version of DynDOLOD.**  
+You can replace it with the 3.0 alpha builds but maintaining those frequent updates would be too much of a hassle for me.
 
 #### Nemesis
 
