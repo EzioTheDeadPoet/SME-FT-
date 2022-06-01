@@ -373,6 +373,6 @@ Not included by default, but there are the instructions in the [Ultrawide Fixes 
 
 ## Contact
 
-Trawzified and Luca are usually available on the [Wabbajack Discord](https://discord.gg/wabbajack). You may also message us on GitHub. Mod suggestions are alright, but keep in mind that they should be within the scope of the project.
+Trawzified and Luca are usually available on the [Phoenix & Friends Discord](https://discord.gg/BpwXX5f). You may also message us on GitHub. Mod suggestions are alright, but keep in mind that they should be within the scope of the project.
 
 **Do not contact mod authors with issues, approach us first. It's far more likely that there's an issue with this list rather than their mod, and we don't want to waste their time.**
