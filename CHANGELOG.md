@@ -1,5 +1,18 @@
 # Changelog
 
+## 2.3.1 | 04.06.2022
+
+- fixed:
+  - controllers not working as intended.
+- updated:
+  - More Informative Console
+  - Assorted mesh fixes
+  - Dwemer Gates Don't Reset
+  - Better Jumping SE
+  - Equipment Enchantment Fix
+  - powerofthree's Papyrus Extender for SSE
+  - Bodyslide and Outfit Studio
+
 ## 2.3 | 22.05.2022
 
 - downgraded DynDOLOD to the "stable" 2.0 version
