@@ -21,7 +21,7 @@ Originally created by Luca (EzioTheDeadPoet), now maintained by trawzified and L
       1. [Required Accounts](#required-accounts)
       2. [Pre-Installation](#pre-installation)
          1. [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
-         2. [Installing .NET 5.0](#installing-net-50)
+         2. [Installing .NET 6.0](#installing-net-60)
          3. [Steam Config](#steam-config)
             1. [Game Location](#game-location)
             2. [Disable the Steam Overlay](#disable-the-steam-overlay)
@@ -115,12 +115,12 @@ I doubt you need to do this since you likely already have this installed. The pa
 
 |[Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe)|
 
-#### Installing .NET 5.0
+#### Installing .NET 6.0
 
 This is a needed dependency for mods used with this list.
-So please make sure to install it to avoid any issues. Download the desktop app x64 AND the console app x64 versions from [Microsoft](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
+So please make sure to install it to avoid any issues. Download the desktop app x64 AND the console app x64 versions from [Microsoft](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime).
 
-[Direct Link Desktop](https://download.visualstudio.microsoft.com/download/pr/1daf85dc-291b-4bb8-812e-a0df5cdb6701/85455a4a851347de26e2901e043b81e1/windowsdesktop-runtime-5.0.12-win-x64.exe) | [Direct Link Console](https://download.visualstudio.microsoft.com/download/pr/28b0479a-2ca7-4441-97f2-64a3d64b2ea4/9995401dac4787a2d1104c73c4356f4d/dotnet-runtime-5.0.12-win-x64.exe)
+[Direct Link Desktop](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.5-windows-x64-installer) | [Direct Link Console](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-6.0.5-windows-x64-installer)
 
 #### Steam Config
 
