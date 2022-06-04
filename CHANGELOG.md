@@ -1,6 +1,6 @@
 # Changelog
 
-## 2.3.1 | 04.06.2022
+## 2.4 | 04.06.2022
 
 - fixed:
   - controllers not working as intended.
