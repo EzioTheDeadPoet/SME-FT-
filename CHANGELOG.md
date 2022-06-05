@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.4.3 | 04.06.2022
+
+- fixed:
+  - the last wrong path...
+
 ## 2.4.2 | 04.06.2022
 
 - fixed:
