@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.4.2 | 04.06.2022
+
+- fixed:
+  - xEdit related paths being set wrong.
+
 ## 2.4.1 | 04.06.2022
 
 - fixed:
