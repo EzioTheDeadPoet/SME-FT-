@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.4.4 | 24.06.2022
+
+- added Racemenu Memory Leak Fix
+- updated included mods
+
 ## 2.4.3 | 04.06.2022
 
 - fixed:
