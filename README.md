@@ -255,8 +255,8 @@ You can replace it with the 3.0 alpha builds but maintaining those frequent upda
 
 For Nemesis to work with Stock Game, you need to adjust one of the lines in the Nemesis ini. To do this, complete the following steps.
 
-1. Open the Nemesis mod and go to the `Ini Files` tab.
-2. Select `Nemesis.Ini`
+1. Open the `Nemesis` (double click it in the `Modder resources` section) mod and go to the `INI Files` tab.
+2. Select `Nemesis.ini`
 3. In the `SkyrimDataDirectory` line, change `auto` to the location of your data directory.
 4. Save the ini file.
 
