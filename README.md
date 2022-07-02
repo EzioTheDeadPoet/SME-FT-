@@ -257,10 +257,10 @@ For Nemesis to work with Stock Game, you need to adjust one of the lines in the 
 
 1. Open the `Nemesis` (double click it in the `Modder resources` section) mod and go to the `INI Files` tab.
 2. Select `Nemesis.ini`
-3. In the `SkyrimDataDirectory` line, change `auto` to the location of your data directory.
+3. In the `SkyrimDataDirectory` line, change `auto` to the location of your `data` directory. (`{list install location}\Skyrim Special Edition\Data`)
 4. Save the ini file.
 
-The picture below shows how the ini file should look.
+The picture below shows how the ini file should look (The path listed in the image is an EXAMPLE).
 
 ![alt text](https://raw.githubusercontent.com/LivelyDismay/Learn-To-Mod/main/images/Stock%20Game%209.png)
 
