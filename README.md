@@ -13,11 +13,12 @@ Originally created by Luca (EzioTheDeadPoet), now maintained by trawzified and L
 
 1. [SME(FT) - Skyrim Modding Essentials (Fixes & Tools)](#smeft---skyrim-modding-essentials-fixes--tools)
    1. [Index](#index)
-   2. [Description](#description)
+   2. [IMPORTANT INFORMATION](#important-information)
+   3. [Description](#description)
       1. [What's included in this list?](#whats-included-in-this-list)
          1. [Tools](#tools)
          2. [Mods](#mods)
-   3. [Installation](#installation)
+   4. [Installation](#installation)
       1. [Required Accounts](#required-accounts)
       2. [Pre-Installation](#pre-installation)
          1. [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
@@ -49,17 +50,22 @@ Originally created by Luca (EzioTheDeadPoet), now maintained by trawzified and L
          7. [PCA SE](#pca-se)
          8. [LOOT](#loot)
          9. [BethINI / Visuals](#bethini--visuals)
-   4. [How to Launch SME(FT)](#how-to-launch-smeft)
-   5. [Updating](#updating)
-   6. [Ultrawide Fix](#ultrawide-fix)
-   7. [FAQ](#faq)
+         10. [Creation Club / Anniversary Edition Upgrade Content](#creation-club--anniversary-edition-upgrade-content)
+   5. [How to Launch SME(FT)](#how-to-launch-smeft)
+   6. [Updating](#updating)
+   7. [Ultrawide Fix](#ultrawide-fix)
+   8. [FAQ](#faq)
       1. [Are there ultrawide options available?](#are-there-ultrawide-options-available)
-   8. [Credits and Thanks](#credits-and-thanks)
-   9. [Contact](#contact)
+   9. [Credits and Thanks](#credits-and-thanks)
+   10. [Contact](#contact)
+
+## IMPORTANT INFORMATION
+
+**Wabbajack modlists install their OWN independent instance of Mod Organizer 2. They don't work with Mod Organizer instances you installed yourself.**
+
+**This list might require the latest Steam version of Skyrim SE(Special Edition)/AE(Anniversary Edition) installed, BUT it will downgrade it to version 1.5.97 due to the greater compatibility of that version with mods. You can however still use the AE included and bought via DLC Creation Club mods.**
 
 ## Description
-
-**This list might require the latest Steam version of Skyrim SE/AE installed, BUT it will downgrade it to version 1.5.97 due to the greater compatibility of that version with mods. You can however still use the AE included and bought via DLC Creation Club mods.**
 
 This modlist is a utility for modders, to speed up their initial modding setup, or for people who want to play vanilla Skyrim with all the unofficial patches and fixes.
 It can also be utilized as a test bench for developing new mods on a stable base.
@@ -317,9 +323,13 @@ After the installation is finished, go to your installation directory (`C:\SMEFT
 
 Go back to the Basic tab, check the box next to *Recommended Tweaks* and select the preset you think is right for your PC. Modern PCs should be fine with the *Medium* or *High* preset. People with high end PCs - I would recommend against the *Ultra* preset even with your RTX 3090 and Ryzen 9 5950X, unless you're going for a screen archery setup. The lost performance is better spent upping the settings quality of your favorite ENB preset. Click *Save and Exit* after you've applied the settings.
 
+#### Creation Club / Anniversary Edition Upgrade Content
+
+
+
 ## How to Launch SME(FT)
 
-Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button. Under the run button, you can find a shortcut menu that allows you to make a desktop shortcut.
+Head over to the installation folder (**the place you choose to install the modlist to**) and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button. Under the run button, you can find a shortcut menu that allows you to make a desktop shortcut.
 
 *If the game doesn't launch correctly check [this](#windows-is-reporting-that-a-virus-has-been-detected) and the [pre-installation steps](#pre-installation) as those are the solution for the most common issues besides an failed installation.*
 
