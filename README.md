@@ -72,7 +72,7 @@ Originally created by Luca (EzioTheDeadPoet), now maintained by trawzified and L
 This modlist is a utility for modders, to speed up their initial modding setup, or for people who want to play vanilla Skyrim with all the unofficial patches and fixes.
 It can also be utilized as a test bench for developing new mods on a stable base.
 
-If you want to learn more about modding Skyrim, you could read up on it on [the /r/skyrimmods wiki](https://www.reddit.com/r/skyrimmods/wiki/begin2) or follow the [lessons on the Learn to Mod page](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/Main.md) on how to get started.
+If you want to learn more about modding Skyrim, you could read up on it on [the /r/skyrimmods wiki](https://www.reddit.com/r/skyrimmods/wiki/begin2) or follow the [Guides by Lively](https://github.com/LivelyDismay/Learn-To-Mod/wiki) & [modding resources by The-Animonculory](https://github.com/The-Animonculory/Modding-Resources) on how to get started and into modding.
 
 ### What's included in this list?
 
