@@ -329,11 +329,11 @@ Use [Anniversary Edition Content Picker](https://www.nexusmods.com/skyrimspecial
 
 Guide made by the author of the content picker:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/63vss_VlPnc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/63vss_VlPnc" title="Anniversary Edition Content Picker" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Gamerpoets guide to the content picker:
 
-<iframe width="500" height="306" src="https://www.youtube.com/embed/l0og7zWE87I" title="Skyrim Anniversary Edition Content Picker" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/l0og7zWE87I" title="Skyrim Anniversary Edition Content Picker" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## How to Launch SME(FT)
 
