@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.5.0 | 13.07.2022
+
+- added MCM Helper (Why did I think I already had it included before. 😅)
+- updated Assorted Mesh Fixes
+
 ## 2.4.4 | 24.06.2022
 
 - added Racemenu Memory Leak Fix
