@@ -7,8 +7,6 @@
 
 **This modlist is meant as a basis to start your own Skyrim modding journey, it includes all the essential fixes & tools.**
 
-Originally created by Luca (EzioTheDeadPoet), now maintained by trawzified and Luca.
-
 ## Index
 
 1. [SME(FT) - Skyrim Modding Essentials (Fixes & Tools)](#smeft---skyrim-modding-essentials-fixes--tools)
@@ -218,9 +216,9 @@ The download and installation process can take a very long time depending on you
 
 The Nexus Mods file is only linked, because it is likely to cause issues because of the file size, which sometimes causes Wabbajack to fail the download.
 
-| Host | Mod  | Author | Website | Download |
-|------|------|--------|---------|----------|
-|X|X|X|X|X|
+| Host      | Mod | Author | Website   | Download |
+|-----------|-----|--------|-----------|----------|
+| currently | no  | manual | downloads | required |
 
 ##### Problems with Wabbajack
 
@@ -388,11 +386,11 @@ Not included by default, but there are the instructions in the [Ultrawide Fixes 
 - ForgottenGlory for making SME(FT) possible due to his early support
 - Halgari and everyone on the Wabbajack Team
 - All the mod authors that made the mods featured in this list
-- Luca for originally creating SME(FT)
+- trawzified for maintaining SME(FT) for some time
 - Special thanks to all the other people listed [here](https://eziothedeadpoet.github.io/AboutMe/HALLOFFAME.html) that support the project
 
 ## Contact
 
-Trawzified and Luca are usually available on the [Phoenix & Friends Discord](https://discord.gg/BpwXX5f). You may also message us on GitHub. Mod suggestions are alright, but keep in mind that they should be within the scope of the project.
+We are available on the [Phoenix & Friends Discord](https://discord.gg/BpwXX5f). Mod suggestions are alright, but keep in mind that they should be within the scope of the project.
 
 **Do not contact mod authors with issues, approach us first. It's far more likely that there's an issue with this list rather than their mod, and we don't want to waste their time.**

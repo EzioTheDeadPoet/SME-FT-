@@ -1,5 +1,7 @@
 # Changelog
 
+> **Note:** Changelogs might be updated before the actual update is released so manually check your version numbers!
+
 ## 2.5.0 | 13.07.2022
 
 - added MCM Helper (Why did I think I already had it included before. 😅)
