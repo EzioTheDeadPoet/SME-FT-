@@ -2,10 +2,14 @@
 
 ![(thumbnail alt text)](SME-FT-Thumbnail.webp)
 
-![status](https://img.shields.io/badge/dynamic/json?label=Status&query=Status&url=https%3A%2F%2Fraw.githubusercontent.com%2Fwabbajack-tools%2Fmod-lists%2Fmaster%2Freports%2Fsmeft%2Fstatus.json&style=for-the-badge)
+![status](https://img.shields.io/badge/Status-Discontinued-red?style=for-the-badge)
 ![version](https://img.shields.io/badge/dynamic/json?label=version&query=%24%5B%3F%28%40.links.machineURL%3D%3D%22smeft%22%29%5D.version&url=https%3A%2F%2Fraw.githubusercontent.com%2Fwabbajack-tools%2Fmod-lists%2Fmaster%2Fmodlists.json&style=for-the-badge)
 
-**This modlist is meant as a basis to start your own Skyrim modding journey, it includes all the essential fixes & tools.**
+**This Project is discontinued, please use [Skyrim Modding Essentials by Phoenix](https://thephoenixflavour.com/sme/) instead. The following instructions are only left online for archival use. And as a memory to the work that was put into it.**
+
+The old content starts here:
+
+**This modlist was meant as a basis to start your own Skyrim modding journey, it included all the essential fixes & tools.**
 
 ## Index
 

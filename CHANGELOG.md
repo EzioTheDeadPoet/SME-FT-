@@ -2,6 +2,10 @@
 
 > **Note:** Changelogs might be updated before the actual update is released so manually check your version numbers!
 
+## 19.07.2022
+
+**Starting today the list is discontinued. I recommend using [Skyrim Modding Essentials by Phoenix](https://thephoenixflavour.com/sme/) instead.**
+
 ## 2.5.0 | 13.07.2022
 
 - added MCM Helper (Why did I think I already had it included before. 😅)
